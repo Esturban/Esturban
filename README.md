@@ -1,4 +1,4 @@
-Welcome to my Github 👋  
+Hello there 👋  
 
 ![](https://media.giphy.com/media/BTuF8rhHsnosLQPpGB/giphy.gif)
 
