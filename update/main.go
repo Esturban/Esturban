@@ -11,21 +11,6 @@ import (
 )
 
 func makeReadme(filename string) error {
-	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://victoria.dev/index.xml")
-	if err != nil {
-		log.Fatalf("error getting feed: %v", err)
-	}
-	// Get the freshest item
-	//blogItem := feed.Items[0]
-
-	wc, err := fp.ParseURL("https://victoria.dev/wc/index.xml")
-	if err != nil {
-		log.Fatalf("error getting feed: %v", err)
-	}
-	// Add this much magic
-	//wcItem := wc.Items[0]
-
 	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
