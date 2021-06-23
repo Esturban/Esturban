@@ -24,7 +24,8 @@ func makeReadme(filename string) error {
 	}
 	// Add this much magic
 	//wcItem := wc.Items[0]
-
+    fmt.Println(feed.Title)
+    fmt.Println(wc.Title)
 	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
