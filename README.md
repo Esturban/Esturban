@@ -2,7 +2,7 @@
 
 ## Engineer / Developer / Product Development / Traveler
 
-<p align="center">[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/valest/" target="_blank"><img src="https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin" /></a>
 
