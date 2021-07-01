@@ -31,7 +31,7 @@ func makeReadme(filename string) error {
 	// Whisk together static and dynamic content until stiff peaks form
 	nav := "# <video autoplay=\"\" height=\"32\" data-vscid=\"wxo1z48g0\"><source src=\"https://www.estebanvalencia.com/me/tux.webm\" type=\"video/webm\"></video> Esteban Valencia"
 	header := "## Engineer / Developer / Product Development / Traveler"
-	ghs := "[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)"
+	ghs := "<p align=\"center\">[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)</p>"
     lk := "<a href=\"https://www.linkedin.com/in/valest/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin\" /></a>"
     social := lk
 	blog := "<p align=\"center\"><img src=\"https://media.giphy.com/media/BTuF8rhHsnosLQPpGB/giphy.gif\" alt = \"ZTFO\"/></p>"
