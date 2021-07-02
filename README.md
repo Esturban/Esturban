@@ -1,4 +1,4 @@
-# <video autoplay="" height="32" data-vscid="wxo1z48g0"><source src="https://www.estebanvalencia.com/me/tux.webm" type="video/webm"></video> Esteban Valencia
+# <img height = "32" src="https://avatars.githubusercontent.com/u/19675423?v=4"/> Esteban Valencia
 
 ## Engineer / Developer / Product Development / Traveler
 
