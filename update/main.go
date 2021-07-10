@@ -35,9 +35,9 @@ func makeReadme(filename string) error {
 	ws := "[![Esturban's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Esturban&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
     lk := "<a href=\"https://www.linkedin.com/in/valest/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin\" /></a>"
     social := lk
-	blog := "<p align=\"center\"><img src=\"https://media.giphy.com/media/BTuF8rhHsnosLQPpGB/giphy.gif\" alt = \"ZTFO\"/></p>"
+	pic := "![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)"
 	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", nav, header, ghs, ws, social, blog, updated)
+	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", nav, header, ghs, ws, social, pic, updated)
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)
