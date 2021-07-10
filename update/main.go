@@ -37,7 +37,7 @@ func makeReadme(filename string) error {
     social := lk
 	pic := "![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)"
 	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", nav, header, ghs, ws, social, pic, updated)
+	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", nav, header, ghs, ws, social, pic, updated)
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)
