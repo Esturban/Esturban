@@ -36,7 +36,7 @@ func makeReadme(filename string) error {
     lk := "<a href=\"https://www.linkedin.com/in/valest/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin\" /></a>"
     social := lk
 	pic := "![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)"
-	updated := "<sub>Last updated by magic on " + date + ".</sub>"
+	updated := "<sub>Last updated automagically on " + date + ".</sub>"
 	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", nav, header, ghs, ws, social, pic, updated)
 
 	// Prepare file with a light coating of os
