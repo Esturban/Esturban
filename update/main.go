@@ -26,7 +26,7 @@ func makeReadme(filename string) error {
 	//wcItem := wc.Items[0]
     fmt.Println(feed.Title)
     fmt.Println(wc.Title)
-	date := time.Now().Format("2 Jan 2006")
+	date := time.Now().Format("2 Jan 2006 3:04 PM")
 
 	// Whisk together static and dynamic content until stiff peaks form
 	nav := "# <video autoplay=\"\" height=\"32\" data-vscid=\"wxo1z48g0\"><source src=\"https://www.estebanvalencia.com/me/tux.webm\" type=\"video/webm\"></video> Esteban Valencia"
