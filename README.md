@@ -4,8 +4,9 @@
 
 [![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Esturban's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Esturban&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/valest/" target="_blank"><img src="https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin" /></a>
 
 <p align="center"><img src="https://media.giphy.com/media/BTuF8rhHsnosLQPpGB/giphy.gif" alt = "ZTFO"/></p>
-
-<sub>Last updated by magic on 10 Jul 2021.</sub>
+%!(EXTRA string=<sub>Last updated by magic on 10 Jul 2021.</sub>)
