@@ -9,4 +9,5 @@
 <a href="https://www.linkedin.com/in/valest/" target="_blank"><img src="https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin" /></a>
 
 ![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)
-%!(EXTRA string=<sub>Last updated by magic on 10 Jul 2021.</sub>)
+
+<sub>Last updated by magic on 10 Jul 2021.</sub>
