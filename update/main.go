@@ -32,7 +32,7 @@ func makeReadme(filename string) error {
 	nav := "# <video autoplay=\"\" height=\"32\" data-vscid=\"wxo1z48g0\"><source src=\"https://www.estebanvalencia.com/me/tux.webm\" type=\"video/webm\"></video> Esteban Valencia"
 	header := "## Engineer / Developer / Product Development / Traveler"
 	ghs := "[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)"
-	ws := " <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Esturban&layout=compact&theme=dark&langs_count=8&custom_title=Dialects"/>"
+	ws := " <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/wakatime?username=Esturban&layout=compact&theme=dark&langs_count=8&custom_title=Dialects\"/>"
     lk := "<a href=\"https://www.linkedin.com/in/valest/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin\" /></a>"
     social := lk
 	pic := "![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)"
