@@ -10,7 +10,7 @@ import (
 func main() {
 
     // Open our jsonFile
-    jsonFile, err := os.Open("C:/Users/evalencia/OneDrive/01_dataprojects/_tasks/evdotcom_20190923/_site/data/quotes.json")
+    jsonFile, err := os.Open("./data/quotes.json")
     // if we os.Open returns an error then handle it
     if err != nil {
         fmt.Println(err)
