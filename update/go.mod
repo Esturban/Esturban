@@ -1,5 +1,5 @@
 module github.com/esturban/esturban/update
 
-go 1.14
+go 1.22.2
 
-require github.com/mmcdole/gofeed v1.0.0 // indirect
+require github.com/mmcdole/gofeed v1.3.0 // indirect
