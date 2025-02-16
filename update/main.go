@@ -19,14 +19,15 @@ func makeReadme(filename string) error {
 	// Get the freshest item
 	//blogItem := feed.Items[0]
 
-	wc, err := fp.ParseURL("https://estebanvalencia.com/index.xml")
-	if err != nil {
-		log.Fatalf("error getting feed: %v", err)
-	}
+	// Remove the redundant feed parsing
+	//wc, err := fp.ParseURL("https://estebanvalencia.com/index.xml")
+	//if err != nil {
+	//	log.Fatalf("error getting feed: %v", err)
+	//}
 	// Add this much magic
 	//wcItem := wc.Items[0]
 	fmt.Println(feed.Title)
-	fmt.Println(wc.Title)
+	//fmt.Println(wc.Title)
 	date := time.Now().Format("2 Jan 2006 3:4:5 pm")
 
 	// Whisk together static and dynamic content until stiff peaks form
