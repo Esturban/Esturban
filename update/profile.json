@@ -1,0 +1,122 @@
+{
+  "name": "Esteban Valencia",
+  "portfolioUrl": "https://works.estebanvalencia.com",
+  "portfolioLabel": "works.estebanvalencia.com",
+  "linkedInUrl": "https://linkedin.com/in/valest",
+  "resumeUrl": "https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link",
+  "githubUrl": "https://github.com/Esturban",
+  "hero": {
+    "title": "I build AI, data, and automation systems that turn messy inputs into productized tools, APIs, and decision workflows.",
+    "body": "This profile is the technical layer: active builds, open-source proof, private work I can describe publicly, and the AI signals I keep an eye on every day."
+  },
+  "now": [
+    "Building retrieval, validation, and scoring systems across AI + data workflows.",
+    "Shipping repo-native tools like `ingo`, `niche-radar`, and job-data utilities.",
+    "Using geospatial, finance, and ML where they sharpen decision systems instead of living as separate silos.",
+    "Keeping a live pulse on new models, practical tooling, and benchmark movement through AI Radar."
+  ],
+  "activeBuilds": [
+    {
+      "name": "niche-radar",
+      "url": "https://github.com/Esturban/niche-radar",
+      "summary": "Niche finder backed by external sources, built to turn noisy market inputs into decision-ready signals."
+    },
+    {
+      "name": "ingo",
+      "url": "https://github.com/Esturban/ingo",
+      "summary": "Shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime."
+    },
+    {
+      "name": "li-jobs",
+      "url": "https://github.com/Esturban/li-jobs",
+      "summary": "Jobs collection API surface for scraping, normalization, and downstream job-data workflows."
+    }
+  ],
+  "openSourceTools": [
+    {
+      "name": "open_ksa",
+      "url": "https://github.com/Esturban/open_ksa",
+      "summary": "Python utility for working with Saudi Arabia's open data platform across thousands of datasets."
+    },
+    {
+      "name": "tidyup",
+      "url": "https://github.com/Esturban/tidyup",
+      "summary": "CLI utility for sorting files and folders by extension and date, built as reusable housekeeping tooling."
+    },
+    {
+      "name": "translagent",
+      "url": "https://github.com/Esturban/translagent",
+      "summary": "Translation app with transliteration and audio support, showing end-to-end AI product packaging."
+    }
+  ],
+  "privateSystems": [
+    {
+      "name": "Purchase-Likelihood Scoring Pipeline",
+      "summary": "Built and operationalized propensity scoring for campaign targeting, improving margin on retail marketing workflows."
+    },
+    {
+      "name": "Geodatabase Validation Toolkit",
+      "summary": "Private Python tooling for validating ESRI geodatabases and companion Excel deliverables against configurable rules."
+    },
+    {
+      "name": "ATS Scanner",
+      "summary": "Deterministic resume parsing and job-fit scoring service with explicit evaluation contracts and failure handling."
+    }
+  ],
+  "workWithMe": {
+    "title": "Work With Me",
+    "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation layer around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
+  },
+  "contribute": {
+    "title": "Contribute / Explore",
+    "body": "If you want to follow or contribute to the current public work, start with [`niche-radar`](https://github.com/Esturban/niche-radar), [`ingo`](https://github.com/Esturban/ingo), or [`open_ksa`](https://github.com/Esturban/open_ksa)."
+  },
+  "aiRadar": {
+    "enabled": true,
+    "maxItems": 3,
+    "recentWindowHours": 24,
+    "sources": [
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/feed.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/rss/"
+      },
+      {
+        "name": "DeepMind",
+        "url": "https://deepmind.google/blog/rss.xml"
+      },
+      {
+        "name": "Ollama",
+        "url": "https://ollama.com/blog/rss.xml"
+      },
+      {
+        "name": "Latent.Space",
+        "url": "https://www.latent.space/feed"
+      }
+    ],
+    "fallbackItems": [
+      {
+        "title": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "source": "Hugging Face"
+      },
+      {
+        "title": "OpenAI News",
+        "url": "https://openai.com/news",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Google DeepMind News",
+        "url": "https://deepmind.google/blog/",
+        "source": "DeepMind"
+      }
+    ]
+  }
+}
