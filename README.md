@@ -1,13 +1,58 @@
-# <video autoplay="" height="32" data-vscid="wxo1z48g0"><source src="https://www.estebanvalencia.com/me/tux.webm" type="video/webm"></video> Esteban Valencia
+# Esteban Valencia
 
-## Engineer / Developer / Product Development / Traveler
+I build AI, data, and automation systems that turn messy inputs into productized tools, APIs, and decision workflows.
 
-[![Esturban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esturban&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+This profile is the technical layer: active builds, open-source proof, private work I can describe publicly, and the AI signals I keep an eye on every day.
 
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esturban&layout=compact&theme=dark&title=Dialects"/>
+GitHub is the code-side companion to [works.estebanvalencia.com](https://works.estebanvalencia.com), where the broader portfolio, selected work, and case-study view live.
 
-<a href="https://www.linkedin.com/in/valest/" target="_blank"><img src="https://img.shields.io/badge/linkedin-valest-blue?style=for-the-badge&logo=linkedin" /></a>
+[Portfolio](https://works.estebanvalencia.com) · [LinkedIn](https://linkedin.com/in/valest) · [Resume](https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link)
+
+## Now
+
+- Building retrieval, validation, and scoring systems across AI + data workflows.
+- Shipping repo-native tools like `ingo`, `niche-radar`, and job-data utilities.
+- Using geospatial, finance, and ML where they sharpen decision systems instead of living as separate silos.
+- Keeping a live pulse on new models, practical tooling, and benchmark movement through AI Radar.
+
+## Active Builds
+
+- [niche-radar](https://github.com/Esturban/niche-radar) — Niche finder backed by external sources, built to turn noisy market inputs into decision-ready signals.
+- [ingo](https://github.com/Esturban/ingo) — Shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
+- [li-jobs](https://github.com/Esturban/li-jobs) — Jobs collection API surface for scraping, normalization, and downstream job-data workflows.
+
+## Open Source Tools
+
+- [open_ksa](https://github.com/Esturban/open_ksa) — Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
+- [tidyup](https://github.com/Esturban/tidyup) — CLI utility for sorting files and folders by extension and date, built as reusable housekeeping tooling.
+- [translagent](https://github.com/Esturban/translagent) — Translation app with transliteration and audio support, showing end-to-end AI product packaging.
+
+## Private Systems I Can Describe Publicly
+
+- **Purchase-Likelihood Scoring Pipeline** — Built and operationalized propensity scoring for campaign targeting, improving margin on retail marketing workflows.
+- **Geodatabase Validation Toolkit** — Private Python tooling for validating ESRI geodatabases and companion Excel deliverables against configurable rules.
+- **ATS Scanner** — Deterministic resume parsing and job-fit scoring service with explicit evaluation contracts and failure handling.
+
+## AI Radar
+
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face · 9 Apr 2026
+- [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
+- [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) — DeepMind · 2 Apr 2026
+
+Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
+
+## Work With Me
+
+If you need someone who can connect model behavior, data systems, APIs, and the automation layer around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest).
+
+## Contribute / Explore
+
+If you want to follow or contribute to the current public work, start with [`niche-radar`](https://github.com/Esturban/niche-radar), [`ingo`](https://github.com/Esturban/ingo), or [`open_ksa`](https://github.com/Esturban/open_ksa).
+
+## Full Portfolio
+
+For the polished portfolio, selected work, and fuller capability map, head to [works.estebanvalencia.com](https://works.estebanvalencia.com).
 
 ![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)
 
-<sub>Last updated automagically on 10 Apr 2026 11:27:49 am.</sub>
+<sub>Rendered from structured profile data plus the latest stable AI Radar selection.</sub>
