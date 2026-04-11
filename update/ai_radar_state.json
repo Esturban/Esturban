@@ -1,0 +1,38 @@
+{
+  "recent": [
+    {
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "seenAt": "2026-04-11T02:42:06Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-11T02:42:06Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
+      "seenAt": "2026-04-11T02:42:06Z"
+    }
+  ],
+  "lastItems": [
+    {
+      "title": "Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "source": "Hugging Face",
+      "publishedAt": "2026-04-09T00:00:00Z"
+    },
+    {
+      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
+      "url": "https://www.latent.space/p/moonlake",
+      "source": "Latent.Space",
+      "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
+      "publishedAt": "2026-04-02T17:55:29Z"
+    },
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "source": "DeepMind",
+      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "publishedAt": "2026-04-02T16:00:49Z"
+    }
+  ]
+}
