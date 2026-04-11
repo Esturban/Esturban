@@ -1,11 +1,15 @@
 name: update
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
   schedule:
-    - cron: '11 11 * * *'
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -13,17 +17,29 @@ jobs:
 
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - name: 🍳 Shake & bake README
+
+      - name: ☕ Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: update/go.mod
+          cache-dependency-path: update/go.sum
+
+      - name: 🍳 Render profile
         run: |
           cd ${GITHUB_WORKSPACE}/update/
-          go run main.go
-      - name: 🚀 Deploy
+          go run .
+
+      - name: 🚀 Commit changes if needed
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          git commit -am "Update dynamic content"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git add README.md update/ai_radar_state.json
+          if git diff --cached --quiet; then
+            echo "No README or AI Radar changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update profile radar"
+          git push
