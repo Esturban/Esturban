@@ -160,15 +160,7 @@ func buildAIRadar(cfg aiRadarConfig, state radarState, now time.Time) ([]radarIt
 	}
 
 	candidates := fetchFeedItems(cfg.Sources)
-	primary := selectTopItems(candidates, cfg, now, nil)
-	selected := primary
-	recentURLs := recentURLMap(state, time.Duration(cfg.RecentWindowHours)*time.Hour, now)
-	if !sameItems(primary, state.LastItems) && len(recentURLs) > 0 {
-		deduped := selectTopItems(candidates, cfg, now, recentURLs)
-		if len(deduped) == cfg.MaxItems {
-			selected = deduped
-		}
-	}
+	selected := selectTopItems(candidates, cfg, now, nil)
 	if len(selected) == 0 {
 		selected = cloneItems(state.LastItems)
 	}
@@ -284,14 +276,6 @@ func selectTopItems(candidates []radarItem, cfg aiRadarConfig, now time.Time, bl
 		selected = selected[:cfg.MaxItems]
 	}
 	return selected
-}
-
-func recentURLMap(state radarState, window time.Duration, now time.Time) map[string]bool {
-	recent := make(map[string]bool, len(state.Recent))
-	for _, seen := range pruneState(state, window, now).Recent {
-		recent[canonicalURL(seen.URL)] = true
-	}
-	return recent
 }
 
 func pickItems(candidates []radarItem, limit int, blocked map[string]bool, uniqueSource bool) []radarItem {
@@ -476,7 +460,6 @@ func renderReadme(profile profileConfig, radar []radarItem) string {
 	writeCTA(&b, profile.Contribute)
 
 	fmt.Fprintf(&b, "## Full Portfolio\n\nFor the polished portfolio, selected work, and fuller capability map, head to [%s](%s).\n\n", profile.PortfolioLabel, profile.PortfolioURL)
-	fmt.Fprintf(&b, "![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)\n\n")
 	fmt.Fprintf(&b, "<sub>Rendered from structured profile data plus the latest stable AI Radar selection.</sub>\n")
 
 	return b.String()

@@ -35,8 +35,8 @@ GitHub is the code-side companion to [works.estebanvalencia.com](https://works.e
 
 ## AI Radar
 
-- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face · 9 Apr 2026
 - [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face · 9 Apr 2026
 - [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) — DeepMind · 2 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
@@ -52,7 +52,5 @@ If you want to follow or contribute to the current public work, start with [`nic
 ## Full Portfolio
 
 For the polished portfolio, selected work, and fuller capability map, head to [works.estebanvalencia.com](https://works.estebanvalencia.com).
-
-![Snake animation](https://github.com/Esturban/Esturban/blob/output/github-contribution-grid-snake.svg)
 
 <sub>Rendered from structured profile data plus the latest stable AI Radar selection.</sub>
