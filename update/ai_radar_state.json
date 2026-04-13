@@ -1,54 +1,5 @@
 {
-  "recent": [
-    {
-      "url": "https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal",
-      "seenAt": "2026-04-12T00:29:32Z"
-    },
-    {
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "seenAt": "2026-04-12T00:29:32Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference",
-      "seenAt": "2026-04-12T00:29:32Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
-      "seenAt": "2026-04-12T00:30:00Z"
-    },
-    {
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "seenAt": "2026-04-12T00:30:00Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live",
-      "seenAt": "2026-04-12T00:30:00Z"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "seenAt": "2026-04-12T00:30:25Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "seenAt": "2026-04-12T00:30:25Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers",
-      "seenAt": "2026-04-12T00:30:25Z"
-    },
-    {
-      "url": "https://www.latent.space/p/moonlake",
-      "seenAt": "2026-04-12T00:30:56Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "seenAt": "2026-04-12T00:30:56Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
-      "seenAt": "2026-04-12T00:30:56Z"
-    }
-  ],
+  "recent": null,
   "lastItems": [
     {
       "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
