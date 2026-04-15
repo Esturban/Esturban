@@ -1,25 +1,38 @@
 {
-  "recent": null,
+  "recent": [
+    {
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "seenAt": "2026-04-15T18:42:51Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
+      "seenAt": "2026-04-15T18:42:51Z"
+    },
+    {
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "seenAt": "2026-04-15T18:42:51Z"
+    }
+  ],
   "lastItems": [
     {
-      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
-      "url": "https://www.latent.space/p/moonlake",
-      "source": "Latent.Space",
-      "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
-      "publishedAt": "2026-04-02T17:55:29Z"
-    },
-    {
-      "title": "Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "source": "Hugging Face",
-      "publishedAt": "2026-04-09T00:00:00Z"
+      "publishedAt": "2026-04-15T12:07:25Z"
     },
     {
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "source": "DeepMind",
-      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-      "publishedAt": "2026-04-02T16:00:49Z"
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\"\u003eGemini 3.1 Flash TTS is now available across Google products.",
+      "publishedAt": "2026-04-15T15:00:00Z"
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "source": "OpenAI",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "publishedAt": "2026-04-15T10:00:00Z"
     }
   ]
 }
