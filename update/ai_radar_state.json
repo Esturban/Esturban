@@ -1,18 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "seenAt": "2026-04-15T18:42:51Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
-      "seenAt": "2026-04-15T18:42:51Z"
-    },
-    {
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "seenAt": "2026-04-15T18:42:51Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
       "seenAt": "2026-04-16T12:43:17Z"
     },
@@ -23,9 +11,27 @@
     {
       "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "seenAt": "2026-04-16T12:43:17Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "seenAt": "2026-04-16T18:43:37Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
+      "seenAt": "2026-04-16T18:43:37Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-16T18:43:37Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "source": "Hugging Face",
+      "publishedAt": "2026-04-16T00:00:00Z"
+    },
     {
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
@@ -39,12 +45,6 @@
       "source": "Latent.Space",
       "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
       "publishedAt": "2026-04-02T17:55:29Z"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-15T12:07:25Z"
     }
   ]
 }
