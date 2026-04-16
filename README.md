@@ -35,9 +35,9 @@ GitHub is the code-side companion to [works.estebanvalencia.com](https://works.e
 
 ## AI Radar
 
-- [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis) — Hugging Face · 15 Apr 2026
 - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) — Google AI · 15 Apr 2026
-- [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk) — OpenAI · 15 Apr 2026
+- [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
+- [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis) — Hugging Face · 15 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
