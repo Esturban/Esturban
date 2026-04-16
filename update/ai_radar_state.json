@@ -11,15 +11,21 @@
     {
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "seenAt": "2026-04-15T18:42:51Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
+      "seenAt": "2026-04-16T12:43:17Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-16T12:43:17Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "seenAt": "2026-04-16T12:43:17Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-15T12:07:25Z"
-    },
     {
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
@@ -28,11 +34,17 @@
       "publishedAt": "2026-04-15T15:00:00Z"
     },
     {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "source": "OpenAI",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "publishedAt": "2026-04-15T10:00:00Z"
+      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
+      "url": "https://www.latent.space/p/moonlake",
+      "source": "Latent.Space",
+      "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
+      "publishedAt": "2026-04-02T17:55:29Z"
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "source": "Hugging Face",
+      "publishedAt": "2026-04-15T12:07:25Z"
     }
   ]
 }
