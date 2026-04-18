@@ -1,18 +1,5 @@
 {
-  "recent": [
-    {
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "seenAt": "2026-04-16T18:43:37Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
-      "seenAt": "2026-04-16T18:43:37Z"
-    },
-    {
-      "url": "https://www.latent.space/p/moonlake",
-      "seenAt": "2026-04-16T18:43:37Z"
-    }
-  ],
+  "recent": null,
   "lastItems": [
     {
       "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
