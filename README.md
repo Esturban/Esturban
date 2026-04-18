@@ -36,8 +36,8 @@ GitHub is the code-side companion to [works.estebanvalencia.com](https://works.e
 ## AI Radar
 
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face · 16 Apr 2026
-- [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) — Google AI · 15 Apr 2026
 - [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
+- [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) — Google AI · 15 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
