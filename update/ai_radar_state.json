@@ -11,21 +11,33 @@
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
       "seenAt": "2026-04-18T18:30:44Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-19T01:06:23Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "seenAt": "2026-04-19T01:06:23Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
+      "seenAt": "2026-04-19T01:06:23Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-16T00:00:00Z"
-    },
     {
       "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
       "url": "https://www.latent.space/p/moonlake",
       "source": "Latent.Space",
       "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
       "publishedAt": "2026-04-02T17:55:29Z"
+    },
+    {
+      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "source": "Hugging Face",
+      "publishedAt": "2026-04-16T00:00:00Z"
     },
     {
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
