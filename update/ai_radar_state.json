@@ -1,5 +1,18 @@
 {
-  "recent": null,
+  "recent": [
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-21T18:41:22Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "seenAt": "2026-04-21T18:41:22Z"
+    },
+    {
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads",
+      "seenAt": "2026-04-21T18:41:22Z"
+    }
+  ],
   "lastItems": [
     {
       "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
@@ -15,11 +28,11 @@
       "publishedAt": "2026-04-16T00:00:00Z"
     },
     {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\"\u003eGemini 3.1 Flash TTS is now available across Google products.",
-      "publishedAt": "2026-04-15T15:00:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\"\u003eThree new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "publishedAt": "2026-04-21T14:30:00Z"
     }
   ]
 }
