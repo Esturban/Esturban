@@ -2,18 +2,6 @@
   "recent": [
     {
       "url": "https://www.latent.space/p/moonlake",
-      "seenAt": "2026-04-21T18:41:22Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "seenAt": "2026-04-21T18:41:22Z"
-    },
-    {
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads",
-      "seenAt": "2026-04-21T18:41:22Z"
-    },
-    {
-      "url": "https://www.latent.space/p/moonlake",
       "seenAt": "2026-04-22T12:41:42Z"
     },
     {
@@ -23,9 +11,28 @@
     {
       "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "seenAt": "2026-04-22T12:41:42Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "seenAt": "2026-04-22T18:41:41Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-22T18:41:41Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
+      "seenAt": "2026-04-22T18:41:41Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "source": "OpenAI",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "publishedAt": "2026-04-22T10:00:00Z"
+    },
     {
       "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
       "url": "https://www.latent.space/p/moonlake",
@@ -39,12 +46,6 @@
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\"\u003eThe eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "publishedAt": "2026-04-22T12:00:00Z"
-    },
-    {
-      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-16T00:00:00Z"
     }
   ]
 }
