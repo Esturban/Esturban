@@ -36,8 +36,8 @@ GitHub is the code-side companion to [works.estebanvalencia.com](https://works.e
 ## AI Radar
 
 - [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
+- [We're launching two specialized TPUs for the agentic era.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) — Google AI · 22 Apr 2026
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face · 16 Apr 2026
-- [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/) — Google AI · 21 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
