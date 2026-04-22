@@ -11,6 +11,18 @@
     {
       "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads",
       "seenAt": "2026-04-21T18:41:22Z"
+    },
+    {
+      "url": "https://www.latent.space/p/moonlake",
+      "seenAt": "2026-04-22T12:41:42Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
+      "seenAt": "2026-04-22T12:41:42Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "seenAt": "2026-04-22T12:41:42Z"
     }
   ],
   "lastItems": [
@@ -22,17 +34,17 @@
       "publishedAt": "2026-04-02T17:55:29Z"
     },
     {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\"\u003eThe eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "publishedAt": "2026-04-22T12:00:00Z"
+    },
+    {
       "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "source": "Hugging Face",
       "publishedAt": "2026-04-16T00:00:00Z"
-    },
-    {
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\"\u003eThree new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
-      "publishedAt": "2026-04-21T14:30:00Z"
     }
   ]
 }
