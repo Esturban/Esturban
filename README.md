@@ -35,8 +35,8 @@ GitHub is the code-side companion to [works.estebanvalencia.com](https://works.e
 
 ## AI Radar
 
+- [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) — OpenAI · 23 Apr 2026
 - [Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun](https://www.latent.space/p/moonlake) — Latent.Space · 2 Apr 2026
-- [Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt) — OpenAI · 22 Apr 2026
 - [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) — DeepMind · 2 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
