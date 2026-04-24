@@ -67,9 +67,12 @@
     "title": "Work With Me",
     "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation layer around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
   },
-  "contribute": {
-    "title": "Contribute / Explore",
-    "body": "If you want to follow or contribute to the current public work, start with [`niche-radar`](https://github.com/Esturban/niche-radar), [`ingo`](https://github.com/Esturban/ingo), or [`open_ksa`](https://github.com/Esturban/open_ksa)."
+  "githubStats": {
+    "enabled": true,
+    "username": "Esturban"
+  },
+  "meta": {
+    "enabled": true
   },
   "aiRadar": {
     "enabled": true,

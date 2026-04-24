@@ -33,7 +33,8 @@ type profileConfig struct {
 	OpenSourceTools []projectCard `json:"openSourceTools"`
 	PrivateSystems  []privateCard `json:"privateSystems"`
 	WorkWithMe      ctaBlock      `json:"workWithMe"`
-	Contribute      ctaBlock      `json:"contribute"`
+	GitHubStats     githubStats   `json:"githubStats"`
+	Meta            metaConfig    `json:"meta"`
 	AIRadar         aiRadarConfig `json:"aiRadar"`
 }
 
@@ -56,6 +57,15 @@ type privateCard struct {
 type ctaBlock struct {
 	Title string `json:"title"`
 	Body  string `json:"body"`
+}
+
+type githubStats struct {
+	Enabled  bool   `json:"enabled"`
+	Username string `json:"username"`
+}
+
+type metaConfig struct {
+	Enabled bool `json:"enabled"`
 }
 
 type aiRadarConfig struct {
@@ -89,6 +99,10 @@ type radarItem struct {
 	PublishedAt string `json:"publishedAt,omitempty"`
 }
 
+type githubRepoResp struct {
+	StargazersCount int `json:"stargazers_count"`
+}
+
 func main() {
 	profile, err := loadProfile(profilePath)
 	if err != nil {
@@ -102,7 +116,9 @@ func main() {
 
 	now := time.Now().UTC()
 	selected, nextState := buildAIRadar(profile.AIRadar, state, now)
-	readme := renderReadme(profile, selected)
+
+	stars := fetchAllStars(profile)
+	readme := renderReadme(profile, selected, stars)
 
 	if err := writeIfChanged(readmePath, []byte(readme)); err != nil {
 		failf("write readme: %v", err)
@@ -172,10 +188,9 @@ func buildAIRadar(cfg aiRadarConfig, state radarState, now time.Time) ([]radarIt
 	}
 
 	nextState := pruneState(state, time.Duration(cfg.RecentWindowHours)*time.Hour, now)
-	if sameItems(selected, state.LastItems) {
-		return selected, nextState
-	}
 
+	// Always update lastItems so the README reflects the current best selection.
+	// writeIfChanged handles idempotency — no need to short-circuit here.
 	nextState.LastItems = cloneItems(selected)
 	for _, item := range selected {
 		if item.URL == "" {
@@ -442,24 +457,89 @@ func itemScore(item radarItem, now time.Time) int {
 	return score
 }
 
-func renderReadme(profile profileConfig, radar []radarItem) string {
+// fetchStarCount hits the public GitHub API (unauthenticated) and returns the
+// star count for the given owner/repo. Returns -1 on any error so callers can
+// skip the star display gracefully.
+func fetchStarCount(owner, repo string) int {
+	url := fmt.Sprintf("https://api.github.com/repos/%s/%s", owner, repo)
+	client := &http.Client{Timeout: 8 * time.Second}
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		return -1
+	}
+	req.Header.Set("Accept", "application/vnd.github+json")
+	req.Header.Set("User-Agent", "readme-generator")
+	resp, err := client.Do(req)
+	if err != nil {
+		return -1
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return -1
+	}
+	var gh githubRepoResp
+	if err := json.NewDecoder(resp.Body).Decode(&gh); err != nil {
+		return -1
+	}
+	return gh.StargazersCount
+}
+
+// fetchAllStars returns a map of repo name → star count for all public repos
+// listed in the profile. Failures are silently ignored (star count omitted).
+func fetchAllStars(profile profileConfig) map[string]int {
+	owner := githubOwner(profile.GitHubURL)
+	if owner == "" {
+		return nil
+	}
+	stars := make(map[string]int)
+	repos := make([]projectCard, 0, len(profile.ActiveBuilds)+len(profile.OpenSourceTools))
+	repos = append(repos, profile.ActiveBuilds...)
+	repos = append(repos, profile.OpenSourceTools...)
+	for _, p := range repos {
+		n := fetchStarCount(owner, p.Name)
+		if n >= 0 {
+			stars[p.Name] = n
+		}
+	}
+	return stars
+}
+
+// githubOwner extracts the username from a GitHub profile URL.
+func githubOwner(githubURL string) string {
+	trimmed := strings.TrimSuffix(strings.TrimSpace(githubURL), "/")
+	parts := strings.Split(trimmed, "/")
+	if len(parts) == 0 {
+		return ""
+	}
+	return parts[len(parts)-1]
+}
+
+func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int) string {
 	var b strings.Builder
 
+	// Header
 	fmt.Fprintf(&b, "# %s\n\n", profile.Name)
 	fmt.Fprintf(&b, "%s\n\n", profile.Hero.Title)
 	fmt.Fprintf(&b, "%s\n\n", profile.Hero.Body)
 	fmt.Fprintf(&b, "GitHub is the code-side companion to [%s](%s), where the broader portfolio, selected work, and case-study view live.\n\n", profile.PortfolioLabel, profile.PortfolioURL)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
 
-	writeBullets(&b, "Now", profile.Now)
-	writeProjects(&b, "Active Builds", profile.ActiveBuilds)
-	writeProjects(&b, "Open Source Tools", profile.OpenSourceTools)
-	writePrivateSystems(&b, "Private Systems I Can Describe Publicly", profile.PrivateSystems)
-	writeAIRadar(&b, radar)
+	// CTA first — give visitors a clear path before they read anything else
 	writeCTA(&b, profile.WorkWithMe)
-	writeCTA(&b, profile.Contribute)
 
-	fmt.Fprintf(&b, "## Full Portfolio\n\nFor the polished portfolio, selected work, and fuller capability map, head to [%s](%s).\n\n", profile.PortfolioLabel, profile.PortfolioURL)
+	// Core content
+	writeBullets(&b, "Now", profile.Now)
+	writeProjects(&b, "Active Builds", profile.ActiveBuilds, stars)
+	writeProjects(&b, "Open Source Tools", profile.OpenSourceTools, stars)
+	writePrivateSystems(&b, "Private Systems I Can Describe Publicly", profile.PrivateSystems)
+
+	// Live signals
+	writeGitHubStats(&b, profile.GitHubStats)
+	writeAIRadar(&b, radar)
+
+	// Meta footer
+	writeMeta(&b, profile)
+
 	fmt.Fprintf(&b, "<sub>Rendered from structured profile data plus the latest stable AI Radar selection.</sub>\n")
 
 	return b.String()
@@ -476,13 +556,17 @@ func writeBullets(b *strings.Builder, title string, bullets []string) {
 	fmt.Fprintln(b)
 }
 
-func writeProjects(b *strings.Builder, title string, projects []projectCard) {
+func writeProjects(b *strings.Builder, title string, projects []projectCard, stars map[string]int) {
 	if len(projects) == 0 {
 		return
 	}
 	fmt.Fprintf(b, "## %s\n\n", title)
 	for _, project := range projects {
-		fmt.Fprintf(b, "- [%s](%s) — %s\n", project.Name, project.URL, project.Summary)
+		starStr := ""
+		if n, ok := stars[project.Name]; ok && n >= 0 {
+			starStr = fmt.Sprintf(" ★%d", n)
+		}
+		fmt.Fprintf(b, "- [%s](%s)%s — %s\n", project.Name, project.URL, starStr, project.Summary)
 	}
 	fmt.Fprintln(b)
 }
@@ -496,6 +580,17 @@ func writePrivateSystems(b *strings.Builder, title string, systems []privateCard
 		fmt.Fprintf(b, "- **%s** — %s\n", system.Name, system.Summary)
 	}
 	fmt.Fprintln(b)
+}
+
+func writeGitHubStats(b *strings.Builder, cfg githubStats) {
+	if !cfg.Enabled || cfg.Username == "" {
+		return
+	}
+	url := fmt.Sprintf(
+		"https://github-readme-stats.vercel.app/api?username=%s&show_icons=true&hide_border=true&count_private=true",
+		cfg.Username,
+	)
+	fmt.Fprintf(b, "![GitHub Stats](%s)\n\n", url)
 }
 
 func writeAIRadar(b *strings.Builder, radar []radarItem) {
@@ -514,6 +609,20 @@ func writeCTA(b *strings.Builder, block ctaBlock) {
 		return
 	}
 	fmt.Fprintf(b, "## %s\n\n%s\n\n", block.Title, block.Body)
+}
+
+func writeMeta(b *strings.Builder, profile profileConfig) {
+	if !profile.Meta.Enabled {
+		return
+	}
+	owner := githubOwner(profile.GitHubURL)
+	sourceURL := fmt.Sprintf("https://github.com/%s/%s/tree/main/update", owner, owner)
+	fmt.Fprintf(b, "## How this profile works\n\n")
+	fmt.Fprintf(b, "This README is generated by a Go program running on a 6-hour cron via GitHub Actions. ")
+	fmt.Fprintf(b, "It reads `profile.json` for structured content, fetches RSS feeds from Hugging Face, OpenAI, DeepMind, Ollama, Latent.Space, and Google AI, ")
+	fmt.Fprintf(b, "scores each item by recency and relevance, and writes the AI Radar section with the top picks. ")
+	fmt.Fprintf(b, "Star counts are fetched live from the GitHub API at render time.\n\n")
+	fmt.Fprintf(b, "Source: [update/](%s) · Portfolio: [%s](%s)\n\n", sourceURL, profile.PortfolioLabel, profile.PortfolioURL)
 }
 
 func publishedLabel(raw string) string {
@@ -554,18 +663,6 @@ func writeIfChanged(path string, content []byte) error {
 		return err
 	}
 	return os.WriteFile(path, content, 0o644)
-}
-
-func sameItems(left, right []radarItem) bool {
-	if len(left) != len(right) {
-		return false
-	}
-	for i := range left {
-		if left[i].Title != right[i].Title || canonicalURL(left[i].URL) != canonicalURL(right[i].URL) || left[i].Source != right[i].Source {
-			return false
-		}
-	}
-	return true
 }
 
 func cloneItems(items []radarItem) []radarItem {
