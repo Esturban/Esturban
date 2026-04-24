@@ -25,8 +25,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) — OpenAI · 23 Apr 2026
-- [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) — DeepMind · 2 Apr 2026
 - [We're launching two specialized TPUs for the agentic era.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) — Google AI · 22 Apr 2026
+- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face · 16 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

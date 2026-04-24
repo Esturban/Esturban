@@ -193,14 +193,24 @@ func buildAIRadar(cfg aiRadarConfig, state radarState, now time.Time) ([]radarIt
 	// Always update lastItems so the README reflects the current best selection.
 	// writeIfChanged handles idempotency — no need to short-circuit here.
 	nextState.LastItems = cloneItems(selected)
+
+	// Only log URLs not already present in recent to prevent per-cron bloat.
+	alreadySeen := make(map[string]bool, len(nextState.Recent))
+	for _, s := range nextState.Recent {
+		alreadySeen[s.URL] = true
+	}
 	for _, item := range selected {
 		if item.URL == "" {
 			continue
 		}
-		nextState.Recent = append(nextState.Recent, seenItem{
-			URL:    canonicalURL(item.URL),
-			SeenAt: now.Format(time.RFC3339),
-		})
+		u := canonicalURL(item.URL)
+		if !alreadySeen[u] {
+			nextState.Recent = append(nextState.Recent, seenItem{
+				URL:    u,
+				SeenAt: now.Format(time.RFC3339),
+			})
+			alreadySeen[u] = true
+		}
 	}
 	nextState = pruneState(nextState, time.Duration(cfg.RecentWindowHours)*time.Hour, now)
 	return selected, nextState
@@ -255,7 +265,7 @@ func selectTopItems(candidates []radarItem, cfg aiRadarConfig, now time.Time, bl
 	var freshCandidates []radarItem
 	for _, item := range candidates {
 		published := parseTime(item.PublishedAt)
-		if !published.IsZero() && now.Sub(published) > 45*24*time.Hour {
+		if !published.IsZero() && now.Sub(published) > 21*24*time.Hour {
 			continue
 		}
 		freshCandidates = append(freshCandidates, item)
