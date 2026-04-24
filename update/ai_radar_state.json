@@ -87,6 +87,10 @@
     {
       "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "seenAt": "2026-04-24T01:41:20Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "seenAt": "2026-04-24T12:40:48Z"
     }
   ],
   "lastItems": [
@@ -98,17 +102,17 @@
       "publishedAt": "2026-04-23T11:00:00Z"
     },
     {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "source": "Hugging Face",
+      "publishedAt": "2026-04-24T00:00:00Z"
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\"\u003eThe eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "publishedAt": "2026-04-22T12:00:00Z"
-    },
-    {
-      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-16T00:00:00Z"
     }
   ]
 }
