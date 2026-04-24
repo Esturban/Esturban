@@ -11,9 +11,7 @@
   },
   "now": [
     "Building retrieval, validation, and scoring systems across AI + data workflows.",
-    "Shipping repo-native tools like `ingo`, `niche-radar`, and job-data utilities.",
-    "Using geospatial, finance, and ML where they sharpen decision systems instead of living as separate silos.",
-    "Keeping a live pulse on new models, practical tooling, and benchmark movement through AI Radar."
+    "Shipping repo-native tools where geospatial, finance, and ML sharpen decisions — not live as silos."
   ],
   "activeBuilds": [
     {
@@ -67,6 +65,7 @@
     "title": "Work With Me",
     "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation layer around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
   },
+  "techStack": ["Go", "Python", "PostgreSQL", "Docker", "Bash", "GitHub Actions"],
   "githubStats": {
     "enabled": true,
     "username": "Esturban"

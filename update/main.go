@@ -29,6 +29,7 @@ type profileConfig struct {
 	GitHubURL       string        `json:"githubUrl"`
 	Hero            heroSection   `json:"hero"`
 	Now             []string      `json:"now"`
+	TechStack       []string      `json:"techStack"`
 	ActiveBuilds    []projectCard `json:"activeBuilds"`
 	OpenSourceTools []projectCard `json:"openSourceTools"`
 	PrivateSystems  []privateCard `json:"privateSystems"`
@@ -520,27 +521,29 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	// Header
 	fmt.Fprintf(&b, "# %s\n\n", profile.Name)
 	fmt.Fprintf(&b, "%s\n\n", profile.Hero.Title)
-	fmt.Fprintf(&b, "%s\n\n", profile.Hero.Body)
-	fmt.Fprintf(&b, "GitHub is the code-side companion to [%s](%s), where the broader portfolio, selected work, and case-study view live.\n\n", profile.PortfolioLabel, profile.PortfolioURL)
+	// Visitor counter — live badge, no config needed
+	owner := githubOwner(profile.GitHubURL)
+	fmt.Fprintf(&b, "![Profile Views](https://komarev.com/ghpvc/?username=%s&color=blue&style=flat-square&label=profile+views)\n\n", owner)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
 
-	// CTA first — give visitors a clear path before they read anything else
+	// CTA first
 	writeCTA(&b, profile.WorkWithMe)
 
-	// Core content
+	// Now — tight bullets
 	writeBullets(&b, "Now", profile.Now)
-	writeProjects(&b, "Active Builds", profile.ActiveBuilds, stars)
-	writeProjects(&b, "Open Source Tools", profile.OpenSourceTools, stars)
-	writePrivateSystems(&b, "Private Systems I Can Describe Publicly", profile.PrivateSystems)
 
-	// Live signals
+	// Tech stack badges
+	writeTechStack(&b, profile.TechStack)
+
+	// Private work — compact pointer to portfolio
+	writePrivateSystems(&b, profile.PrivateSystems, profile.PortfolioURL, profile.PortfolioLabel)
+
+	// Live signals: stats + streak side by side, then AI Radar
 	writeGitHubStats(&b, profile.GitHubStats)
 	writeAIRadar(&b, radar)
 
-	// Meta footer
+	// Collapsed meta footer
 	writeMeta(&b, profile)
-
-	fmt.Fprintf(&b, "<sub>Rendered from structured profile data plus the latest stable AI Radar selection.</sub>\n")
 
 	return b.String()
 }
@@ -571,26 +574,66 @@ func writeProjects(b *strings.Builder, title string, projects []projectCard, sta
 	fmt.Fprintln(b)
 }
 
-func writePrivateSystems(b *strings.Builder, title string, systems []privateCard) {
+func writePrivateSystems(b *strings.Builder, systems []privateCard, portfolioURL, portfolioLabel string) {
 	if len(systems) == 0 {
 		return
 	}
-	fmt.Fprintf(b, "## %s\n\n", title)
-	for _, system := range systems {
-		fmt.Fprintf(b, "- **%s** — %s\n", system.Name, system.Summary)
+	names := make([]string, len(systems))
+	for i, s := range systems {
+		names[i] = s.Name
 	}
-	fmt.Fprintln(b)
+	fmt.Fprintf(b, "**Private work:** %s — [%s](%s)\n\n", strings.Join(names, " · "), portfolioLabel, portfolioURL)
+}
+
+// techBadgeURL maps a tech label to its shields.io badge image URL.
+var techBadgeURL = map[string]string{
+	"Go":             "https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white",
+	"Python":         "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white",
+	"PostgreSQL":     "https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white",
+	"Docker":         "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white",
+	"Bash":           "https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white",
+	"GitHub Actions": "https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white",
+	"SQL":            "https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=amazondynamodb&logoColor=white",
+	"Rust":           "https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white",
+	"TypeScript":     "https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white",
+	"JavaScript":     "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black",
+	"Terraform":      "https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white",
+	"AWS":            "https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white",
+	"GCP":            "https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white",
+	"Redis":          "https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white",
+	"Kubernetes":     "https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white",
+}
+
+func writeTechStack(b *strings.Builder, stack []string) {
+	if len(stack) == 0 {
+		return
+	}
+	var badges []string
+	for _, tech := range stack {
+		if url, ok := techBadgeURL[tech]; ok {
+			badges = append(badges, fmt.Sprintf("![%s](%s)", tech, url))
+		}
+	}
+	if len(badges) == 0 {
+		return
+	}
+	fmt.Fprintf(b, "%s\n\n", strings.Join(badges, " "))
 }
 
 func writeGitHubStats(b *strings.Builder, cfg githubStats) {
 	if !cfg.Enabled || cfg.Username == "" {
 		return
 	}
-	url := fmt.Sprintf(
+	statsURL := fmt.Sprintf(
 		"https://github-readme-stats.vercel.app/api?username=%s&show_icons=true&hide_border=true&count_private=true",
 		cfg.Username,
 	)
-	fmt.Fprintf(b, "![GitHub Stats](%s)\n\n", url)
+	streakURL := fmt.Sprintf(
+		"https://streak-stats.demolab.com?user=%s&hide_border=true",
+		cfg.Username,
+	)
+	fmt.Fprintf(b, "![GitHub Stats](%s)\n", statsURL)
+	fmt.Fprintf(b, "![GitHub Streak](%s)\n\n", streakURL)
 }
 
 func writeAIRadar(b *strings.Builder, radar []radarItem) {
@@ -617,12 +660,10 @@ func writeMeta(b *strings.Builder, profile profileConfig) {
 	}
 	owner := githubOwner(profile.GitHubURL)
 	sourceURL := fmt.Sprintf("https://github.com/%s/%s/tree/main/update", owner, owner)
-	fmt.Fprintf(b, "## How this profile works\n\n")
-	fmt.Fprintf(b, "This README is generated by a Go program running on a 6-hour cron via GitHub Actions. ")
-	fmt.Fprintf(b, "It reads `profile.json` for structured content, fetches RSS feeds from Hugging Face, OpenAI, DeepMind, Ollama, Latent.Space, and Google AI, ")
-	fmt.Fprintf(b, "scores each item by recency and relevance, and writes the AI Radar section with the top picks. ")
-	fmt.Fprintf(b, "Star counts are fetched live from the GitHub API at render time.\n\n")
-	fmt.Fprintf(b, "Source: [update/](%s) · Portfolio: [%s](%s)\n\n", sourceURL, profile.PortfolioLabel, profile.PortfolioURL)
+	fmt.Fprintf(b,
+		"<sub>Live artifact — Go + GitHub Actions rewrites this every 6h, scoring 6 AI feeds by recency and relevance. [Source →](%s) · [LiveBench](https://livebench.ai)</sub>\n",
+		sourceURL,
+	)
 }
 
 func publishedLabel(raw string) string {
