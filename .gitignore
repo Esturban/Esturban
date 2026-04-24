@@ -1,5 +1,4 @@
 *.DS_Store
 .vscode
 .gstack/
-
-.gstack/
+update/update
