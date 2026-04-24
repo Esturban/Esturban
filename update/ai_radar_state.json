@@ -23,6 +23,18 @@
     {
       "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
       "seenAt": "2026-04-23T18:42:27Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "seenAt": "2026-04-24T00:48:29Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
+      "seenAt": "2026-04-24T00:48:29Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
+      "seenAt": "2026-04-24T00:48:29Z"
     }
   ],
   "lastItems": [
@@ -34,18 +46,18 @@
       "publishedAt": "2026-04-23T11:00:00Z"
     },
     {
-      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
-      "url": "https://www.latent.space/p/moonlake",
-      "source": "Latent.Space",
-      "summary": "We cap out our World Models coverage with one of the most exciting new approaches - long running, multiplayer, interactive world models built with agents bootstrapped from game engines!",
-      "publishedAt": "2026-04-02T17:55:29Z"
-    },
-    {
       "title": "Gemma 4: Byte for byte, the most capable open models",
       "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
       "source": "DeepMind",
       "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
       "publishedAt": "2026-04-02T16:00:49Z"
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\"\u003eThe eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "publishedAt": "2026-04-22T12:00:00Z"
     }
   ]
 }
