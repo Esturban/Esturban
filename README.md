@@ -26,7 +26,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) — OpenAI · 23 Apr 2026
 - [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) — Google AI · 24 Apr 2026
-- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face · 16 Apr 2026
+- [DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips](https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and) — Latent.Space · 25 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
