@@ -1,52 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "seenAt": "2026-04-24T01:02:22Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
-      "seenAt": "2026-04-24T01:02:22Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
-      "seenAt": "2026-04-24T01:02:22Z"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "seenAt": "2026-04-24T01:06:35Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
-      "seenAt": "2026-04-24T01:06:35Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
-      "seenAt": "2026-04-24T01:06:35Z"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "seenAt": "2026-04-24T01:15:10Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
-      "seenAt": "2026-04-24T01:15:10Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
-      "seenAt": "2026-04-24T01:15:10Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "seenAt": "2026-04-24T01:41:20Z"
-    },
-    {
       "url": "https://huggingface.co/blog/deepseekv4",
       "seenAt": "2026-04-24T12:40:48Z"
     },
     {
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips",
       "seenAt": "2026-04-25T01:00:58Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "seenAt": "2026-04-25T06:47:42Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+      "seenAt": "2026-04-25T06:47:42Z"
     }
   ],
   "lastItems": [
@@ -65,10 +33,11 @@
       "publishedAt": "2026-04-24T19:00:00Z"
     },
     {
-      "title": "Training and Finetuning Multimodal Embedding \u0026 Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-16T00:00:00Z"
+      "title": "DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
+      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+      "source": "Latent.Space",
+      "summary": "The prodigal Tiger returns... but is no longer the benchmarks leader.",
+      "publishedAt": "2026-04-25T05:00:48Z"
     }
   ]
 }
