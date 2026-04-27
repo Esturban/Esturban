@@ -24,9 +24,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) — DeepMind · 27 Apr 2026
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) — OpenAI · 23 Apr 2026
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face · 16 Apr 2026
-- [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) — Google AI · 24 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
