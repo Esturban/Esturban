@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "seenAt": "2026-04-27T01:08:25Z"
-    },
-    {
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea",
       "seenAt": "2026-04-27T07:13:58Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://openai.com/index/choco",
       "seenAt": "2026-04-27T18:45:53Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "seenAt": "2026-04-28T01:10:34Z"
     }
   ],
   "lastItems": [
@@ -30,18 +30,18 @@
       "publishedAt": "2026-04-27T13:00:00Z"
     },
     {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "source": "OpenAI",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "publishedAt": "2026-04-27T00:00:00Z"
-    },
-    {
       "title": "Announcing our partnership with the Republic of Korea",
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "source": "DeepMind",
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
       "publishedAt": "2026-04-27T07:00:06Z"
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source": "OpenAI",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "publishedAt": "2026-04-27T14:00:00Z"
     }
   ]
 }
