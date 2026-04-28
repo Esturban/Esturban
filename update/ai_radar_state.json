@@ -30,18 +30,18 @@
       "publishedAt": "2026-04-27T13:00:00Z"
     },
     {
-      "title": "Announcing our partnership with the Republic of Korea",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "source": "DeepMind",
-      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-      "publishedAt": "2026-04-27T07:00:06Z"
-    },
-    {
       "title": "OpenAI available at FedRAMP Moderate",
       "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "source": "OpenAI",
       "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
       "publishedAt": "2026-04-27T14:00:00Z"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "DeepMind",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "publishedAt": "2026-04-27T07:00:06Z"
     }
   ]
 }
