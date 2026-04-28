@@ -25,8 +25,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) — Google AI · 27 Apr 2026
-- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) — DeepMind · 27 Apr 2026
 - [OpenAI available at FedRAMP Moderate](https://openai.com/index/openai-available-at-fedramp-moderate) — OpenAI · 27 Apr 2026
+- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) — DeepMind · 27 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
