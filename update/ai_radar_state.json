@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea",
-      "seenAt": "2026-04-28T12:56:30Z"
-    },
-    {
       "url": "https://openai.com/index/openai-on-aws",
       "seenAt": "2026-04-28T18:51:32Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "seenAt": "2026-04-28T18:51:32Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "seenAt": "2026-04-29T18:49:50Z"
     }
   ],
   "lastItems": [
@@ -33,10 +33,10 @@
       "publishedAt": "2026-04-27T13:00:00Z"
     },
     {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
       "source": "Hugging Face",
-      "publishedAt": "2026-04-28T15:58:57Z"
+      "publishedAt": "2026-04-29T16:45:09Z"
     }
   ]
 }
