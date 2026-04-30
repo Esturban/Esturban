@@ -26,7 +26,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) — OpenAI · 28 Apr 2026
 - [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) — Google AI · 27 Apr 2026
-- [AI evals are becoming the new compute bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck) — Hugging Face · 29 Apr 2026
+- [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) — DeepMind · 30 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
