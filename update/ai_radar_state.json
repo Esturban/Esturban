@@ -11,6 +11,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026",
       "seenAt": "2026-04-30T01:10:53Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/ai-co-clinician",
+      "seenAt": "2026-04-30T18:48:36Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,11 @@
       "publishedAt": "2026-04-27T13:00:00Z"
     },
     {
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "source": "Hugging Face",
-      "publishedAt": "2026-04-29T16:45:09Z"
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "source": "DeepMind",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "publishedAt": "2026-04-30T12:14:15Z"
     }
   ]
 }
