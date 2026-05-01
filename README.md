@@ -24,9 +24,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work](https://www.latent.space/p/ainews-agents-for-everything-else) — Latent.Space · 1 May 2026
 - [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) — OpenAI · 28 Apr 2026
 - [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) — Google AI · 27 Apr 2026
-- [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) — DeepMind · 30 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

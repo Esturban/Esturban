@@ -11,9 +11,20 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026",
       "seenAt": "2026-05-01T01:16:16Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
+      "seenAt": "2026-05-01T07:13:12Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
+      "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
+      "source": "Latent.Space",
+      "summary": "a quiet day lets us reflect on coding agents \"breaking containment\"",
+      "publishedAt": "2026-05-01T04:53:41Z"
+    },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
@@ -27,13 +38,6 @@
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"\u003eGoogle is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "publishedAt": "2026-04-27T13:00:00Z"
-    },
-    {
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "source": "DeepMind",
-      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-      "publishedAt": "2026-04-30T12:14:15Z"
     }
   ]
 }
