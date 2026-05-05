@@ -15,6 +15,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
       "seenAt": "2026-05-05T01:06:04Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "seenAt": "2026-05-05T07:05:54Z"
     }
   ],
   "lastItems": [
@@ -33,11 +37,11 @@
       "publishedAt": "2026-05-04T15:30:00Z"
     },
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "source": "OpenAI",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "publishedAt": "2026-04-28T00:00:00Z"
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "publishedAt": "2026-05-04T21:00:00Z"
     }
   ]
 }
