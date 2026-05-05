@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-04T12:53:34Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
+      "seenAt": "2026-05-05T01:06:04Z"
     }
   ],
   "lastItems": [
@@ -22,18 +26,18 @@
       "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\"\u003eEvent-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+      "publishedAt": "2026-05-04T15:30:00Z"
+    },
+    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
       "source": "OpenAI",
       "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
       "publishedAt": "2026-04-28T00:00:00Z"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"\u003eGoogle is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "publishedAt": "2026-04-27T13:00:00Z"
     }
   ]
 }
