@@ -11,6 +11,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
       "seenAt": "2026-05-06T01:06:55Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-on-aws",
+      "seenAt": "2026-05-06T12:57:55Z"
     }
   ],
   "lastItems": [
@@ -22,18 +26,18 @@
       "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "source": "OpenAI",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "publishedAt": "2026-05-05T10:00:00Z"
-    },
-    {
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\"\u003eEvent-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "publishedAt": "2026-05-04T15:30:00Z"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "source": "OpenAI",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "publishedAt": "2026-04-28T00:00:00Z"
     }
   ]
 }

@@ -25,8 +25,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) — Latent.Space · 2 May 2026
-- [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant) — OpenAI · 5 May 2026
 - [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) — Google AI · 4 May 2026
+- [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) — OpenAI · 28 Apr 2026
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
