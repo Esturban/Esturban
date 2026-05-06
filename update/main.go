@@ -191,7 +191,7 @@ func buildAIRadar(cfg aiRadarConfig, state radarState, now time.Time) ([]radarIt
 	nextState := pruneState(state, time.Duration(cfg.RecentWindowHours)*time.Hour, now)
 
 	// Always update lastItems so the README reflects the current best selection.
-	// writeIfChanged handles idempotency — no need to short-circuit here.
+	// writeIfChanged handles idempotency, so there is no need to short-circuit here.
 	nextState.LastItems = cloneItems(selected)
 
 	// Only log URLs not already present in recent to prevent per-cron bloat.
@@ -528,10 +528,12 @@ func githubOwner(githubURL string) string {
 func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int) string {
 	var b strings.Builder
 
+	// Keep the rendered profile direct and readable. Avoid AI-coded punctuation habits
+	// like em-dash-heavy fragments and let the source copy do the voice work.
 	// Header
 	fmt.Fprintf(&b, "# %s\n\n", profile.Name)
 	fmt.Fprintf(&b, "%s\n\n", profile.Hero.Title)
-	// Visitor counter — live badge, no config needed
+	// Visitor counter: live badge, no config needed.
 	owner := githubOwner(profile.GitHubURL)
 	fmt.Fprintf(&b, "![Profile Views](https://komarev.com/ghpvc/?username=%s&color=blue&style=flat-square&label=profile+views)\n\n", owner)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
@@ -539,16 +541,16 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	// CTA first
 	writeCTA(&b, profile.WorkWithMe)
 
-	// Now — tight bullets
+	// Now: short bullets that read like a person, not a tagline generator.
 	writeBullets(&b, "Now", profile.Now)
 
 	// Tech stack badges
 	writeTechStack(&b, profile.TechStack)
 
-	// Private work — compact pointer to portfolio
+	// Private work: concise pointer to the portfolio without salesy framing.
 	writePrivateSystems(&b, profile.PrivateSystems, profile.PortfolioURL, profile.PortfolioLabel)
 
-	// Live signals: stats + streak side by side, then AI Radar
+	// Live signals: stats plus streak, then AI Radar.
 	writeGitHubStats(&b, profile.GitHubStats)
 	writeAIRadar(&b, radar)
 
@@ -579,7 +581,7 @@ func writeProjects(b *strings.Builder, title string, projects []projectCard, sta
 		if n, ok := stars[project.Name]; ok && n >= 0 {
 			starStr = fmt.Sprintf(" ★%d", n)
 		}
-		fmt.Fprintf(b, "- [%s](%s)%s — %s\n", project.Name, project.URL, starStr, project.Summary)
+		fmt.Fprintf(b, "- [%s](%s)%s: %s\n", project.Name, project.URL, starStr, project.Summary)
 	}
 	fmt.Fprintln(b)
 }
@@ -592,7 +594,7 @@ func writePrivateSystems(b *strings.Builder, systems []privateCard, portfolioURL
 	for i, s := range systems {
 		names[i] = s.Name
 	}
-	fmt.Fprintf(b, "**Private work:** %s — [%s](%s)\n\n", strings.Join(names, " · "), portfolioLabel, portfolioURL)
+	fmt.Fprintf(b, "**Private work:** %s. More at [%s](%s).\n\n", strings.Join(names, " · "), portfolioLabel, portfolioURL)
 }
 
 // techBadgeURL maps a tech label to its shields.io badge image URL.
@@ -652,7 +654,7 @@ func writeAIRadar(b *strings.Builder, radar []radarItem) {
 	}
 	fmt.Fprintf(b, "## AI Radar\n\n")
 	for _, item := range radar {
-		fmt.Fprintf(b, "- [%s](%s) — %s · %s\n", item.Title, item.URL, item.Source, publishedLabel(item.PublishedAt))
+		fmt.Fprintf(b, "- [%s](%s) (%s, %s)\n", item.Title, item.URL, item.Source, publishedLabel(item.PublishedAt))
 	}
 	fmt.Fprintf(b, "\nBenchmark pulse: I check [LiveBench](https://livebench.ai) daily.\n\n")
 }
@@ -671,7 +673,7 @@ func writeMeta(b *strings.Builder, profile profileConfig) {
 	owner := githubOwner(profile.GitHubURL)
 	sourceURL := fmt.Sprintf("https://github.com/%s/%s/tree/main/update", owner, owner)
 	fmt.Fprintf(b,
-		"<sub>Live artifact — Go + GitHub Actions rewrites this every 6h, scoring 6 AI feeds by recency and relevance. [Source →](%s) · [LiveBench](https://livebench.ai)</sub>\n",
+		"<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](%s) · [LiveBench](https://livebench.ai)</sub>\n",
 		sourceURL,
 	)
 }

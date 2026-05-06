@@ -6,51 +6,51 @@
   "resumeUrl": "https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link",
   "githubUrl": "https://github.com/Esturban",
   "hero": {
-    "title": "I build AI, data, and automation systems that turn messy inputs into productized tools, APIs, and decision workflows.",
-    "body": "This profile is the technical layer: active builds, open-source proof, private work I can describe publicly, and the AI signals I keep an eye on every day."
+    "title": "I build AI, data, and automation systems that turn messy inputs into tools people can actually use.",
+    "body": "This profile is where I share what I'm building, the open-source work behind it, the private systems I can talk about, and the AI signals I keep an eye on."
   },
   "now": [
-    "Building retrieval, validation, and scoring systems across AI + data workflows.",
-    "Shipping repo-native tools where geospatial, finance, and ML sharpen decisions — not live as silos."
+    "Building retrieval, validation, and scoring systems across AI and data workflows.",
+    "Shipping repo-native tools that bring geospatial, finance, and ML work into the same decision flow."
   ],
   "activeBuilds": [
     {
       "name": "niche-radar",
       "url": "https://github.com/Esturban/niche-radar",
-      "summary": "Niche finder backed by external sources, built to turn noisy market inputs into decision-ready signals."
+      "summary": "A niche finder that pulls from external sources and turns noisy market inputs into signals you can use."
     },
     {
       "name": "ingo",
       "url": "https://github.com/Esturban/ingo",
-      "summary": "Shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime."
+      "summary": "A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime."
     },
     {
       "name": "li-jobs",
       "url": "https://github.com/Esturban/li-jobs",
-      "summary": "Jobs collection API surface for scraping, normalization, and downstream job-data workflows."
+      "summary": "A jobs collection API for scraping, normalization, and downstream job-data workflows."
     }
   ],
   "openSourceTools": [
     {
       "name": "open_ksa",
       "url": "https://github.com/Esturban/open_ksa",
-      "summary": "Python utility for working with Saudi Arabia's open data platform across thousands of datasets."
+      "summary": "A Python utility for working with Saudi Arabia's open data platform across thousands of datasets."
     },
     {
       "name": "tidyup",
       "url": "https://github.com/Esturban/tidyup",
-      "summary": "CLI utility for sorting files and folders by extension and date, built as reusable housekeeping tooling."
+      "summary": "A CLI utility for sorting files and folders by extension and date."
     },
     {
       "name": "translagent",
       "url": "https://github.com/Esturban/translagent",
-      "summary": "Translation app with transliteration and audio support, showing end-to-end AI product packaging."
+      "summary": "A translation app with transliteration and audio support, built end to end."
     }
   ],
   "privateSystems": [
     {
       "name": "Purchase-Likelihood Scoring Pipeline",
-      "summary": "Built and operationalized propensity scoring for campaign targeting, improving margin on retail marketing workflows."
+      "summary": "A propensity scoring system for campaign targeting that improved margin in retail marketing workflows."
     },
     {
       "name": "Geodatabase Validation Toolkit",
@@ -58,12 +58,12 @@
     },
     {
       "name": "ATS Scanner",
-      "summary": "Deterministic resume parsing and job-fit scoring service with explicit evaluation contracts and failure handling."
+      "summary": "A deterministic resume parsing and job-fit scoring service with explicit evaluation rules and clear failure handling."
     }
   ],
   "workWithMe": {
     "title": "Work With Me",
-    "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation layer around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
+    "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
   },
   "techStack": ["Go", "Python", "PostgreSQL", "Docker", "Bash", "GitHub Actions"],
   "githubStats": {
