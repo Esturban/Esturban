@@ -1,19 +1,26 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/openai-on-aws",
-      "seenAt": "2026-05-06T12:57:55Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-06T18:54:08Z"
     },
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
       "seenAt": "2026-05-07T01:11:13Z"
+    },
+    {
+      "url": "https://openai.com/index/parloa",
+      "seenAt": "2026-05-07T12:58:17Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "source": "OpenAI",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "publishedAt": "2026-05-07T11:00:00Z"
+    },
     {
       "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
@@ -27,13 +34,6 @@
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\"\u003eEvent-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "publishedAt": "2026-05-04T15:30:00Z"
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "source": "OpenAI",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "publishedAt": "2026-04-28T00:00:00Z"
     }
   ]
 }
