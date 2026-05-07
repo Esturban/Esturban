@@ -26,7 +26,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) (OpenAI, 7 May 2026)
 - [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) (Latent.Space, 2 May 2026)
-- [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) (Google AI, 4 May 2026)
+- [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) (DeepMind, 6 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
