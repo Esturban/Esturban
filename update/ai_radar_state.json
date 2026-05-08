@@ -1,16 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/parloa",
-      "seenAt": "2026-05-07T12:58:17Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-07T18:55:04Z"
     },
     {
       "url": "https://deepmind.google/blog/alphaevolve-impact",
       "seenAt": "2026-05-07T18:55:04Z"
+    },
+    {
+      "url": "https://openai.com/index/parloa",
+      "seenAt": "2026-05-08T18:47:46Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "seenAt": "2026-05-08T18:47:46Z"
     }
   ],
   "lastItems": [
@@ -29,11 +33,10 @@
       "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "source": "DeepMind",
-      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-      "publishedAt": "2026-05-06T10:43:49Z"
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "source": "Hugging Face",
+      "publishedAt": "2026-05-08T17:41:05Z"
     }
   ]
 }
