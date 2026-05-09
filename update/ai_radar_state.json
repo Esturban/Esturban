@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-09T01:09:49Z"
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief",
+      "seenAt": "2026-05-09T12:38:49Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,17 @@
       "publishedAt": "2026-05-07T11:00:00Z"
     },
     {
-      "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-      "source": "Latent.Space",
-      "summary": "a quiet day lets us make a call for speakers!",
-      "publishedAt": "2026-05-02T07:21:55Z"
-    },
-    {
       "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
       "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
       "source": "Hugging Face",
       "publishedAt": "2026-05-08T17:41:05Z"
+    },
+    {
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\"\u003eToday we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
+      "publishedAt": "2026-05-08T15:00:00Z"
     }
   ]
 }
