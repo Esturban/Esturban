@@ -1,20 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief",
-      "seenAt": "2026-05-09T12:38:49Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "seenAt": "2026-05-09T18:37:11Z"
-    },
-    {
       "url": "https://openai.com/index/parloa",
       "seenAt": "2026-05-10T01:16:50Z"
     },
     {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-10T01:16:50Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026",
+      "seenAt": "2026-05-10T18:37:54Z"
     }
   ],
   "lastItems": [
@@ -33,10 +29,11 @@
       "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-09T18:09:28Z"
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"\u003eGoogle is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "publishedAt": "2026-04-27T13:00:00Z"
     }
   ]
 }
