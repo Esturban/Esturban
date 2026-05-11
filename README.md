@@ -25,8 +25,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) (OpenAI, 7 May 2026)
+- [The new AI-powered Google Finance is expanding to Europe.](https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/) (Google AI, 11 May 2026)
 - [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) (Latent.Space, 2 May 2026)
-- [MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck) (Hugging Face, 10 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
