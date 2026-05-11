@@ -26,7 +26,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) (OpenAI, 7 May 2026)
 - [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) (Latent.Space, 2 May 2026)
-- [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) (Google AI, 27 Apr 2026)
+- [MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck) (Hugging Face, 10 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
