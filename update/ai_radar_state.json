@@ -15,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "seenAt": "2026-05-11T01:16:52Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe",
+      "seenAt": "2026-05-11T07:34:55Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,18 @@
       "publishedAt": "2026-05-07T11:00:00Z"
     },
     {
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\"\u003eThis week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
+      "publishedAt": "2026-05-11T06:00:00Z"
+    },
+    {
       "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "source": "Latent.Space",
       "summary": "a quiet day lets us make a call for speakers!",
       "publishedAt": "2026-05-02T07:21:55Z"
-    },
-    {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-10T18:44:11Z"
     }
   ]
 }
