@@ -1,27 +1,30 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/parloa",
-      "seenAt": "2026-05-11T01:16:52Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-      "seenAt": "2026-05-11T01:16:52Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "seenAt": "2026-05-11T01:16:52Z"
-    },
-    {
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe",
       "seenAt": "2026-05-11T07:34:55Z"
     },
     {
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "seenAt": "2026-05-12T01:10:01Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+      "seenAt": "2026-05-12T07:18:48Z"
+    },
+    {
+      "url": "https://openai.com/index/parloa",
+      "seenAt": "2026-05-12T07:18:48Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
+      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+      "source": "Latent.Space",
+      "summary": "well done, Team Thinky.",
+      "publishedAt": "2026-05-12T04:33:46Z"
+    },
     {
       "title": "Parloa builds service agents customers want to talk to",
       "url": "https://openai.com/index/parloa",
@@ -34,13 +37,6 @@
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "source": "Hugging Face",
       "publishedAt": "2026-05-11T23:18:26Z"
-    },
-    {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\"\u003eThis week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
-      "publishedAt": "2026-05-11T06:00:00Z"
     }
   ]
 }

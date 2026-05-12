@@ -24,9 +24,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD](https://www.latent.space/p/ainews-thinking-machines-native-interaction) (Latent.Space, 12 May 2026)
 - [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) (OpenAI, 7 May 2026)
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (Hugging Face, 11 May 2026)
-- [The new AI-powered Google Finance is expanding to Europe.](https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/) (Google AI, 11 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
