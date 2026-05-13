@@ -1,32 +1,36 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "seenAt": "2026-05-12T01:10:01Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "seenAt": "2026-05-12T07:18:48Z"
     },
     {
       "url": "https://openai.com/index/parloa",
       "seenAt": "2026-05-12T07:18:48Z"
+    },
+    {
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "seenAt": "2026-05-13T01:15:34Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "seenAt": "2026-05-13T01:15:34Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "publishedAt": "2026-05-12T00:00:00Z"
+    },
     {
       "title": "Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "source": "Latent.Space",
       "summary": "well done, Team Thinky.",
       "publishedAt": "2026-05-12T04:33:46Z"
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "source": "OpenAI",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "publishedAt": "2026-05-07T11:00:00Z"
     },
     {
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
