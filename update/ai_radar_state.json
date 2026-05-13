@@ -1,20 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-      "seenAt": "2026-05-12T07:18:48Z"
-    },
-    {
-      "url": "https://openai.com/index/parloa",
-      "seenAt": "2026-05-12T07:18:48Z"
-    },
-    {
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "seenAt": "2026-05-13T01:15:34Z"
     },
     {
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "seenAt": "2026-05-13T01:15:34Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+      "seenAt": "2026-05-13T07:23:23Z"
     }
   ],
   "lastItems": [
@@ -26,11 +22,11 @@
       "publishedAt": "2026-05-12T00:00:00Z"
     },
     {
-      "title": "Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
-      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+      "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "source": "Latent.Space",
-      "summary": "well done, Team Thinky.",
-      "publishedAt": "2026-05-12T04:33:46Z"
+      "summary": "a quiet day lets us make a call for speakers!",
+      "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
