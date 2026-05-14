@@ -21,9 +21,10 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## GitHub Snapshot
 
+![Public Repos](https://img.shields.io/badge/Public%20Repos-43-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-49-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-5-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&count_private=true&hide_border=true&hide_title=true&icon_color=0969da&include_all_commits=true&rank_icon=github&show_icons=true&text_color=57606a&title_color=1f2328&username=Esturban" alt="GitHub stats for Esturban" />
-  <img width="49%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
+  <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
 </p>
 
 ## AI Radar
