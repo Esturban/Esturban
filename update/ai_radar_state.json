@@ -11,22 +11,26 @@
     {
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "seenAt": "2026-05-14T01:16:40Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+      "seenAt": "2026-05-14T07:21:07Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Codex Rises, Claude Meters Programmatic Usage",
+      "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+      "source": "Latent.Space",
+      "summary": "a quiet day lets us report on a long trend of the major coding agents",
+      "publishedAt": "2026-05-14T03:53:26Z"
+    },
     {
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "publishedAt": "2026-05-12T00:00:00Z"
-    },
-    {
-      "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-      "source": "Latent.Space",
-      "summary": "a quiet day lets us make a call for speakers!",
-      "publishedAt": "2026-05-02T07:21:55Z"
     },
     {
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
