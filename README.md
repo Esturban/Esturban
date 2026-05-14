@@ -19,8 +19,12 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 **Private work:** Purchase-Likelihood Scoring Pipeline · Geodatabase Validation Toolkit · ATS Scanner. More at [works.estebanvalencia.com](https://works.estebanvalencia.com).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esturban&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Esturban&hide_border=true)
+## GitHub Snapshot
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&count_private=true&hide_border=true&hide_title=true&icon_color=0969da&include_all_commits=true&rank_icon=github&show_icons=true&text_color=57606a&title_color=1f2328&username=Esturban" alt="GitHub stats for Esturban" />
+  <img width="49%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
+</p>
 
 ## AI Radar
 

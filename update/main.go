@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"net/url"
 	"os"
 	"path/filepath"
 	"sort"
@@ -636,16 +637,46 @@ func writeGitHubStats(b *strings.Builder, cfg githubStats) {
 	if !cfg.Enabled || cfg.Username == "" {
 		return
 	}
-	statsURL := fmt.Sprintf(
-		"https://github-readme-stats.vercel.app/api?username=%s&show_icons=true&hide_border=true&count_private=true",
-		cfg.Username,
-	)
-	streakURL := fmt.Sprintf(
-		"https://streak-stats.demolab.com?user=%s&hide_border=true",
-		cfg.Username,
-	)
-	fmt.Fprintf(b, "![GitHub Stats](%s)\n", statsURL)
-	fmt.Fprintf(b, "![GitHub Streak](%s)\n\n", streakURL)
+	statsURL := buildGitHubStatsCardURL(cfg.Username)
+	streakURL := buildGitHubStreakCardURL(cfg.Username)
+
+	fmt.Fprintf(b, "## GitHub Snapshot\n\n")
+	fmt.Fprintf(b, "<p align=\"left\">\n")
+	fmt.Fprintf(b, "  <img width=\"49%%\" src=\"%s\" alt=\"GitHub stats for %s\" />\n", statsURL, cfg.Username)
+	fmt.Fprintf(b, "  <img width=\"49%%\" src=\"%s\" alt=\"GitHub streak for %s\" />\n", streakURL, cfg.Username)
+	fmt.Fprintf(b, "</p>\n\n")
+}
+
+func buildGitHubStatsCardURL(username string) string {
+	params := url.Values{}
+	params.Set("username", username)
+	params.Set("show_icons", "true")
+	params.Set("hide_border", "true")
+	params.Set("count_private", "true")
+	params.Set("include_all_commits", "true")
+	params.Set("rank_icon", "github")
+	params.Set("hide_title", "true")
+	params.Set("bg_color", "00000000")
+	params.Set("title_color", "1f2328")
+	params.Set("text_color", "57606a")
+	params.Set("icon_color", "0969da")
+	return "https://github-readme-stats.vercel.app/api?" + params.Encode()
+}
+
+func buildGitHubStreakCardURL(username string) string {
+	params := url.Values{}
+	params.Set("user", username)
+	params.Set("hide_border", "true")
+	params.Set("theme", "transparent")
+	params.Set("background", "00000000")
+	params.Set("ring", "0969da")
+	params.Set("fire", "0969da")
+	params.Set("currStreakLabel", "1f2328")
+	params.Set("sideLabels", "57606a")
+	params.Set("currStreakNum", "1f2328")
+	params.Set("sideNums", "1f2328")
+	params.Set("dates", "8c959f")
+	return "https://streak-stats.demolab.com/?" + params.Encode()
 }
 
 func writeAIRadar(b *strings.Builder, radar []radarItem) {
