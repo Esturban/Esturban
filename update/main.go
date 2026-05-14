@@ -105,6 +105,30 @@ type githubRepoResp struct {
 	StargazersCount int `json:"stargazers_count"`
 }
 
+type githubUserResp struct {
+	PublicRepos int `json:"public_repos"`
+	PublicGists int `json:"public_gists"`
+	Followers   int `json:"followers"`
+	Following   int `json:"following"`
+}
+
+type githubRepoListItem struct {
+	Fork            bool `json:"fork"`
+	StargazersCount int  `json:"stargazers_count"`
+}
+
+type githubSnapshot struct {
+	PublicRepos      int
+	PublicGists      int
+	Followers        int
+	Following        int
+	TotalStars       int
+	FeaturedStars    int
+	HasUserStats     bool
+	HasTotalStars    bool
+	HasFeaturedStars bool
+}
+
 func main() {
 	profile, err := loadProfile(profilePath)
 	if err != nil {
@@ -120,7 +144,8 @@ func main() {
 	selected, nextState := buildAIRadar(profile.AIRadar, state, now)
 
 	stars := fetchAllStars(profile)
-	readme := renderReadme(profile, selected, stars)
+	snapshot := fetchGitHubSnapshot(profile, stars)
+	readme := renderReadme(profile, selected, stars, snapshot)
 
 	if err := writeIfChanged(readmePath, []byte(readme)); err != nil {
 		failf("write readme: %v", err)
@@ -474,23 +499,8 @@ func itemScore(item radarItem, now time.Time) int {
 // skip the star display gracefully.
 func fetchStarCount(owner, repo string) int {
 	url := fmt.Sprintf("https://api.github.com/repos/%s/%s", owner, repo)
-	client := &http.Client{Timeout: 8 * time.Second}
-	req, err := http.NewRequest("GET", url, nil)
-	if err != nil {
-		return -1
-	}
-	req.Header.Set("Accept", "application/vnd.github+json")
-	req.Header.Set("User-Agent", "readme-generator")
-	resp, err := client.Do(req)
-	if err != nil {
-		return -1
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		return -1
-	}
 	var gh githubRepoResp
-	if err := json.NewDecoder(resp.Body).Decode(&gh); err != nil {
+	if err := fetchGitHubJSON(url, &gh); err != nil {
 		return -1
 	}
 	return gh.StargazersCount
@@ -526,7 +536,101 @@ func githubOwner(githubURL string) string {
 	return parts[len(parts)-1]
 }
 
-func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int) string {
+func fetchGitHubSnapshot(profile profileConfig, stars map[string]int) githubSnapshot {
+	var snapshot githubSnapshot
+
+	username := strings.TrimSpace(profile.GitHubStats.Username)
+	if username == "" {
+		username = githubOwner(profile.GitHubURL)
+	}
+	if username == "" {
+		return snapshot
+	}
+
+	var user githubUserResp
+	if err := fetchGitHubJSON(fmt.Sprintf("https://api.github.com/users/%s", username), &user); err == nil {
+		snapshot.PublicRepos = user.PublicRepos
+		snapshot.PublicGists = user.PublicGists
+		snapshot.Followers = user.Followers
+		snapshot.Following = user.Following
+		snapshot.HasUserStats = true
+	}
+
+	if totalStars, ok := fetchTotalPublicStars(username); ok {
+		snapshot.TotalStars = totalStars
+		snapshot.HasTotalStars = true
+	}
+
+	if len(stars) > 0 {
+		snapshot.FeaturedStars = sumStars(stars)
+		snapshot.HasFeaturedStars = true
+		if !snapshot.HasTotalStars {
+			snapshot.TotalStars = snapshot.FeaturedStars
+			snapshot.HasTotalStars = true
+		}
+	}
+
+	return snapshot
+}
+
+func fetchTotalPublicStars(username string) (int, bool) {
+	total := 0
+	for page := 1; page <= 10; page++ {
+		endpoint := fmt.Sprintf(
+			"https://api.github.com/users/%s/repos?per_page=100&type=owner&sort=updated&page=%d",
+			username,
+			page,
+		)
+		var repos []githubRepoListItem
+		if err := fetchGitHubJSON(endpoint, &repos); err != nil {
+			return 0, false
+		}
+		if len(repos) == 0 {
+			break
+		}
+		for _, repo := range repos {
+			if repo.Fork {
+				continue
+			}
+			total += repo.StargazersCount
+		}
+		if len(repos) < 100 {
+			break
+		}
+	}
+	return total, true
+}
+
+func fetchGitHubJSON(endpoint string, dest any) error {
+	client := &http.Client{Timeout: 8 * time.Second}
+	req, err := http.NewRequest("GET", endpoint, nil)
+	if err != nil {
+		return err
+	}
+	req.Header.Set("Accept", "application/vnd.github+json")
+	req.Header.Set("User-Agent", "readme-generator")
+	resp, err := client.Do(req)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("github api status %d for %s", resp.StatusCode, endpoint)
+	}
+	return json.NewDecoder(resp.Body).Decode(dest)
+}
+
+func sumStars(stars map[string]int) int {
+	total := 0
+	for _, count := range stars {
+		if count > 0 {
+			total += count
+		}
+	}
+	return total
+}
+
+func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int, snapshot githubSnapshot) string {
 	var b strings.Builder
 
 	// Keep the rendered profile direct and readable. Avoid AI-coded punctuation habits
@@ -552,7 +656,7 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	writePrivateSystems(&b, profile.PrivateSystems, profile.PortfolioURL, profile.PortfolioLabel)
 
 	// Live signals: stats plus streak, then AI Radar.
-	writeGitHubStats(&b, profile.GitHubStats)
+	writeGitHubStats(&b, profile.GitHubStats, snapshot)
 	writeAIRadar(&b, radar)
 
 	// Collapsed meta footer
@@ -633,34 +737,19 @@ func writeTechStack(b *strings.Builder, stack []string) {
 	fmt.Fprintf(b, "%s\n\n", strings.Join(badges, " "))
 }
 
-func writeGitHubStats(b *strings.Builder, cfg githubStats) {
+func writeGitHubStats(b *strings.Builder, cfg githubStats, snapshot githubSnapshot) {
 	if !cfg.Enabled || cfg.Username == "" {
 		return
 	}
-	statsURL := buildGitHubStatsCardURL(cfg.Username)
 	streakURL := buildGitHubStreakCardURL(cfg.Username)
 
 	fmt.Fprintf(b, "## GitHub Snapshot\n\n")
+	if badges := buildGitHubSnapshotBadges(snapshot); len(badges) > 0 {
+		fmt.Fprintf(b, "%s\n\n", strings.Join(badges, " "))
+	}
 	fmt.Fprintf(b, "<p align=\"left\">\n")
-	fmt.Fprintf(b, "  <img width=\"49%%\" src=\"%s\" alt=\"GitHub stats for %s\" />\n", statsURL, cfg.Username)
-	fmt.Fprintf(b, "  <img width=\"49%%\" src=\"%s\" alt=\"GitHub streak for %s\" />\n", streakURL, cfg.Username)
+	fmt.Fprintf(b, "  <img width=\"72%%\" src=\"%s\" alt=\"GitHub streak for %s\" />\n", streakURL, cfg.Username)
 	fmt.Fprintf(b, "</p>\n\n")
-}
-
-func buildGitHubStatsCardURL(username string) string {
-	params := url.Values{}
-	params.Set("username", username)
-	params.Set("show_icons", "true")
-	params.Set("hide_border", "true")
-	params.Set("count_private", "true")
-	params.Set("include_all_commits", "true")
-	params.Set("rank_icon", "github")
-	params.Set("hide_title", "true")
-	params.Set("bg_color", "00000000")
-	params.Set("title_color", "1f2328")
-	params.Set("text_color", "57606a")
-	params.Set("icon_color", "0969da")
-	return "https://github-readme-stats.vercel.app/api?" + params.Encode()
 }
 
 func buildGitHubStreakCardURL(username string) string {
@@ -677,6 +766,34 @@ func buildGitHubStreakCardURL(username string) string {
 	params.Set("sideNums", "1f2328")
 	params.Set("dates", "8c959f")
 	return "https://streak-stats.demolab.com/?" + params.Encode()
+}
+
+func buildGitHubSnapshotBadges(snapshot githubSnapshot) []string {
+	var badges []string
+	if snapshot.HasUserStats {
+		badges = append(badges,
+			buildShieldsBadge("Public Repos", snapshot.PublicRepos),
+			buildShieldsBadge("Followers", snapshot.Followers),
+			buildShieldsBadge("Following", snapshot.Following),
+			buildShieldsBadge("Public Gists", snapshot.PublicGists),
+		)
+	}
+	if snapshot.HasTotalStars {
+		badges = append(badges, buildShieldsBadge("Total Stars", snapshot.TotalStars))
+	}
+	if snapshot.HasFeaturedStars {
+		badges = append(badges, buildShieldsBadge("Featured Stars", snapshot.FeaturedStars))
+	}
+	return badges
+}
+
+func buildShieldsBadge(label string, value int) string {
+	return fmt.Sprintf(
+		"![%s](https://img.shields.io/badge/%s-%d-0969da?style=flat-square&labelColor=1f2328)",
+		label,
+		url.PathEscape(label),
+		value,
+	)
 }
 
 func writeAIRadar(b *strings.Builder, radar []radarItem) {
