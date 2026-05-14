@@ -11,9 +11,19 @@
     {
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
       "seenAt": "2026-05-14T07:21:07Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "seenAt": "2026-05-14T18:57:22Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "source": "Hugging Face",
+      "publishedAt": "2026-05-14T18:55:01Z"
+    },
     {
       "title": "Codex Rises, Claude Meters Programmatic Usage",
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
@@ -27,12 +37,6 @@
       "source": "OpenAI",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "publishedAt": "2026-05-12T00:00:00Z"
-    },
-    {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-11T23:18:26Z"
     }
   ]
 }
