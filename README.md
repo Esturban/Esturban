@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) (Hugging Face, 14 May 2026)
 - [Codex Rises, Claude Meters Programmatic Usage](https://www.latent.space/p/ainews-codex-rises-claude-meters) (Latent.Space, 14 May 2026)
-- [Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere) (OpenAI, 14 May 2026)
+- [What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us) (OpenAI, 12 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
