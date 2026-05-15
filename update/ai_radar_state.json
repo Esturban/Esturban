@@ -15,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "seenAt": "2026-05-14T18:57:22Z"
+    },
+    {
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "seenAt": "2026-05-15T01:14:20Z"
     }
   ],
   "lastItems": [
@@ -32,11 +36,11 @@
       "publishedAt": "2026-05-14T03:53:26Z"
     },
     {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "source": "OpenAI",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "publishedAt": "2026-05-12T00:00:00Z"
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "publishedAt": "2026-05-14T13:00:00Z"
     }
   ]
 }
