@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
       "seenAt": "2026-05-15T07:27:42Z"
+    },
+    {
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "seenAt": "2026-05-15T18:51:56Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-05-14T03:53:26Z"
     },
     {
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "publishedAt": "2026-05-14T13:00:00Z"
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "publishedAt": "2026-05-12T00:00:00Z"
     }
   ]
 }
