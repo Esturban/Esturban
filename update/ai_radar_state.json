@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "seenAt": "2026-05-14T18:57:22Z"
-    },
-    {
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "seenAt": "2026-05-15T01:14:20Z"
     },
@@ -15,9 +11,24 @@
     {
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "seenAt": "2026-05-15T18:51:56Z"
+    },
+    {
+      "url": "https://openai.com/index/databricks",
+      "seenAt": "2026-05-16T01:09:44Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "seenAt": "2026-05-16T01:09:44Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "source": "OpenAI",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "publishedAt": "2026-05-15T00:00:00Z"
+    },
     {
       "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
@@ -30,13 +41,6 @@
       "source": "Latent.Space",
       "summary": "a quiet day lets us report on a long trend of the major coding agents",
       "publishedAt": "2026-05-14T03:53:26Z"
-    },
-    {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "publishedAt": "2026-05-12T00:00:00Z"
     }
   ]
 }
