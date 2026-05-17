@@ -11,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "seenAt": "2026-05-17T01:18:14Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+      "seenAt": "2026-05-17T07:17:31Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-05-14T18:55:01Z"
     },
     {
-      "title": "Codex Rises, Claude Meters Programmatic Usage",
-      "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+      "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "source": "Latent.Space",
-      "summary": "a quiet day lets us report on a long trend of the major coding agents",
-      "publishedAt": "2026-05-14T03:53:26Z"
+      "summary": "a quiet day lets us make a call for speakers!",
+      "publishedAt": "2026-05-02T07:21:55Z"
     }
   ]
 }
