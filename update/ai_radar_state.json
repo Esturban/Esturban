@@ -11,21 +11,29 @@
     {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-18T07:45:29Z"
+    },
+    {
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "seenAt": "2026-05-18T18:57:05Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "seenAt": "2026-05-18T18:57:05Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "source": "OpenAI",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "publishedAt": "2026-05-15T00:00:00Z"
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "publishedAt": "2026-05-18T10:00:00Z"
     },
     {
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
       "source": "Hugging Face",
-      "publishedAt": "2026-05-14T18:55:01Z"
+      "publishedAt": "2026-05-18T14:12:58Z"
     },
     {
       "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
