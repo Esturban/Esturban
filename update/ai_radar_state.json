@@ -1,42 +1,42 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "seenAt": "2026-05-18T18:57:05Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "seenAt": "2026-05-18T18:57:05Z"
-    },
-    {
       "url": "https://openai.com/index/databricks",
       "seenAt": "2026-05-19T13:27:52Z"
     },
     {
       "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
       "seenAt": "2026-05-19T13:27:52Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "seenAt": "2026-05-19T18:58:55Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "seenAt": "2026-05-19T18:58:55Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"\u003eAt Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "publishedAt": "2026-05-19T17:45:00Z"
+    },
+    {
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "source": "Hugging Face",
+      "publishedAt": "2026-05-19T18:38:09Z"
+    },
     {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "publishedAt": "2026-05-15T00:00:00Z"
-    },
-    {
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-18T14:12:58Z"
-    },
-    {
-      "title": "AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-      "source": "Latent.Space",
-      "summary": "a quiet day lets us make a call for speakers!",
-      "publishedAt": "2026-05-02T07:21:55Z"
     }
   ]
 }

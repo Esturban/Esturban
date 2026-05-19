@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
+- [OlmoEarth v1.1: A more efficient family of models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (Hugging Face, 19 May 2026)
 - [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
-- [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (Hugging Face, 18 May 2026)
-- [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) (Latent.Space, 2 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
