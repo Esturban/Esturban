@@ -29,7 +29,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership) (OpenAI, 18 May 2026)
+- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
 - [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (Hugging Face, 18 May 2026)
 - [AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers](https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch) (Latent.Space, 2 May 2026)
 
