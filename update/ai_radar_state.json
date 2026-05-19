@@ -1,25 +1,29 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-      "seenAt": "2026-05-18T07:45:29Z"
-    },
-    {
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "seenAt": "2026-05-18T18:57:05Z"
     },
     {
       "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
       "seenAt": "2026-05-18T18:57:05Z"
+    },
+    {
+      "url": "https://openai.com/index/databricks",
+      "seenAt": "2026-05-19T13:27:52Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+      "seenAt": "2026-05-19T13:27:52Z"
     }
   ],
   "lastItems": [
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "publishedAt": "2026-05-18T10:00:00Z"
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "publishedAt": "2026-05-15T00:00:00Z"
     },
     {
       "title": "The Open Agent Leaderboard",
