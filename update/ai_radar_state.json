@@ -15,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "seenAt": "2026-05-19T18:58:55Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+      "seenAt": "2026-05-20T07:32:02Z"
     }
   ],
   "lastItems": [
@@ -32,11 +36,11 @@
       "publishedAt": "2026-05-19T18:38:09Z"
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "publishedAt": "2026-05-15T00:00:00Z"
+      "title": "Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+      "source": "Latent.Space",
+      "summary": "Google has been busy!",
+      "publishedAt": "2026-05-20T03:34:17Z"
     }
   ]
 }
