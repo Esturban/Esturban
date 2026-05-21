@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
-      "seenAt": "2026-05-20T07:32:02Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
       "seenAt": "2026-05-20T19:07:09Z"
     },
     {
       "url": "https://openai.com/index/databricks",
       "seenAt": "2026-05-20T19:07:09Z"
+    },
+    {
+      "url": "https://www.latent.space/p/railway",
+      "seenAt": "2026-05-21T07:36:16Z"
     }
   ],
   "lastItems": [
@@ -22,18 +22,18 @@
       "publishedAt": "2026-05-19T17:45:00Z"
     },
     {
-      "title": "Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
-      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
-      "source": "Latent.Space",
-      "summary": "Google has been busy!",
-      "publishedAt": "2026-05-20T03:34:17Z"
-    },
-    {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "publishedAt": "2026-05-15T00:00:00Z"
+    },
+    {
+      "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+      "url": "https://www.latent.space/p/railway",
+      "source": "Latent.Space",
+      "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
+      "publishedAt": "2026-05-20T22:42:06Z"
     }
   ]
 }

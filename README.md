@@ -30,8 +30,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
-- [Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0](https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash) (Latent.Space, 20 May 2026)
 - [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
+- [Railway: The Agent-Native Cloud — Jake Cooper](https://www.latent.space/p/railway) (Latent.Space, 20 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
