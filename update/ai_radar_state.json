@@ -11,16 +11,13 @@
     {
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "seenAt": "2026-05-22T01:19:43Z"
+    },
+    {
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "seenAt": "2026-05-22T18:57:23Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"\u003eAt Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "publishedAt": "2026-05-19T17:45:00Z"
-    },
     {
       "title": "Giving Agents Computers — Ivan Burazin, Daytona",
       "url": "https://www.latent.space/p/daytona",
@@ -29,10 +26,18 @@
       "publishedAt": "2026-05-21T20:37:40Z"
     },
     {
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-19T18:38:09Z"
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"\u003eAt Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "publishedAt": "2026-05-19T17:45:00Z"
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "publishedAt": "2026-05-22T00:00:00Z"
     }
   ]
 }
