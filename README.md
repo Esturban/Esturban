@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
 - [Giving Agents Computers — Ivan Burazin, Daytona](https://www.latent.space/p/daytona) (Latent.Space, 21 May 2026)
-- [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (Hugging Face, 19 May 2026)
+- [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
+- [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) (OpenAI, 22 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
