@@ -1,24 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "seenAt": "2026-05-22T01:19:43Z"
-    },
-    {
-      "url": "https://www.latent.space/p/daytona",
-      "seenAt": "2026-05-22T01:19:43Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "seenAt": "2026-05-22T01:19:43Z"
-    },
-    {
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "seenAt": "2026-05-22T18:57:23Z"
     },
     {
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
       "seenAt": "2026-05-23T01:15:19Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "seenAt": "2026-05-23T07:14:03Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "seenAt": "2026-05-23T07:14:03Z"
     }
   ],
   "lastItems": [
@@ -36,11 +32,11 @@
       "publishedAt": "2026-05-23T00:02:03Z"
     },
     {
-      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
-      "url": "https://www.latent.space/p/daytona",
+      "title": "All Model Labs are now Agent Labs",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
       "source": "Latent.Space",
-      "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
-      "publishedAt": "2026-05-21T20:37:40Z"
+      "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+      "publishedAt": "2026-05-23T04:21:17Z"
     }
   ]
 }
