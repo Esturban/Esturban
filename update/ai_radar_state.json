@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "seenAt": "2026-05-23T07:14:03Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
-      "seenAt": "2026-05-23T07:14:03Z"
-    },
-    {
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "seenAt": "2026-05-24T01:21:15Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "seenAt": "2026-05-24T07:26:44Z"
+    },
+    {
+      "url": "https://www.latent.space/p/daytona",
+      "seenAt": "2026-05-24T07:26:44Z"
     }
   ],
   "lastItems": [
@@ -22,11 +22,11 @@
       "publishedAt": "2026-05-19T17:45:00Z"
     },
     {
-      "title": "All Model Labs are now Agent Labs",
-      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+      "url": "https://www.latent.space/p/daytona",
       "source": "Latent.Space",
-      "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
-      "publishedAt": "2026-05-23T04:21:17Z"
+      "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+      "publishedAt": "2026-05-21T20:37:40Z"
     },
     {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
