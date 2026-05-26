@@ -29,7 +29,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
+- [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) (Google AI, 20 May 2026)
 - [Giving Agents Computers — Ivan Burazin, Daytona](https://www.latent.space/p/daytona) (Latent.Space, 21 May 2026)
 - [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
 

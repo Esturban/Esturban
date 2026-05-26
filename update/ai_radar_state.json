@@ -11,15 +11,19 @@
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
       "seenAt": "2026-05-26T13:22:52Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
+      "seenAt": "2026-05-26T19:07:32Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"\u003eAt Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "publishedAt": "2026-05-19T17:45:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\"\u003eSee and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "publishedAt": "2026-05-20T16:45:00Z"
     },
     {
       "title": "Giving Agents Computers — Ivan Burazin, Daytona",
