@@ -11,6 +11,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
       "seenAt": "2026-05-25T07:55:45Z"
+    },
+    {
+      "url": "https://openai.com/index/databricks",
+      "seenAt": "2026-05-26T01:17:40Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,18 @@
       "publishedAt": "2026-05-19T17:45:00Z"
     },
     {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "source": "Hugging Face",
-      "publishedAt": "2026-05-23T00:02:03Z"
-    },
-    {
       "title": "All Model Labs are now Agent Labs",
       "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
       "source": "Latent.Space",
       "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
       "publishedAt": "2026-05-23T04:21:17Z"
+    },
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "source": "OpenAI",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "publishedAt": "2026-05-15T00:00:00Z"
     }
   ]
 }

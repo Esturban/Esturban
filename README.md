@@ -30,8 +30,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google AI, 19 May 2026)
-- [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (Hugging Face, 23 May 2026)
 - [All Model Labs are now Agent Labs](https://www.latent.space/p/ainews-all-model-labs-are-now-agent) (Latent.Space, 23 May 2026)
+- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
