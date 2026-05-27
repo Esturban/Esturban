@@ -11,29 +11,40 @@
     {
       "url": "https://www.latent.space/p/daytona",
       "seenAt": "2026-05-27T07:45:40Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "seenAt": "2026-05-27T19:05:43Z"
+    },
+    {
+      "url": "https://www.latent.space/p/esmfold2",
+      "seenAt": "2026-05-27T19:05:43Z"
+    },
+    {
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "seenAt": "2026-05-27T19:05:43Z"
     }
   ],
   "lastItems": [
     {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\"\u003eSee and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
-      "publishedAt": "2026-05-20T16:45:00Z"
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face",
+      "publishedAt": "2026-05-27T17:20:29Z"
     },
     {
-      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
-      "url": "https://www.latent.space/p/daytona",
+      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "url": "https://www.latent.space/p/esmfold2",
       "source": "Latent.Space",
-      "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
-      "publishedAt": "2026-05-21T20:37:40Z"
+      "summary": "Datasets vs. inductive bias, world models, and programmable biology",
+      "publishedAt": "2026-05-27T17:46:16Z"
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "source": "OpenAI",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "publishedAt": "2026-05-15T00:00:00Z"
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "publishedAt": "2026-05-27T07:00:00Z"
     }
   ]
 }

@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) (Google AI, 20 May 2026)
-- [Giving Agents Computers — Ivan Burazin, Daytona](https://www.latent.space/p/daytona) (Latent.Space, 21 May 2026)
-- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) (OpenAI, 15 May 2026)
+- [ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM](https://huggingface.co/blog/ibm-research/itbench-aa) (Hugging Face, 27 May 2026)
+- [🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub](https://www.latent.space/p/esmfold2) (Latent.Space, 27 May 2026)
+- [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) (OpenAI, 27 May 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
