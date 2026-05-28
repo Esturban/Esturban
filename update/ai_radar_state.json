@@ -1,20 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "seenAt": "2026-05-27T19:05:43Z"
-    },
-    {
-      "url": "https://www.latent.space/p/esmfold2",
-      "seenAt": "2026-05-27T19:05:43Z"
-    },
-    {
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "seenAt": "2026-05-27T19:05:43Z"
-    },
-    {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-05-28T01:13:34Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "seenAt": "2026-05-28T19:13:04Z"
+    },
+    {
+      "url": "https://www.latent.space/p/cognition",
+      "seenAt": "2026-05-28T19:13:04Z"
     }
   ],
   "lastItems": [
@@ -32,11 +28,11 @@
       "publishedAt": "2026-05-27T17:20:29Z"
     },
     {
-      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
-      "url": "https://www.latent.space/p/esmfold2",
+      "title": "The Age of Async Agents — Cognition's Walden Yan \u0026 OpenInspect's Cole Murray",
+      "url": "https://www.latent.space/p/cognition",
       "source": "Latent.Space",
-      "summary": "Datasets vs. inductive bias, world models, and programmable biology",
-      "publishedAt": "2026-05-27T17:46:16Z"
+      "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+      "publishedAt": "2026-05-28T18:41:24Z"
     }
   ]
 }
