@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-05-29T01:21:41Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
+      "seenAt": "2026-05-29T19:12:06Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,17 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\"\u003eWatch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "publishedAt": "2026-05-29T17:30:00Z"
+    },
+    {
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "source": "Hugging Face",
       "publishedAt": "2026-05-27T17:20:29Z"
-    },
-    {
-      "title": "The Age of Async Agents — Cognition's Walden Yan \u0026 OpenInspect's Cole Murray",
-      "url": "https://www.latent.space/p/cognition",
-      "source": "Latent.Space",
-      "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
-      "publishedAt": "2026-05-28T18:41:24Z"
     }
   ]
 }
