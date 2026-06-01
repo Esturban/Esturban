@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-01T08:12:46Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "seenAt": "2026-06-01T14:24:43Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,10 @@
       "publishedAt": "2026-05-29T17:30:00Z"
     },
     {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
       "source": "Hugging Face",
-      "publishedAt": "2026-05-27T17:20:29Z"
+      "publishedAt": "2026-06-01T04:44:55Z"
     }
   ]
 }
