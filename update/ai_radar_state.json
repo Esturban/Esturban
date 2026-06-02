@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
-      "seenAt": "2026-06-01T01:29:11Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "seenAt": "2026-06-01T01:29:11Z"
-    },
-    {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-01T08:12:46Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/video-agents",
       "seenAt": "2026-06-01T19:57:01Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "seenAt": "2026-06-02T07:58:47Z"
     }
   ],
   "lastItems": [
@@ -37,10 +33,10 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-01T04:44:55Z"
+      "publishedAt": "2026-06-01T15:45:17Z"
     }
   ]
 }
