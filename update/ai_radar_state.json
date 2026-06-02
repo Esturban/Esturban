@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "seenAt": "2026-06-01T14:24:43Z"
-    },
-    {
       "url": "https://www.latent.space/p/video-agents",
       "seenAt": "2026-06-01T19:57:01Z"
     },
@@ -15,16 +11,13 @@
     {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-02T13:41:21Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "seenAt": "2026-06-02T19:32:16Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
-      "url": "https://www.latent.space/p/video-agents",
-      "source": "Latent.Space",
-      "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
-      "publishedAt": "2026-06-01T15:41:48Z"
-    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
@@ -33,10 +26,17 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+      "url": "https://www.latent.space/p/video-agents",
+      "source": "Latent.Space",
+      "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
+      "publishedAt": "2026-06-01T15:41:48Z"
+    },
+    {
+      "title": "Holo3.1: Fast \u0026 Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-01T15:45:17Z"
+      "publishedAt": "2026-06-02T14:13:23Z"
     }
   ]
 }
