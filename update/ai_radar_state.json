@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-01T08:12:46Z"
-    },
-    {
       "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
       "seenAt": "2026-06-01T14:24:43Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "seenAt": "2026-06-02T07:58:47Z"
+    },
+    {
+      "url": "https://openai.com/index/warp",
+      "seenAt": "2026-06-02T13:41:21Z"
     }
   ],
   "lastItems": [
