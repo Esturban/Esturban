@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/video-agents",
-      "seenAt": "2026-06-01T19:57:01Z"
-    },
-    {
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "seenAt": "2026-06-02T07:58:47Z"
     },
@@ -15,22 +11,26 @@
     {
       "url": "https://huggingface.co/blog/Hcompany/holo31",
       "seenAt": "2026-06-02T19:32:16Z"
+    },
+    {
+      "url": "https://www.latent.space/p/video-agents",
+      "seenAt": "2026-06-03T01:31:26Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "publishedAt": "2026-05-27T00:00:00Z"
-    },
     {
       "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
       "url": "https://www.latent.space/p/video-agents",
       "source": "Latent.Space",
       "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
       "publishedAt": "2026-06-01T15:41:48Z"
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
       "title": "Holo3.1: Fast \u0026 Local Computer Use Agents",
