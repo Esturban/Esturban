@@ -1,16 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-02T13:41:21Z"
-    },
-    {
       "url": "https://huggingface.co/blog/Hcompany/holo31",
       "seenAt": "2026-06-02T19:32:16Z"
     },
     {
       "url": "https://www.latent.space/p/video-agents",
       "seenAt": "2026-06-03T01:31:26Z"
+    },
+    {
+      "url": "https://openai.com/index/warp",
+      "seenAt": "2026-06-03T14:02:00Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips",
+      "seenAt": "2026-06-03T14:02:00Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,11 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "Holo3.1: Fast \u0026 Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-02T14:13:23Z"
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp\"\u003eUncover second-hand scores with AI tools in Google Search and Shopping.",
+      "publishedAt": "2026-06-03T13:00:00Z"
     }
   ]
 }
