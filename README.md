@@ -29,8 +29,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Why Video Agent models are next — Ethan He, xAI Grok Imagine](https://www.latent.space/p/video-agents) (Latent.Space, 1 Jun 2026)
+- [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) (Hugging Face, 2 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
