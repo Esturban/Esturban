@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/video-agents",
       "seenAt": "2026-06-04T01:32:46Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
+      "seenAt": "2026-06-04T13:28:19Z"
     }
   ],
   "lastItems": [
@@ -29,11 +33,11 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp\"\u003eUncover second-hand scores with AI tools in Google Search and Shopping.",
-      "publishedAt": "2026-06-03T13:00:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\"\u003eWatch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "publishedAt": "2026-05-29T17:30:00Z"
     }
   ]
 }
