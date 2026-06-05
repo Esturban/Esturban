@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
-      "seenAt": "2026-06-04T13:28:19Z"
-    },
-    {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-04T19:06:09Z"
     },
@@ -33,11 +29,10 @@
       "publishedAt": "2026-06-01T15:41:48Z"
     },
     {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\"\u003eWatch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "publishedAt": "2026-05-29T17:30:00Z"
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-04T00:00:00Z"
     }
   ]
 }
