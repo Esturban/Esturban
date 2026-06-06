@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-04T19:06:09Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "seenAt": "2026-06-04T19:06:09Z"
-    },
-    {
       "url": "https://www.latent.space/p/video-agents",
       "seenAt": "2026-06-05T07:48:22Z"
+    },
+    {
+      "url": "https://openai.com/index/warp",
+      "seenAt": "2026-06-06T01:18:09Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "seenAt": "2026-06-06T01:18:09Z"
     }
   ],
   "lastItems": [
@@ -29,10 +29,10 @@
       "publishedAt": "2026-06-01T15:41:48Z"
     },
     {
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-04T00:00:00Z"
+      "publishedAt": "2026-06-05T22:18:46Z"
     }
   ]
 }
