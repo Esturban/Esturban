@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Why Video Agent models are next — Ethan He, xAI Grok Imagine](https://www.latent.space/p/video-agents) (Latent.Space, 1 Jun 2026)
-- [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) (Hugging Face, 5 Jun 2026)
+- [Improved performance and model support with GGUF](https://ollama.com/blog/improved-performance-and-model-support-with-gguf) (Ollama, 5 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

@@ -1,16 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/video-agents",
-      "seenAt": "2026-06-05T07:48:22Z"
-    },
-    {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-06T01:18:09Z"
     },
     {
       "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
       "seenAt": "2026-06-06T01:18:09Z"
+    },
+    {
+      "url": "https://www.latent.space/p/video-agents",
+      "seenAt": "2026-06-06T12:47:09Z"
+    },
+    {
+      "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+      "seenAt": "2026-06-06T12:47:09Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,11 @@
       "publishedAt": "2026-06-01T15:41:48Z"
     },
     {
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-05T22:18:46Z"
+      "title": "Improved performance and model support with GGUF",
+      "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+      "source": "Ollama",
+      "summary": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
+      "publishedAt": "2026-06-05T00:00:00Z"
     }
   ]
 }
