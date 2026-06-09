@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-09T07:33:28Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "seenAt": "2026-06-09T13:18:22Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,17 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-09T10:46:19Z"
+    },
+    {
       "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
       "url": "https://www.latent.space/p/video-agents",
       "source": "Latent.Space",
       "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
       "publishedAt": "2026-06-01T15:41:48Z"
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-08T00:00:00Z"
     }
   ]
 }
