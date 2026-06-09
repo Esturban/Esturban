@@ -30,8 +30,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
-- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (Hugging Face, 8 Jun 2026)
 - [Why Video Agent models are next — Ethan He, xAI Grok Imagine](https://www.latent.space/p/video-agents) (Latent.Space, 1 Jun 2026)
+- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (Hugging Face, 8 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
