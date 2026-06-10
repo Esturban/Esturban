@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-      "seenAt": "2026-06-09T19:03:20Z"
-    },
-    {
       "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
       "seenAt": "2026-06-10T01:22:41Z"
     },
     {
       "url": "https://openai.com/index/warp",
       "seenAt": "2026-06-10T07:48:39Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+      "seenAt": "2026-06-10T19:12:23Z"
     }
   ],
   "lastItems": [
@@ -21,17 +21,18 @@
       "publishedAt": "2026-06-09T19:38:28Z"
     },
     {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "source": "DeepMind",
-      "publishedAt": "2026-06-09T14:10:19Z"
-    },
-    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
       "source": "OpenAI",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "publishedAt": "2026-05-27T00:00:00Z"
+    },
+    {
+      "title": "Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+      "source": "Latent.Space",
+      "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
+      "publishedAt": "2026-06-10T03:50:21Z"
     }
   ]
 }
