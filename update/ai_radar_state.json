@@ -11,15 +11,18 @@
     {
       "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
       "seenAt": "2026-06-09T19:03:20Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "seenAt": "2026-06-10T01:22:41Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "publishedAt": "2026-05-27T00:00:00Z"
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-09T19:38:28Z"
     },
     {
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
@@ -28,10 +31,11 @@
       "publishedAt": "2026-06-09T14:10:19Z"
     },
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-09T10:46:19Z"
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "publishedAt": "2026-05-27T00:00:00Z"
     }
   ]
 }
