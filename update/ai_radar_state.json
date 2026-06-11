@@ -1,19 +1,34 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-10T07:48:39Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
       "seenAt": "2026-06-10T19:12:23Z"
     },
     {
       "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
       "seenAt": "2026-06-11T01:25:50Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "seenAt": "2026-06-11T08:01:24Z"
+    },
+    {
+      "url": "https://openai.com/index/warp",
+      "seenAt": "2026-06-11T08:01:24Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "seenAt": "2026-06-11T08:01:24Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "source": "Latent.Space",
+      "summary": "a quiet day lets us reflect on a great essay",
+      "publishedAt": "2026-06-11T03:14:26Z"
+    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
@@ -22,17 +37,10 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
-      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
-      "source": "Latent.Space",
-      "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
-      "publishedAt": "2026-06-10T03:50:21Z"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "source": "DeepMind",
-      "publishedAt": "2026-06-09T14:10:19Z"
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-09T19:38:28Z"
     }
   ]
 }
