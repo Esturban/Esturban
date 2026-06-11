@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching) (Hugging Face, 9 Jun 2026)
 - [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms](https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos) (Latent.Space, 10 Jun 2026)
+- [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) (DeepMind, 9 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
