@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-      "seenAt": "2026-06-11T01:25:50Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
       "seenAt": "2026-06-11T08:01:24Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
       "seenAt": "2026-06-11T08:01:24Z"
+    },
+    {
+      "url": "https://ollama.com/blog/mlx-performance",
+      "seenAt": "2026-06-12T01:28:49Z"
     }
   ],
   "lastItems": [
@@ -33,10 +33,11 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-09T19:38:28Z"
+      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
+      "url": "https://ollama.com/blog/mlx-performance",
+      "source": "Ollama",
+      "summary": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
+      "publishedAt": "2026-06-11T00:00:00Z"
     }
   ]
 }
