@@ -1,25 +1,19 @@
 {
   "recent": [
     {
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "seenAt": "2026-06-12T18:59:34Z"
+    },
+    {
       "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-      "seenAt": "2026-06-12T13:29:01Z"
+      "seenAt": "2026-06-13T18:47:42Z"
     },
     {
       "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-12T13:29:01Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "seenAt": "2026-06-12T18:59:34Z"
+      "seenAt": "2026-06-13T18:47:42Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-12T15:56:10Z"
-    },
     {
       "title": "Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
       "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
@@ -33,6 +27,12 @@
       "source": "OpenAI",
       "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "publishedAt": "2026-05-27T00:00:00Z"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-12T15:56:10Z"
     }
   ]
 }
