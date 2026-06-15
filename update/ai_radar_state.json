@@ -22,17 +22,17 @@
       "publishedAt": "2026-05-27T00:00:00Z"
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-12T15:56:10Z"
-    },
-    {
       "title": "Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
       "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
       "source": "Latent.Space",
       "summary": "a quiet day lets us reflect on a great essay",
       "publishedAt": "2026-06-11T03:14:26Z"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-12T15:56:10Z"
     }
   ]
 }
