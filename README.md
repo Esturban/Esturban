@@ -29,7 +29,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
-- [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
+- [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) (OpenAI, 16 Jun 2026)
 - [Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo](https://www.latent.space/p/ainews-open-models-model-labs-vs) (Latent.Space, 11 Jun 2026)
 - [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) (Hugging Face, 12 Jun 2026)
 
