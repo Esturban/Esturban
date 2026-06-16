@@ -21,7 +21,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-45-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-50-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-46-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-50-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo](https://www.latent.space/p/ainews-open-models-model-labs-vs) (Latent.Space, 11 Jun 2026)
-- [Ollama's highest performance on Apple Silicon yet with MLX](https://ollama.com/blog/mlx-performance) (Ollama, 11 Jun 2026)
+- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) (Hugging Face, 12 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
