@@ -15,15 +15,19 @@
     {
       "url": "https://ollama.com/blog/mlx-performance",
       "seenAt": "2026-06-16T08:21:10Z"
+    },
+    {
+      "url": "https://openai.com/index/deployment-simulation",
+      "seenAt": "2026-06-16T19:29:41Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
       "source": "OpenAI",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "publishedAt": "2026-05-27T00:00:00Z"
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "publishedAt": "2026-06-16T00:00:00Z"
     },
     {
       "title": "Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
