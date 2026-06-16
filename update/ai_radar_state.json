@@ -11,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "seenAt": "2026-06-16T01:32:21Z"
+    },
+    {
+      "url": "https://ollama.com/blog/mlx-performance",
+      "seenAt": "2026-06-16T08:21:10Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,11 @@
       "publishedAt": "2026-06-11T03:14:26Z"
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-12T15:56:10Z"
+      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
+      "url": "https://ollama.com/blog/mlx-performance",
+      "source": "Ollama",
+      "summary": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
+      "publishedAt": "2026-06-11T00:00:00Z"
     }
   ]
 }
