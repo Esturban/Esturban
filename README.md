@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) (OpenAI, 27 May 2026)
 - [Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo](https://www.latent.space/p/ainews-open-models-model-labs-vs) (Latent.Space, 11 Jun 2026)
-- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) (Hugging Face, 12 Jun 2026)
+- [Ollama's highest performance on Apple Silicon yet with MLX](https://ollama.com/blog/mlx-performance) (Ollama, 11 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
