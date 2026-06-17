@@ -1,40 +1,36 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/warp",
-      "seenAt": "2026-06-16T01:32:21Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-      "seenAt": "2026-06-16T01:32:21Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "seenAt": "2026-06-16T01:32:21Z"
-    },
-    {
       "url": "https://ollama.com/blog/mlx-performance",
       "seenAt": "2026-06-16T08:21:10Z"
     },
     {
       "url": "https://openai.com/index/deployment-simulation",
       "seenAt": "2026-06-16T19:29:41Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "seenAt": "2026-06-17T08:13:18Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "seenAt": "2026-06-17T08:13:18Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "source": "Latent.Space",
+      "summary": "We have a new top open model in the world!",
+      "publishedAt": "2026-06-17T05:37:40Z"
+    },
     {
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation",
       "source": "OpenAI",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "publishedAt": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
-      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-      "source": "Latent.Space",
-      "summary": "a quiet day lets us reflect on a great essay",
-      "publishedAt": "2026-06-11T03:14:26Z"
     },
     {
       "title": "olmo-eval: An evaluation workbench for the model development loop",
