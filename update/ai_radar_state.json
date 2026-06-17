@@ -15,9 +15,20 @@
     {
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
       "seenAt": "2026-06-17T13:32:36Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "seenAt": "2026-06-17T19:09:27Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\"\u003eResearch in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "publishedAt": "2026-06-17T15:00:00Z"
+    },
     {
       "title": "GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
       "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
@@ -31,12 +42,6 @@
       "source": "OpenAI",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "publishedAt": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-17T10:18:05Z"
     }
   ]
 }

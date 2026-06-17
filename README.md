@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [New research shows how AMIE, our medical AI, could help manage health conditions.](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/) (Google AI, 17 Jun 2026)
 - [GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding](https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding) (Latent.Space, 17 Jun 2026)
 - [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) (OpenAI, 16 Jun 2026)
-- [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (Hugging Face, 17 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
