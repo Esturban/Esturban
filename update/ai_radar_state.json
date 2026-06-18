@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-      "seenAt": "2026-06-17T08:13:18Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "seenAt": "2026-06-17T08:13:18Z"
-    },
-    {
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
       "seenAt": "2026-06-17T13:32:36Z"
     },
@@ -19,9 +11,19 @@
     {
       "url": "https://openai.com/index/deployment-simulation",
       "seenAt": "2026-06-18T01:28:09Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-18T13:29:44Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-18T00:00:00Z"
+    },
     {
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -35,13 +37,6 @@
       "source": "OpenAI",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "publishedAt": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
-      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-      "source": "Latent.Space",
-      "summary": "We have a new top open model in the world!",
-      "publishedAt": "2026-06-17T05:37:40Z"
     }
   ]
 }
