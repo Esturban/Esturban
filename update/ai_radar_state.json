@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
-      "seenAt": "2026-06-17T19:09:27Z"
-    },
-    {
-      "url": "https://openai.com/index/deployment-simulation",
-      "seenAt": "2026-06-18T01:28:09Z"
-    },
-    {
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "seenAt": "2026-06-18T13:29:44Z"
+    },
+    {
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "seenAt": "2026-06-19T01:33:52Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "seenAt": "2026-06-19T01:33:52Z"
     }
   ],
   "lastItems": [
@@ -21,11 +21,11 @@
       "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "source": "OpenAI",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "publishedAt": "2026-06-16T00:00:00Z"
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "publishedAt": "2026-06-18T11:00:00Z"
     },
     {
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
