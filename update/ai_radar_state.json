@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-22T08:29:56Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-22T14:13:03Z"
     },
@@ -15,6 +11,14 @@
     {
       "url": "https://openai.com/index/patch-the-planet",
       "seenAt": "2026-06-23T01:16:48Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-23T13:17:37Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "seenAt": "2026-06-23T13:17:37Z"
     }
   ],
   "lastItems": [
@@ -32,11 +36,11 @@
       "publishedAt": "2026-06-19T05:53:54Z"
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "publishedAt": "2026-06-22T10:00:00Z"
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\"\u003eResearch in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "publishedAt": "2026-06-17T15:00:00Z"
     }
   ]
 }
