@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/deployment-simulation",
       "seenAt": "2026-06-22T19:28:21Z"
+    },
+    {
+      "url": "https://openai.com/index/patch-the-planet",
+      "seenAt": "2026-06-23T01:16:48Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-06-19T05:53:54Z"
     },
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "publishedAt": "2026-06-16T00:00:00Z"
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "publishedAt": "2026-06-22T10:00:00Z"
     }
   ]
 }
