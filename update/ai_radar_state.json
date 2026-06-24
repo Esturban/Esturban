@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-23T13:17:37Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
-      "seenAt": "2026-06-23T13:17:37Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-23T19:00:21Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "seenAt": "2026-06-24T13:05:43Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-24T18:56:04Z"
     }
   ],
   "lastItems": [
