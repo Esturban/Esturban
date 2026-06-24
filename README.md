@@ -30,8 +30,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Hugging Face, 18 Jun 2026)
-- [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) (OpenAI, 23 Jun 2026)
 - [GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December](https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe) (Latent.Space, 19 Jun 2026)
+- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) (OpenAI, 24 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
