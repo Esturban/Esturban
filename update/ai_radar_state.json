@@ -15,6 +15,10 @@
     {
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "seenAt": "2026-06-24T01:15:12Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "seenAt": "2026-06-24T13:05:43Z"
     }
   ],
   "lastItems": [
@@ -25,18 +29,18 @@
       "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "publishedAt": "2026-06-23T13:00:00Z"
-    },
-    {
       "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "source": "Latent.Space",
       "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
       "publishedAt": "2026-06-19T05:53:54Z"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "publishedAt": "2026-06-24T06:00:00Z"
     }
   ]
 }
