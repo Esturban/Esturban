@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-25T01:19:26Z"
+    },
+    {
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "seenAt": "2026-06-25T07:30:30Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-06-19T05:53:54Z"
     },
     {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "source": "OpenAI",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "publishedAt": "2026-06-24T06:00:00Z"
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "publishedAt": "2026-06-23T13:00:00Z"
     }
   ]
 }
