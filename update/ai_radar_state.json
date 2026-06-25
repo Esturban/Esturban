@@ -15,6 +15,10 @@
     {
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "seenAt": "2026-06-25T07:30:30Z"
+    },
+    {
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "seenAt": "2026-06-25T13:05:40Z"
     }
   ],
   "lastItems": [
@@ -32,11 +36,11 @@
       "publishedAt": "2026-06-19T05:53:54Z"
     },
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
       "source": "OpenAI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "publishedAt": "2026-06-23T13:00:00Z"
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "publishedAt": "2026-06-25T02:00:00Z"
     }
   ]
 }
