@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "seenAt": "2026-06-24T13:05:43Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-24T18:56:04Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-25T01:19:26Z"
     },
@@ -19,6 +11,14 @@
     {
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "seenAt": "2026-06-25T13:05:40Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-25T19:00:07Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+      "seenAt": "2026-06-25T19:00:07Z"
     }
   ],
   "lastItems": [
@@ -36,11 +36,11 @@
       "publishedAt": "2026-06-19T05:53:54Z"
     },
     {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "publishedAt": "2026-06-25T02:00:00Z"
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"\u003eThe new Google Finance is coming out of beta and launching a new Android app.",
+      "publishedAt": "2026-06-25T16:00:00Z"
     }
   ]
 }
