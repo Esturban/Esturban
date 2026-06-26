@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "seenAt": "2026-06-25T13:05:40Z"
-    },
-    {
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "seenAt": "2026-06-25T19:00:07Z"
     },
@@ -23,21 +19,25 @@
     {
       "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
       "seenAt": "2026-06-26T13:00:40Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "seenAt": "2026-06-26T18:56:40Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "publishedAt": "2026-06-26T10:00:00Z"
+    },
     {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "source": "Hugging Face",
       "publishedAt": "2026-06-18T00:00:00Z"
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"\u003eThe new Google Finance is coming out of beta and launching a new Android app.",
-      "publishedAt": "2026-06-25T16:00:00Z"
     },
     {
       "title": "Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",

@@ -29,8 +29,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) (OpenAI, 26 Jun 2026)
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Hugging Face, 18 Jun 2026)
-- [Our latest Google Finance upgrades, including a new app](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/) (Google AI, 25 Jun 2026)
 - [Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack](https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive) (Latent.Space, 24 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
