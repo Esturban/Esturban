@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "seenAt": "2026-06-25T07:30:30Z"
-    },
-    {
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "seenAt": "2026-06-25T13:05:40Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-26T01:22:27Z"
+    },
+    {
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "seenAt": "2026-06-26T07:36:31Z"
     }
   ],
   "lastItems": [
@@ -29,18 +29,18 @@
       "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
-      "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
-      "source": "Latent.Space",
-      "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
-      "publishedAt": "2026-06-19T05:53:54Z"
-    },
-    {
       "title": "Our latest Google Finance upgrades, including a new app",
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"\u003eThe new Google Finance is coming out of beta and launching a new Android app.",
       "publishedAt": "2026-06-25T16:00:00Z"
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "publishedAt": "2026-06-23T13:00:00Z"
     }
   ]
 }
