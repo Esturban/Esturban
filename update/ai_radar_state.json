@@ -19,6 +19,10 @@
     {
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "seenAt": "2026-06-26T07:36:31Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "seenAt": "2026-06-26T13:00:40Z"
     }
   ],
   "lastItems": [
@@ -36,11 +40,11 @@
       "publishedAt": "2026-06-25T16:00:00Z"
     },
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "publishedAt": "2026-06-23T13:00:00Z"
+      "title": "Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "source": "Latent.Space",
+      "summary": "Claude finally gets a Slackbot upgrade",
+      "publishedAt": "2026-06-24T07:14:26Z"
     }
   ]
 }
