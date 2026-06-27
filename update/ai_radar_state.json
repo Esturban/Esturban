@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-25T19:00:07Z"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-      "seenAt": "2026-06-25T19:00:07Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-26T01:22:27Z"
     },
@@ -23,6 +15,10 @@
     {
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "seenAt": "2026-06-26T18:56:40Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-27T01:17:26Z"
     }
   ],
   "lastItems": [
