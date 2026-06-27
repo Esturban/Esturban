@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "seenAt": "2026-06-26T07:36:31Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
       "seenAt": "2026-06-26T13:00:40Z"
     },
@@ -23,17 +19,17 @@
   ],
   "lastItems": [
     {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face",
+      "publishedAt": "2026-06-18T00:00:00Z"
+    },
+    {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "source": "OpenAI",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "publishedAt": "2026-06-26T10:00:00Z"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face",
-      "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
       "title": "OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
