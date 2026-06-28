@@ -11,6 +11,10 @@
     {
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
       "seenAt": "2026-06-28T07:39:00Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+      "seenAt": "2026-06-28T18:43:20Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-06-26T10:00:00Z"
     },
     {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"\u003eThe new Google Finance is coming out of beta and launching a new Android app.",
-      "publishedAt": "2026-06-25T16:00:00Z"
+      "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+      "source": "Latent.Space",
+      "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+      "publishedAt": "2026-06-19T05:53:54Z"
     }
   ]
 }
