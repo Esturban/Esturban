@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "seenAt": "2026-06-27T07:24:24Z"
-    },
-    {
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "seenAt": "2026-06-28T01:24:08Z"
     },
     {
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "seenAt": "2026-06-28T01:24:08Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+      "seenAt": "2026-06-28T07:39:00Z"
     }
   ],
   "lastItems": [
@@ -28,11 +28,11 @@
       "publishedAt": "2026-06-26T10:00:00Z"
     },
     {
-      "title": "OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "source": "Latent.Space",
-      "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
-      "publishedAt": "2026-06-27T05:23:22Z"
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"\u003eThe new Google Finance is coming out of beta and launching a new Android app.",
+      "publishedAt": "2026-06-25T16:00:00Z"
     }
   ]
 }
