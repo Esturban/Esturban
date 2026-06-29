@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "seenAt": "2026-06-29T01:25:15Z"
+    },
+    {
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "seenAt": "2026-06-29T13:47:31Z"
     }
   ],
   "lastItems": [
@@ -21,11 +25,11 @@
       "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
       "source": "OpenAI",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "publishedAt": "2026-06-26T10:00:00Z"
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "publishedAt": "2026-06-28T17:00:00Z"
     },
     {
       "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
