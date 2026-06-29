@@ -21,6 +21,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## GitHub Snapshot
 
+![Public Repos](https://img.shields.io/badge/Public%20Repos-46-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-50-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
 </p>
@@ -28,7 +30,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Hugging Face, 18 Jun 2026)
-- [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership) (OpenAI, 28 Jun 2026)
+- [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) (Google AI, 29 Jun 2026)
 - [GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December](https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe) (Latent.Space, 19 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
