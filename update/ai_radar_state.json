@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-29T01:25:15Z"
-    },
-    {
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "seenAt": "2026-06-29T01:25:15Z"
-    },
-    {
       "url": "https://openai.com/index/hp-frontier-partnership",
       "seenAt": "2026-06-29T13:47:31Z"
     },
@@ -19,6 +11,14 @@
     {
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "seenAt": "2026-06-29T18:59:18Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-06-30T07:36:47Z"
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+      "seenAt": "2026-06-30T07:36:47Z"
     }
   ],
   "lastItems": [
@@ -29,11 +29,11 @@
       "publishedAt": "2026-06-18T00:00:00Z"
     },
     {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"\u003eA Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "publishedAt": "2026-06-29T16:00:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"\u003eGoogle UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "publishedAt": "2026-06-30T06:00:00Z"
     },
     {
       "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
