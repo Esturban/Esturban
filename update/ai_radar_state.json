@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "seenAt": "2026-06-29T13:47:31Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
       "seenAt": "2026-06-29T18:59:18Z"
     },
@@ -19,14 +15,22 @@
     {
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
       "seenAt": "2026-06-30T07:36:47Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "seenAt": "2026-06-30T18:57:46Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "seenAt": "2026-06-30T18:57:46Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-18T00:00:00Z"
+      "publishedAt": "2026-06-30T18:32:50Z"
     },
     {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
@@ -36,11 +40,11 @@
       "publishedAt": "2026-06-30T06:00:00Z"
     },
     {
-      "title": "GLM \u003e GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
-      "source": "Latent.Space",
-      "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
-      "publishedAt": "2026-06-19T05:53:54Z"
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "publishedAt": "2026-06-30T00:00:00Z"
     }
   ]
 }
