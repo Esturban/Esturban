@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "seenAt": "2026-06-30T07:36:47Z"
-    },
-    {
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "seenAt": "2026-06-30T07:36:47Z"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "seenAt": "2026-06-30T18:57:46Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
       "seenAt": "2026-07-01T01:25:01Z"
+    },
+    {
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "seenAt": "2026-07-01T07:49:36Z"
     }
   ],
   "lastItems": [
@@ -30,17 +26,17 @@
       "publishedAt": "2026-06-29T00:00:00Z"
     },
     {
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories \u0026 Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "source": "Latent.Space",
+      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+      "publishedAt": "2026-07-01T04:46:21Z"
+    },
+    {
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face",
       "publishedAt": "2026-06-30T18:32:50Z"
-    },
-    {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"\u003eGoogle UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-      "publishedAt": "2026-06-30T06:00:00Z"
     }
   ]
 }
