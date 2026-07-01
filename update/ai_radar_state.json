@@ -1,20 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "seenAt": "2026-06-30T18:57:46Z"
-    },
-    {
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "seenAt": "2026-06-30T18:57:46Z"
-    },
-    {
       "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
       "seenAt": "2026-07-01T01:25:01Z"
     },
     {
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "seenAt": "2026-07-01T07:49:36Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-07-01T18:58:16Z"
     }
   ],
   "lastItems": [
@@ -33,10 +29,10 @@
       "publishedAt": "2026-07-01T04:46:21Z"
     },
     {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-30T18:32:50Z"
+      "publishedAt": "2026-06-18T00:00:00Z"
     }
   ]
 }
