@@ -29,9 +29,9 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Faster Gemma 4 on MLX with multi-token prediction](https://ollama.com/blog/faster-gemma-4-mlx-mtp) (Ollama, 29 Jun 2026)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (Hugging Face, 30 Jun 2026)
 - [Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) (Google AI, 30 Jun 2026)
-- [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) (OpenAI, 30 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
