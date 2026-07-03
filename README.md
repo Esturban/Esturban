@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Faster Gemma 4 on MLX with multi-token prediction](https://ollama.com/blog/faster-gemma-4-mlx-mtp) (Ollama, 29 Jun 2026)
 - [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://www.latent.space/p/aiewf-daily-dispatch-loops) (Latent.Space, 1 Jul 2026)
-- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (Hugging Face, 30 Jun 2026)
+- [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Hugging Face, 18 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

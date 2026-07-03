@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "seenAt": "2026-07-03T09:36:16Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "seenAt": "2026-07-03T19:51:33Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,10 @@
       "publishedAt": "2026-07-01T04:46:21Z"
     },
     {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-30T18:32:50Z"
+      "publishedAt": "2026-06-18T00:00:00Z"
     }
   ]
 }
