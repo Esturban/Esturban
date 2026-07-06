@@ -11,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "seenAt": "2026-07-06T04:41:04Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "seenAt": "2026-07-06T11:05:00Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,10 @@
       "publishedAt": "2026-06-29T00:00:00Z"
     },
     {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
       "source": "Hugging Face",
-      "publishedAt": "2026-06-18T00:00:00Z"
+      "publishedAt": "2026-07-07T00:00:00Z"
     }
   ]
 }
