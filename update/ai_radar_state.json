@@ -1,38 +1,42 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "seenAt": "2026-07-06T15:55:19Z"
-    },
-    {
-      "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
-      "seenAt": "2026-07-06T15:55:19Z"
-    },
-    {
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "seenAt": "2026-07-07T15:17:03Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "seenAt": "2026-07-07T20:16:29Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "seenAt": "2026-07-07T20:16:29Z"
+    },
+    {
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "seenAt": "2026-07-07T20:16:29Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"\u003eWe’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "publishedAt": "2026-07-07T08:54:00Z"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-07T15:20:06Z"
+    },
     {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories \u0026 Forward Deployed Engineers",
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "source": "Latent.Space",
       "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
       "publishedAt": "2026-07-01T04:46:21Z"
-    },
-    {
-      "title": "Faster Gemma 4 on MLX with multi-token prediction",
-      "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
-      "source": "Ollama",
-      "summary": "Gemma 4 is now significantly faster in Ollama 0.31 on Apple Silicon via multi-token prediction (MTP), powered by MLX. Performance is now up to 90% faster when used with coding agents, as measured using the Aider polyglot benchmark.",
-      "publishedAt": "2026-06-29T00:00:00Z"
-    },
-    {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-07T00:00:00Z"
     }
   ]
 }
