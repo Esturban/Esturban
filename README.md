@@ -31,7 +31,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) (Google AI, 7 Jul 2026)
 - [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) (Hugging Face, 7 Jul 2026)
-- [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://www.latent.space/p/aiewf-daily-dispatch-loops) (Latent.Space, 1 Jul 2026)
+- [Faster Gemma 4 on MLX with multi-token prediction](https://ollama.com/blog/faster-gemma-4-mlx-mtp) (Ollama, 29 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
