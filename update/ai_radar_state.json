@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "seenAt": "2026-07-07T15:17:03Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
       "seenAt": "2026-07-07T20:16:29Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
       "seenAt": "2026-07-08T08:44:59Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "seenAt": "2026-07-08T19:56:25Z"
     }
   ],
   "lastItems": [
@@ -30,10 +30,11 @@
       "publishedAt": "2026-07-07T08:54:00Z"
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-07T15:20:06Z"
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "publishedAt": "2026-07-08T00:00:00Z"
     },
     {
       "title": "Faster Gemma 4 on MLX with multi-token prediction",
