@@ -21,7 +21,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-46-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-50-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-46-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-15-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-50-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -29,8 +29,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 ## AI Radar
 
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) (OpenAI, 8 Jul 2026)
 - [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) (Google AI, 7 Jul 2026)
-- [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live) (OpenAI, 8 Jul 2026)
 - [Faster Gemma 4 on MLX with multi-token prediction](https://ollama.com/blog/faster-gemma-4-mlx-mtp) (Ollama, 29 Jun 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
