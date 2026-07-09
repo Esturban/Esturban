@@ -15,6 +15,10 @@
     {
       "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
       "seenAt": "2026-07-09T10:02:31Z"
+    },
+    {
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "seenAt": "2026-07-09T15:35:06Z"
     }
   ],
   "lastItems": [
@@ -26,18 +30,18 @@
       "publishedAt": "2026-07-08T13:00:00Z"
     },
     {
+      "title": "Ollama: all aboard open models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Ollama",
+      "summary": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
+      "publishedAt": "2026-07-09T00:00:00Z"
+    },
+    {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"\u003eWe’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "publishedAt": "2026-07-07T08:54:00Z"
-    },
-    {
-      "title": "SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
-      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-      "source": "Latent.Space",
-      "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
-      "publishedAt": "2026-07-09T06:05:41Z"
     }
   ]
 }

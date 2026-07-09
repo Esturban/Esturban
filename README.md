@@ -30,8 +30,8 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 ## AI Radar
 
 - [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) (OpenAI, 8 Jul 2026)
+- [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models) (Ollama, 9 Jul 2026)
 - [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) (Google AI, 7 Jul 2026)
-- [SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition](https://www.latent.space/p/ainews-spacexai-launches-grok-45) (Latent.Space, 9 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
