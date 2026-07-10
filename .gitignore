@@ -3,3 +3,5 @@
 .gstack/
 update/update
 .codegraph/
+.wolf/
+.claude/
