@@ -34,7 +34,6 @@ type profileConfig struct {
 	ActiveBuilds    []projectCard `json:"activeBuilds"`
 	OpenSourceTools []projectCard `json:"openSourceTools"`
 	PrivateSystems  []privateCard `json:"privateSystems"`
-	WorkWithMe      ctaBlock      `json:"workWithMe"`
 	GitHubStats     githubStats   `json:"githubStats"`
 	Meta            metaConfig    `json:"meta"`
 	AIRadar         aiRadarConfig `json:"aiRadar"`
@@ -54,11 +53,6 @@ type projectCard struct {
 type privateCard struct {
 	Name    string `json:"name"`
 	Summary string `json:"summary"`
-}
-
-type ctaBlock struct {
-	Title string `json:"title"`
-	Body  string `json:"body"`
 }
 
 type githubStats struct {
@@ -643,14 +637,15 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	fmt.Fprintf(&b, "![Profile Views](https://komarev.com/ghpvc/?username=%s&color=blue&style=flat-square&label=profile+views)\n\n", owner)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
 
-	// CTA first
-	writeCTA(&b, profile.WorkWithMe)
-
 	// Now: short bullets that read like a person, not a tagline generator.
 	writeBullets(&b, "Now", profile.Now)
 
 	// Tech stack badges
 	writeTechStack(&b, profile.TechStack)
+
+	// Concrete work: active builds and open-source tools, each with a star count.
+	writeProjects(&b, "Active Builds", profile.ActiveBuilds, stars)
+	writeProjects(&b, "Open Source Tools", profile.OpenSourceTools, stars)
 
 	// Private work: concise pointer to the portfolio without salesy framing.
 	writePrivateSystems(&b, profile.PrivateSystems, profile.PortfolioURL, profile.PortfolioLabel)
@@ -805,13 +800,6 @@ func writeAIRadar(b *strings.Builder, radar []radarItem) {
 		fmt.Fprintf(b, "- [%s](%s) (%s, %s)\n", item.Title, item.URL, item.Source, publishedLabel(item.PublishedAt))
 	}
 	fmt.Fprintf(b, "\nBenchmark pulse: I check [LiveBench](https://livebench.ai) daily.\n\n")
-}
-
-func writeCTA(b *strings.Builder, block ctaBlock) {
-	if block.Title == "" || block.Body == "" {
-		return
-	}
-	fmt.Fprintf(b, "## %s\n\n%s\n\n", block.Title, block.Body)
 }
 
 func writeMeta(b *strings.Builder, profile profileConfig) {
