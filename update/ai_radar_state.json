@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "seenAt": "2026-07-14T09:56:49Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "seenAt": "2026-07-14T10:18:55Z"
     }
   ],
   "lastItems": [
@@ -29,11 +33,11 @@
       "publishedAt": "2026-07-09T00:00:00Z"
     },
     {
-      "title": "AIEWF Daily Dispatch: Loops, Software Factories \u0026 Forward Deployed Engineers",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "source": "Latent.Space",
-      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
-      "publishedAt": "2026-07-01T04:46:21Z"
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "DeepMind",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "publishedAt": "2026-07-13T12:37:28Z"
     }
   ]
 }
