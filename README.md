@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) (OpenAI, 8 Jul 2026)
 - [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models) (Ollama, 9 Jul 2026)
-- [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) (DeepMind, 13 Jul 2026)
+- [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) (Google AI, 7 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
