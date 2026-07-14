@@ -61,10 +61,6 @@
       "summary": "A deterministic resume parsing and job-fit scoring service with explicit evaluation rules and clear failure handling."
     }
   ],
-  "workWithMe": {
-    "title": "Work With Me",
-    "body": "If you need someone who can connect model behavior, data systems, APIs, and the automation around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest)."
-  },
   "techStack": ["Go", "Python", "PostgreSQL", "Docker", "Bash", "GitHub Actions"],
   "githubStats": {
     "enabled": true,

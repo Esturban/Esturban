@@ -6,16 +6,24 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 [Portfolio](https://works.estebanvalencia.com) · [LinkedIn](https://linkedin.com/in/valest) · [Resume](https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link)
 
-## Work With Me
-
-If you need someone who can connect model behavior, data systems, APIs, and the automation around them, start with [the broader portfolio](https://works.estebanvalencia.com) or reach out on [LinkedIn](https://linkedin.com/in/valest).
-
 ## Now
 
 - Building retrieval, validation, and scoring systems across AI and data workflows.
 - Shipping repo-native tools that bring geospatial, finance, and ML work into the same decision flow.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+## Active Builds
+
+- [niche-radar](https://github.com/Esturban/niche-radar) ★0: A niche finder that pulls from external sources and turns noisy market inputs into signals you can use.
+- [ingo](https://github.com/Esturban/ingo) ★0: A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
+- [li-jobs](https://github.com/Esturban/li-jobs) ★0: A jobs collection API for scraping, normalization, and downstream job-data workflows.
+
+## Open Source Tools
+
+- [open_ksa](https://github.com/Esturban/open_ksa) ★3: A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
+- [tidyup](https://github.com/Esturban/tidyup) ★0: A CLI utility for sorting files and folders by extension and date.
+- [translagent](https://github.com/Esturban/translagent) ★0: A translation app with transliteration and audio support, built end to end.
 
 **Private work:** Purchase-Likelihood Scoring Pipeline · Geodatabase Validation Toolkit · ATS Scanner. More at [works.estebanvalencia.com](https://works.estebanvalencia.com).
 
@@ -31,7 +39,7 @@ If you need someone who can connect model behavior, data systems, APIs, and the 
 
 - [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) (OpenAI, 8 Jul 2026)
 - [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models) (Ollama, 9 Jul 2026)
-- [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) (Google AI, 7 Jul 2026)
+- [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://www.latent.space/p/aiewf-daily-dispatch-loops) (Latent.Space, 1 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

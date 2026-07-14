@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "seenAt": "2026-07-13T09:48:23Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "seenAt": "2026-07-13T09:48:23Z"
-    },
-    {
       "url": "https://ollama.com/blog/all-aboard-open-models",
       "seenAt": "2026-07-14T08:28:46Z"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "seenAt": "2026-07-14T09:56:49Z"
+    },
+    {
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "seenAt": "2026-07-14T09:56:49Z"
     }
   ],
   "lastItems": [
@@ -29,11 +29,11 @@
       "publishedAt": "2026-07-09T00:00:00Z"
     },
     {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"\u003eWe’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "publishedAt": "2026-07-07T08:54:00Z"
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories \u0026 Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "source": "Latent.Space",
+      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+      "publishedAt": "2026-07-01T04:46:21Z"
     }
   ]
 }
