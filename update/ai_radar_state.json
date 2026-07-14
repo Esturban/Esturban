@@ -19,6 +19,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
       "seenAt": "2026-07-14T14:14:59Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "seenAt": "2026-07-14T19:44:47Z"
     }
   ],
   "lastItems": [
@@ -37,11 +41,11 @@
       "publishedAt": "2026-07-09T00:00:00Z"
     },
     {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"\u003eWe’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "publishedAt": "2026-07-07T08:54:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp\"\u003eGoogle Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "publishedAt": "2026-07-14T16:00:00Z"
     }
   ]
 }
