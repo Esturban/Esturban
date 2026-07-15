@@ -5,3 +5,9 @@ update/update
 .codegraph/
 .wolf/
 .claude/
+CLAUDE.md
+GEMINI.md
+gemini.md
+.cursor/
+copilot-instructions.md
+*.code-workspace
