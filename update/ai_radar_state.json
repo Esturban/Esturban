@@ -1,18 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "seenAt": "2026-07-14T09:56:49Z"
-    },
-    {
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "seenAt": "2026-07-14T09:56:49Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "seenAt": "2026-07-14T10:18:55Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
       "seenAt": "2026-07-14T14:14:59Z"
     },
@@ -27,6 +15,10 @@
     {
       "url": "https://ollama.com/blog/all-aboard-open-models",
       "seenAt": "2026-07-15T08:36:41Z"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "seenAt": "2026-07-15T14:12:04Z"
     }
   ],
   "lastItems": [
