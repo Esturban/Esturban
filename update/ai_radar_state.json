@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "seenAt": "2026-07-14T14:14:59Z"
-    },
-    {
       "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
       "seenAt": "2026-07-14T19:44:47Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "seenAt": "2026-07-15T14:12:04Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "seenAt": "2026-07-15T19:37:34Z"
     }
   ],
   "lastItems": [
@@ -37,11 +37,10 @@
       "publishedAt": "2026-07-09T00:00:00Z"
     },
     {
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "url": "https://www.latent.space/p/aiewf26trends",
-      "source": "Latent.Space",
-      "summary": "At this year's AIE World\u0026#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
-      "publishedAt": "2026-07-14T23:21:21Z"
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-15T17:29:41Z"
     }
   ]
 }
