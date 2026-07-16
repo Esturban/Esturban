@@ -11,21 +11,26 @@
     {
       "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
       "seenAt": "2026-07-15T19:37:34Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "seenAt": "2026-07-16T08:07:53Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "source": "Latent.Space",
+      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+      "publishedAt": "2026-07-16T06:18:05Z"
+    },
     {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI",
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "publishedAt": "2026-07-08T13:00:00Z"
-    },
-    {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-15T17:29:41Z"
     },
     {
       "title": "Ollama: all aboard open models",
