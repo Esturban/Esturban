@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/aiewf26trends",
-      "seenAt": "2026-07-15T03:38:08Z"
-    },
-    {
       "url": "https://ollama.com/blog/all-aboard-open-models",
       "seenAt": "2026-07-15T08:36:41Z"
     },
@@ -26,17 +22,17 @@
       "publishedAt": "2026-07-08T13:00:00Z"
     },
     {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-15T17:29:41Z"
+    },
+    {
       "title": "Ollama: all aboard open models",
       "url": "https://ollama.com/blog/all-aboard-open-models",
       "source": "Ollama",
       "summary": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
       "publishedAt": "2026-07-09T00:00:00Z"
-    },
-    {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-15T17:29:41Z"
     }
   ]
 }

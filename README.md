@@ -38,8 +38,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) (OpenAI, 8 Jul 2026)
-- [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models) (Ollama, 9 Jul 2026)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (Hugging Face, 15 Jul 2026)
+- [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models) (Ollama, 9 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
