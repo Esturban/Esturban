@@ -1,20 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "seenAt": "2026-07-15T08:36:41Z"
-    },
-    {
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "seenAt": "2026-07-15T14:12:04Z"
-    },
-    {
       "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
       "seenAt": "2026-07-15T19:37:34Z"
     },
     {
       "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "seenAt": "2026-07-16T08:07:53Z"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "seenAt": "2026-07-16T14:25:12Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "seenAt": "2026-07-16T14:25:12Z"
     }
   ],
   "lastItems": [
@@ -33,11 +33,10 @@
       "publishedAt": "2026-07-08T13:00:00Z"
     },
     {
-      "title": "Ollama: all aboard open models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Ollama",
-      "summary": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
-      "publishedAt": "2026-07-09T00:00:00Z"
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-16T11:49:48Z"
     }
   ]
 }
