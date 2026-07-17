@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "seenAt": "2026-07-17T08:29:11Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "seenAt": "2026-07-17T14:04:38Z"
     }
   ],
   "lastItems": [
@@ -29,10 +33,10 @@
       "publishedAt": "2026-07-08T13:00:00Z"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "source": "Hugging Face",
-      "publishedAt": "2026-07-16T11:49:48Z"
+      "publishedAt": "2026-07-16T16:01:21Z"
     }
   ]
 }
