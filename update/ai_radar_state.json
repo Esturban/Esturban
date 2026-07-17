@@ -1,25 +1,25 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "seenAt": "2026-07-16T08:07:53Z"
-    },
-    {
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "seenAt": "2026-07-16T14:25:12Z"
     },
     {
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "seenAt": "2026-07-16T14:25:12Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "seenAt": "2026-07-17T08:29:11Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "title": "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "source": "Latent.Space",
-      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
-      "publishedAt": "2026-07-16T06:18:05Z"
+      "summary": "a great week for open models continues.",
+      "publishedAt": "2026-07-17T01:46:36Z"
     },
     {
       "title": "Separating signal from noise in coding evaluations",
