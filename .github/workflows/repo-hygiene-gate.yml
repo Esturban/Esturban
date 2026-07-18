@@ -1,0 +1,59 @@
+name: Repo Hygiene Gate
+
+# GATE at merge (charter: prevent at mint, gate at merge, detect on cadence).
+# Fails the run if a banned path is tracked:
+#   - AI-IDE scaffolding on ANY repo (copilot-instructions.md, .cursor*, .clinerules,
+#     memory-bank/, *.code-workspace) -- never belongs in a repo regardless of visibility.
+#   - .wolf/ or AGENTS.md/AGENTS.MD on a PUBLIC repo only -- local-only harness state
+#     that discloses local filenames/credentials by design; private repos track it
+#     on purpose and are unaffected.
+#
+# Scans the full tracked tree (git ls-files), not just the PR diff, so it also
+# catches drift that predates this workflow -- not only newly-added paths.
+
+on:
+  pull_request:
+    branches: [dev, main, master]
+  push:
+    branches: [dev, main, master]
+
+permissions:
+  contents: read
+
+jobs:
+  hygiene-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Scan tracked files for banned patterns
+        env:
+          REPO_PRIVATE: ${{ github.event.repository.private }}
+        run: |
+          set -euo pipefail
+
+          FAIL=0
+          AI_SCAFFOLD_PATTERN='(^|/)(\.cursor(rules|ignore)?|\.clinerules|memory-bank|copilot-instructions\.md|[^/]*\.code-workspace)$'
+
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            if printf '%s' "$f" | grep -Eq "$AI_SCAFFOLD_PATTERN"; then
+              echo "::error file=${f}::AI-IDE scaffolding must not be committed: ${f}"
+              FAIL=1
+            fi
+          done < <(git ls-files)
+
+          if [ "${REPO_PRIVATE}" != "true" ]; then
+            while IFS= read -r f; do
+              [ -z "$f" ] && continue
+              case "$f" in
+                .wolf/*|AGENTS.md|AGENTS.MD)
+                  echo "::error file=${f}::local-only harness state must stay off a public repo: ${f}"
+                  FAIL=1
+                  ;;
+              esac
+            done < <(git ls-files)
+          fi
+
+          exit "$FAIL"
