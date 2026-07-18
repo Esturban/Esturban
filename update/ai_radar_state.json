@@ -15,15 +15,19 @@
     {
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "seenAt": "2026-07-17T19:34:12Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "seenAt": "2026-07-18T03:34:34Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "title": "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "source": "Latent.Space",
-      "summary": "a great week for open models continues.",
-      "publishedAt": "2026-07-17T01:46:36Z"
+      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+      "publishedAt": "2026-07-16T06:18:05Z"
     },
     {
       "title": "Separating signal from noise in coding evaluations",
