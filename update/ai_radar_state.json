@@ -15,6 +15,10 @@
     {
       "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "seenAt": "2026-07-19T08:34:15Z"
+    },
+    {
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "seenAt": "2026-07-19T13:56:46Z"
     }
   ],
   "lastItems": [
@@ -33,10 +37,11 @@
       "publishedAt": "2026-07-08T13:00:00Z"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-16T11:49:48Z"
+      "title": "Ollama: all aboard open models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Ollama",
+      "summary": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
+      "publishedAt": "2026-07-09T00:00:00Z"
     }
   ]
 }
