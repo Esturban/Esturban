@@ -11,16 +11,13 @@
     {
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "seenAt": "2026-07-22T03:49:28Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "seenAt": "2026-07-22T19:45:43Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "source": "DeepMind",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "publishedAt": "2026-07-21T15:16:30Z"
-    },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -29,11 +26,18 @@
       "publishedAt": "2026-07-21T07:00:00Z"
     },
     {
-      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang \u0026 Ci Chu, Chief Discovery Officer \u0026 Chief AI Scientist)",
-      "url": "https://www.latent.space/p/xaira",
+      "title": "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "source": "Latent.Space",
-      "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
-      "publishedAt": "2026-07-21T19:34:06Z"
+      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+      "publishedAt": "2026-07-16T06:18:05Z"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "source": "DeepMind",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:16:30Z"
     }
   ]
 }
