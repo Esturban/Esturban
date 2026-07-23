@@ -1,16 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "seenAt": "2026-07-22T03:49:28Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "seenAt": "2026-07-22T19:45:43Z"
     },
     {
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
       "seenAt": "2026-07-23T03:46:56Z"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "seenAt": "2026-07-23T08:45:40Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "seenAt": "2026-07-23T08:45:40Z"
     }
   ],
   "lastItems": [
@@ -22,18 +26,18 @@
       "publishedAt": "2026-07-21T07:00:00Z"
     },
     {
-      "title": "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "source": "Latent.Space",
-      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
-      "publishedAt": "2026-07-16T06:18:05Z"
-    },
-    {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
       "source": "DeepMind",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "publishedAt": "2026-07-21T15:16:30Z"
+    },
+    {
+      "title": "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "source": "Latent.Space",
+      "summary": "a great week for open models continues.",
+      "publishedAt": "2026-07-17T01:46:36Z"
     }
   ]
 }

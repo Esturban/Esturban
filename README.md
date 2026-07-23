@@ -38,8 +38,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident) (OpenAI, 21 Jul 2026)
-- [Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)](https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b) (Latent.Space, 16 Jul 2026)
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) (DeepMind, 21 Jul 2026)
+- [Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing](https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest) (Latent.Space, 17 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
