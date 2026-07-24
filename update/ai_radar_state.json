@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "seenAt": "2026-07-23T08:45:40Z"
+    },
+    {
+      "url": "https://www.latent.space/p/poolside",
+      "seenAt": "2026-07-24T03:45:48Z"
     }
   ],
   "lastItems": [
@@ -29,11 +33,11 @@
       "publishedAt": "2026-07-21T15:16:30Z"
     },
     {
-      "title": "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "url": "https://www.latent.space/p/poolside",
       "source": "Latent.Space",
-      "summary": "a great week for open models continues.",
-      "publishedAt": "2026-07-17T01:46:36Z"
+      "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+      "publishedAt": "2026-07-23T05:09:14Z"
     }
   ]
 }
