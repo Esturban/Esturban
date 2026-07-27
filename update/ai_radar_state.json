@@ -15,18 +15,18 @@
   ],
   "lastItems": [
     {
-      "title": "Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "source": "Latent.Space",
-      "summary": "A HUGE win for BFL!",
-      "publishedAt": "2026-07-24T04:30:12Z"
-    },
-    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI",
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "publishedAt": "2026-07-08T13:00:00Z"
+    },
+    {
+      "title": "Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "source": "Latent.Space",
+      "summary": "A HUGE win for BFL!",
+      "publishedAt": "2026-07-24T04:30:12Z"
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
