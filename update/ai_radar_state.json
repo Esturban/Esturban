@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-      "seenAt": "2026-07-27T15:15:29Z"
-    },
-    {
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "seenAt": "2026-07-27T19:56:40Z"
     },
@@ -15,29 +11,41 @@
     {
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
       "seenAt": "2026-07-28T14:40:05Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "seenAt": "2026-07-28T19:54:14Z"
+    },
+    {
+      "url": "https://www.latent.space/p/chatgpt-work",
+      "seenAt": "2026-07-28T19:54:14Z"
+    },
+    {
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "seenAt": "2026-07-28T19:54:14Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "publishedAt": "2026-07-08T13:00:00Z"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\"\u003eIt might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "publishedAt": "2026-07-28T13:00:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"\u003eWe’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "publishedAt": "2026-07-28T16:00:00Z"
     },
     {
-      "title": "Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "url": "https://www.latent.space/p/chatgpt-work",
       "source": "Latent.Space",
-      "summary": "A HUGE win for BFL!",
-      "publishedAt": "2026-07-24T04:30:12Z"
+      "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+      "publishedAt": "2026-07-28T15:26:30Z"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "publishedAt": "2026-07-28T17:00:00Z"
     }
   ]
 }
