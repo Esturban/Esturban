@@ -1,36 +1,36 @@
 {
   "recent": [
     {
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "seenAt": "2026-07-29T19:45:48Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "seenAt": "2026-07-30T03:31:38Z"
+    },
+    {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "seenAt": "2026-07-28T19:54:14Z"
+      "seenAt": "2026-07-30T03:31:38Z"
     },
     {
       "url": "https://www.latent.space/p/chatgpt-work",
-      "seenAt": "2026-07-28T19:54:14Z"
-    },
-    {
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "seenAt": "2026-07-28T19:54:14Z"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "seenAt": "2026-07-29T19:45:48Z"
+      "seenAt": "2026-07-30T03:31:38Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "publishedAt": "2026-07-29T00:00:00Z"
+    },
     {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"\u003eWe’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "publishedAt": "2026-07-28T16:00:00Z"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "publishedAt": "2026-07-29T10:00:00Z"
     },
     {
       "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
