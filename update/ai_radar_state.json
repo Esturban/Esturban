@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ontologies-agentic-systems",
-      "seenAt": "2026-07-30T14:34:06Z"
-    },
-    {
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "seenAt": "2026-07-31T03:52:13Z"
     },
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "seenAt": "2026-07-31T03:52:13Z"
+    },
+    {
+      "url": "https://www.latent.space/p/chatgpt-work",
+      "seenAt": "2026-07-31T14:37:32Z"
     }
   ],
   "lastItems": [
@@ -29,11 +29,11 @@
       "publishedAt": "2026-07-28T16:00:00Z"
     },
     {
-      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
-      "url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "url": "https://www.latent.space/p/chatgpt-work",
       "source": "Latent.Space",
-      "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
-      "publishedAt": "2026-07-30T11:17:55Z"
+      "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+      "publishedAt": "2026-07-28T15:26:30Z"
     }
   ]
 }
