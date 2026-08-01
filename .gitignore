@@ -11,3 +11,8 @@ gemini.md
 .cursor/
 copilot-instructions.md
 *.code-workspace
+hours-report*.xlsx
+**/data/time/*.xlsx
+**/time/*.xlsx
+AGENTS.md
+AGENTS.MD
