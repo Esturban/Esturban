@@ -15,6 +15,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "seenAt": "2026-08-01T03:52:50Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "seenAt": "2026-08-01T08:34:41Z"
     }
   ],
   "lastItems": [
@@ -33,11 +37,11 @@
       "publishedAt": "2026-07-28T16:00:00Z"
     },
     {
-      "title": "GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
-      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "url": "https://www.latent.space/p/ontologies-agentic-systems",
       "source": "Latent.Space",
-      "summary": "Distillation is all you need!",
-      "publishedAt": "2026-07-31T04:40:54Z"
+      "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
+      "publishedAt": "2026-07-30T11:17:55Z"
     }
   ]
 }

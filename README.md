@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) (OpenAI, 29 Jul 2026)
 - [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) (Google AI, 28 Jul 2026)
-- [GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization](https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80) (Latent.Space, 31 Jul 2026)
+- [Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web](https://www.latent.space/p/ontologies-agentic-systems) (Latent.Space, 30 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
