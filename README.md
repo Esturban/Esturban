@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) (OpenAI, 29 Jul 2026)
 - [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) (Google AI, 28 Jul 2026)
-- [Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web](https://www.latent.space/p/ontologies-agentic-systems) (Latent.Space, 30 Jul 2026)
+- [Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI](https://www.latent.space/p/chatgpt-work) (Latent.Space, 28 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
