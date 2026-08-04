@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/chatgpt-work",
-      "seenAt": "2026-08-03T15:18:19Z"
-    },
-    {
       "url": "https://www.latent.space/p/inference-eng",
       "seenAt": "2026-08-04T03:40:28Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "seenAt": "2026-08-04T09:09:52Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "seenAt": "2026-08-04T19:58:35Z"
     }
   ],
   "lastItems": [
@@ -30,18 +30,18 @@
       "publishedAt": "2026-08-04T03:49:14Z"
     },
     {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\"\u003eKaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "publishedAt": "2026-08-03T15:00:00Z"
+    },
+    {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "source": "OpenAI",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "publishedAt": "2026-07-29T00:00:00Z"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"\u003eWe’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "publishedAt": "2026-07-28T16:00:00Z"
     }
   ]
 }
