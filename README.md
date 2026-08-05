@@ -37,9 +37,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) (OpenAI, 4 Aug 2026)
 - [Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork](https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new) (Latent.Space, 4 Aug 2026)
 - [Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/) (Google AI, 3 Aug 2026)
-- [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) (OpenAI, 29 Jul 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
