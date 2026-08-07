@@ -15,15 +15,23 @@
     {
       "url": "https://www.latent.space/p/unpacking-chatgpt-work",
       "seenAt": "2026-08-07T07:43:11Z"
+    },
+    {
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "seenAt": "2026-08-07T19:17:28Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "seenAt": "2026-08-07T19:17:28Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "publishedAt": "2026-08-04T19:00:00Z"
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "publishedAt": "2026-08-07T15:20:00Z"
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
@@ -33,11 +41,11 @@
       "publishedAt": "2026-08-03T15:00:00Z"
     },
     {
-      "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
-      "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+      "title": "AMD buys Taalas",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
       "source": "Latent.Space",
-      "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work.",
-      "publishedAt": "2026-08-04T18:20:14Z"
+      "summary": "The Inference Inflection is HEATING up.",
+      "publishedAt": "2026-08-07T05:13:46Z"
     }
   ]
 }
