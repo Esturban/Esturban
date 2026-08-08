@@ -38,8 +38,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) (OpenAI, 7 Aug 2026)
+- [Zawinski's Law of MultiAgents](https://www.latent.space/p/ainews-zawinskis-law-of-multiagents) (Latent.Space, 8 Aug 2026)
 - [Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/) (Google AI, 3 Aug 2026)
-- [AMD buys Taalas](https://www.latent.space/p/ainews-amd-buys-taalas) (Latent.Space, 7 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "seenAt": "2026-08-07T00:16:40Z"
-    },
-    {
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "seenAt": "2026-08-07T07:43:11Z"
     },
@@ -23,6 +19,10 @@
     {
       "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
       "seenAt": "2026-08-07T19:17:28Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+      "seenAt": "2026-08-08T02:22:52Z"
     }
   ],
   "lastItems": [
@@ -34,18 +34,18 @@
       "publishedAt": "2026-08-07T15:20:00Z"
     },
     {
+      "title": "Zawinski's Law of MultiAgents",
+      "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+      "source": "Latent.Space",
+      "summary": "a quiet day lets us find some connections among recent themes",
+      "publishedAt": "2026-08-08T01:12:07Z"
+    },
+    {
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\"\u003eKaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
       "publishedAt": "2026-08-03T15:00:00Z"
-    },
-    {
-      "title": "AMD buys Taalas",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "source": "Latent.Space",
-      "summary": "The Inference Inflection is HEATING up.",
-      "publishedAt": "2026-08-07T05:13:46Z"
     }
   ]
 }
