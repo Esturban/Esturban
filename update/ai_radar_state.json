@@ -15,15 +15,19 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
       "seenAt": "2026-08-08T13:13:41Z"
+    },
+    {
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "seenAt": "2026-08-08T19:00:21Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "source": "OpenAI",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "publishedAt": "2026-08-07T15:20:00Z"
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "publishedAt": "2026-08-04T19:00:00Z"
     },
     {
       "title": "Zawinski's Law of MultiAgents",
