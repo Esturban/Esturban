@@ -1,39 +1,42 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
-      "seenAt": "2026-08-09T13:16:53Z"
-    },
-    {
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "seenAt": "2026-08-09T19:02:28Z"
     },
     {
       "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
       "seenAt": "2026-08-10T02:35:59Z"
+    },
+    {
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "seenAt": "2026-08-10T13:46:13Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "seenAt": "2026-08-10T13:46:13Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "source": "Ollama",
+      "summary": "Meta's Muse Glimmer, the first open model released by Meta Superintelligence Labs, is now available. Muse Glimmer is a 30B multimodal model released under the Apache 2.0 license, designed for local coding agents, and accelerated by Ollama's MLX engine with new native DFlash and image input support.",
+      "publishedAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-10T00:00:00Z"
+    },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "source": "OpenAI",
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "publishedAt": "2026-08-04T19:00:00Z"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\"\u003eKaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "publishedAt": "2026-08-03T15:00:00Z"
-    },
-    {
-      "title": "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "source": "Latent.Space",
-      "summary": "Qwen is so back!",
-      "publishedAt": "2026-08-04T03:49:14Z"
     }
   ]
 }
