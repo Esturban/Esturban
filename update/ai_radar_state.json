@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "seenAt": "2026-08-10T02:35:59Z"
-    },
-    {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-10T13:46:13Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "seenAt": "2026-08-11T02:29:18Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "seenAt": "2026-08-11T07:39:01Z"
     }
   ],
   "lastItems": [
@@ -30,17 +30,18 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
+      "title": "Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "source": "Latent.Space",
+      "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+      "publishedAt": "2026-08-11T05:16:41Z"
+    },
+    {
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "source": "OpenAI",
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "publishedAt": "2026-08-04T19:00:00Z"
-    },
-    {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights \u0026 Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-10T16:25:36Z"
     }
   ]
 }
