@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "seenAt": "2026-08-11T07:39:01Z"
-    },
-    {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-11T19:26:41Z"
     },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
       "seenAt": "2026-08-11T19:26:41Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "seenAt": "2026-08-12T07:53:48Z"
     }
   ],
   "lastItems": [
@@ -22,18 +22,18 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
-      "title": "Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "source": "Latent.Space",
-      "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
-      "publishedAt": "2026-08-11T05:16:41Z"
-    },
-    {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\"\u003eGoogle introduces AMIE for real-time clinical video consultations in simulated settings.",
       "publishedAt": "2026-08-11T17:00:00Z"
+    },
+    {
+      "title": "Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "source": "Latent.Space",
+      "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+      "publishedAt": "2026-08-11T05:16:41Z"
     }
   ]
 }
