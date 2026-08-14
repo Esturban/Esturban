@@ -15,6 +15,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
       "seenAt": "2026-08-14T13:45:32Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "seenAt": "2026-08-14T19:15:39Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,17 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
-      "publishedAt": "2026-08-13T17:16:04Z"
+      "publishedAt": "2026-08-14T00:00:00Z"
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\"\u003eGoogle introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "publishedAt": "2026-08-11T17:00:00Z"
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "publishedAt": "2026-08-13T11:00:00Z"
     }
   ]
 }
