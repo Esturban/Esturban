@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer) (Ollama, 10 Aug 2026)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (Hugging Face, 14 Aug 2026)
-- [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6) (OpenAI, 13 Aug 2026)
+- [React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue](https://www.latent.space/p/flue-2) (Latent.Space, 15 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
