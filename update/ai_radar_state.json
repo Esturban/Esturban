@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/muse-glimmer",
-      "seenAt": "2026-08-14T02:47:45Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
       "seenAt": "2026-08-14T13:45:32Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "seenAt": "2026-08-15T01:50:57Z"
+    },
+    {
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "seenAt": "2026-08-15T06:59:16Z"
     }
   ],
   "lastItems": [
