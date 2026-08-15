@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "seenAt": "2026-08-13T19:27:27Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "seenAt": "2026-08-13T19:27:27Z"
-    },
-    {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-14T02:47:45Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "seenAt": "2026-08-14T19:15:39Z"
+    },
+    {
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "seenAt": "2026-08-15T01:50:57Z"
     }
   ],
   "lastItems": [
