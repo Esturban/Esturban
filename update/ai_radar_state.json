@@ -11,6 +11,10 @@
     {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-16T07:00:52Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "seenAt": "2026-08-16T18:47:52Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-08-14T00:00:00Z"
     },
     {
-      "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
-      "url": "https://www.latent.space/p/flue-2",
+      "title": "Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
       "source": "Latent.Space",
-      "summary": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
-      "publishedAt": "2026-08-15T15:46:22Z"
+      "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+      "publishedAt": "2026-08-11T05:16:41Z"
     }
   ]
 }
