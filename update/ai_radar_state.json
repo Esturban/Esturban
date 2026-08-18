@@ -11,9 +11,19 @@
     {
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "seenAt": "2026-08-18T13:10:00Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "seenAt": "2026-08-18T18:57:52Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
     {
       "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
       "url": "https://ollama.com/blog/muse-glimmer",
@@ -27,12 +37,6 @@
       "source": "Latent.Space",
       "summary": "No GPUs, no Agents, just really, really, really good infra and distribution.",
       "publishedAt": "2026-08-17T23:13:41Z"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-14T00:00:00Z"
     }
   ]
 }
