@@ -11,6 +11,10 @@
     {
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
       "seenAt": "2026-08-17T13:07:43Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "seenAt": "2026-08-18T01:51:50Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,18 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
+      "title": "Stripe buys OpenRouter for $7B",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "source": "Latent.Space",
+      "summary": "No GPUs, no Agents, just really, really, really good infra and distribution.",
+      "publishedAt": "2026-08-17T23:13:41Z"
+    },
+    {
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\"\u003eGoogle Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
       "publishedAt": "2026-08-17T08:00:00Z"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-14T00:00:00Z"
     }
   ]
 }
