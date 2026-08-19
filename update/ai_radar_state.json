@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
-      "seenAt": "2026-08-18T01:51:50Z"
-    },
-    {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-18T13:10:00Z"
     },
@@ -15,15 +11,13 @@
     {
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "seenAt": "2026-08-18T18:57:52Z"
+    },
+    {
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "seenAt": "2026-08-19T01:54:06Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-18T00:00:00Z"
-    },
     {
       "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
       "url": "https://ollama.com/blog/muse-glimmer",
@@ -32,11 +26,17 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
-      "title": "Stripe buys OpenRouter for $7B",
-      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
-      "source": "Latent.Space",
-      "summary": "No GPUs, no Agents, just really, really, really good infra and distribution.",
-      "publishedAt": "2026-08-17T23:13:41Z"
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "publishedAt": "2026-08-18T11:00:00Z"
     }
   ]
 }
