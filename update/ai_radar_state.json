@@ -1,20 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/muse-glimmer",
-      "seenAt": "2026-08-18T13:10:00Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "seenAt": "2026-08-18T13:10:00Z"
-    },
-    {
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "seenAt": "2026-08-18T18:57:52Z"
     },
     {
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "seenAt": "2026-08-19T01:54:06Z"
+    },
+    {
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "seenAt": "2026-08-19T13:10:58Z"
+    },
+    {
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "seenAt": "2026-08-19T13:10:58Z"
     }
   ],
   "lastItems": [
@@ -32,11 +32,11 @@
       "publishedAt": "2026-08-18T00:00:00Z"
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "publishedAt": "2026-08-18T11:00:00Z"
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "publishedAt": "2026-08-18T19:00:00Z"
     }
   ]
 }
