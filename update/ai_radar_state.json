@@ -15,6 +15,10 @@
     {
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "seenAt": "2026-08-19T13:10:58Z"
+    },
+    {
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "seenAt": "2026-08-19T18:54:51Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,17 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "publishedAt": "2026-08-19T19:00:00Z"
+    },
+    {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face",
       "publishedAt": "2026-08-18T00:00:00Z"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "publishedAt": "2026-08-18T19:00:00Z"
     }
   ]
 }
