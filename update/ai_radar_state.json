@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "seenAt": "2026-08-18T18:57:52Z"
-    },
-    {
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "seenAt": "2026-08-19T01:54:06Z"
     },
@@ -19,6 +15,14 @@
     {
       "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "seenAt": "2026-08-19T18:54:51Z"
+    },
+    {
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "seenAt": "2026-08-20T01:52:53Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "seenAt": "2026-08-20T01:52:53Z"
     }
   ],
   "lastItems": [
@@ -31,7 +35,7 @@
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "publishedAt": "2026-08-19T19:00:00Z"
