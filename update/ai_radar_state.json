@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/muse-glimmer",
-      "seenAt": "2026-08-19T13:10:58Z"
-    },
-    {
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "seenAt": "2026-08-19T13:10:58Z"
-    },
-    {
       "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "seenAt": "2026-08-19T18:54:51Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "seenAt": "2026-08-20T01:52:53Z"
+    },
+    {
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "seenAt": "2026-08-20T13:12:53Z"
     }
   ],
   "lastItems": [
