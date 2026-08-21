@@ -1,16 +1,16 @@
 {
   "recent": [
     {
+      "url": "https://ollama.com/blog/muse-glimmer",
+      "seenAt": "2026-08-20T13:12:53Z"
+    },
+    {
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "seenAt": "2026-08-20T01:52:53Z"
+      "seenAt": "2026-08-21T01:59:01Z"
     },
     {
       "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "seenAt": "2026-08-20T01:52:53Z"
-    },
-    {
-      "url": "https://ollama.com/blog/muse-glimmer",
-      "seenAt": "2026-08-20T13:12:53Z"
+      "seenAt": "2026-08-21T01:59:01Z"
     }
   ],
   "lastItems": [
@@ -22,17 +22,17 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-18T00:00:00Z"
-    },
-    {
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "publishedAt": "2026-08-19T19:00:00Z"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-18T00:00:00Z"
     }
   ]
 }
