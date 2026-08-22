@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "seenAt": "2026-08-21T01:59:01Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "seenAt": "2026-08-21T01:59:01Z"
-    },
-    {
       "url": "https://ollama.com/blog/muse-glimmer",
       "seenAt": "2026-08-21T18:58:17Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/simile",
       "seenAt": "2026-08-22T01:51:48Z"
+    },
+    {
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "seenAt": "2026-08-22T07:00:51Z"
     }
   ],
   "lastItems": [
