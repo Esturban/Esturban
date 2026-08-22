@@ -15,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "seenAt": "2026-08-21T18:58:17Z"
+    },
+    {
+      "url": "https://www.latent.space/p/simile",
+      "seenAt": "2026-08-22T01:51:48Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,18 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "url": "https://www.latent.space/p/simile",
+      "source": "Latent.Space",
+      "summary": "Simile\u0026#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it\u0026#8217;s gone from fun exploration to very serious business.",
+      "publishedAt": "2026-08-21T23:37:38Z"
+    },
+    {
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "publishedAt": "2026-08-19T19:00:00Z"
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-21T00:00:00Z"
     }
   ]
 }
