@@ -15,6 +15,10 @@
     {
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "seenAt": "2026-08-22T07:00:51Z"
+    },
+    {
+      "url": "https://www.latent.space/p/attention-interface",
+      "seenAt": "2026-08-22T13:02:15Z"
     }
   ],
   "lastItems": [
@@ -26,11 +30,11 @@
       "publishedAt": "2026-08-10T00:00:00Z"
     },
     {
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-      "url": "https://www.latent.space/p/simile",
+      "title": "The Evolution of the Agent Harness",
+      "url": "https://www.latent.space/p/attention-interface",
       "source": "Latent.Space",
-      "summary": "Simile\u0026#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it\u0026#8217;s gone from fun exploration to very serious business.",
-      "publishedAt": "2026-08-21T23:37:38Z"
+      "summary": "Models keep absorbing the harness into their weights \u0026#8212; soon, it will be a harness for human attention rather than for the model.",
+      "publishedAt": "2026-08-22T07:30:52Z"
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
