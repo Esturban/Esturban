@@ -37,9 +37,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) (OpenAI, 25 Aug 2026)
 - [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer) (Ollama, 10 Aug 2026)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (Hugging Face, 25 Aug 2026)
-- [The Evolution of the Agent Harness](https://www.latent.space/p/attention-interface) (Latent.Space, 22 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

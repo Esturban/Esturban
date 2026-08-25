@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/attention-interface",
-      "seenAt": "2026-08-24T13:15:01Z"
-    },
-    {
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "seenAt": "2026-08-25T01:53:58Z"
     },
@@ -15,9 +11,20 @@
     {
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "seenAt": "2026-08-25T13:12:54Z"
+    },
+    {
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "seenAt": "2026-08-25T18:58:51Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "publishedAt": "2026-08-25T07:00:00Z"
+    },
     {
       "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
       "url": "https://ollama.com/blog/muse-glimmer",
@@ -30,13 +37,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face",
       "publishedAt": "2026-08-25T11:39:24Z"
-    },
-    {
-      "title": "The Evolution of the Agent Harness",
-      "url": "https://www.latent.space/p/attention-interface",
-      "source": "Latent.Space",
-      "summary": "Models keep absorbing the harness into their weights \u0026#8212; soon, it will be a harness for human attention rather than for the model.",
-      "publishedAt": "2026-08-22T07:30:52Z"
     }
   ]
 }
