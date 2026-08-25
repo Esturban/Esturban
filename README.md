@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer) (Ollama, 10 Aug 2026)
 - [The Evolution of the Agent Harness](https://www.latent.space/p/attention-interface) (Latent.Space, 22 Aug 2026)
-- [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (Hugging Face, 18 Aug 2026)
+- [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro) (OpenAI, 24 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
