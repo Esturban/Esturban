@@ -37,9 +37,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (Hugging Face, 26 Aug 2026)
 - [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer) (Ollama, 10 Aug 2026)
-- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) (OpenAI, 25 Aug 2026)
-- [The Evolution of the Agent Harness](https://www.latent.space/p/attention-interface) (Latent.Space, 22 Aug 2026)
+- [🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing](https://www.latent.space/p/anima) (Latent.Space, 26 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
