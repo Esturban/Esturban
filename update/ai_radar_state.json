@@ -19,17 +19,17 @@
   ],
   "lastItems": [
     {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-26T00:00:00Z"
-    },
-    {
       "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
       "url": "https://ollama.com/blog/muse-glimmer",
       "source": "Ollama",
       "summary": "Meta's Muse Glimmer, the first open model released by Meta Superintelligence Labs, is now available. Muse Glimmer is a 30B multimodal model released under the Apache 2.0 license, designed for local coding agents, and accelerated by Ollama's MLX engine with new native DFlash and image input support.",
       "publishedAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-26T00:00:00Z"
     },
     {
       "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
