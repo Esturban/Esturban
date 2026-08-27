@@ -2,19 +2,15 @@
   "recent": [
     {
       "url": "https://ollama.com/blog/muse-glimmer",
-      "seenAt": "2026-08-26T13:17:45Z"
-    },
-    {
-      "url": "https://www.latent.space/p/attention-interface",
-      "seenAt": "2026-08-26T13:17:45Z"
+      "seenAt": "2026-08-27T22:17:45Z"
     },
     {
       "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "seenAt": "2026-08-26T20:04:51Z"
+      "seenAt": "2026-08-27T22:17:45Z"
     },
     {
-      "url": "https://www.latent.space/p/anima",
-      "seenAt": "2026-08-26T20:04:51Z"
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "seenAt": "2026-08-27T22:17:45Z"
     }
   ],
   "lastItems": [
@@ -32,11 +28,11 @@
       "publishedAt": "2026-08-26T00:00:00Z"
     },
     {
-      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-      "url": "https://www.latent.space/p/anima",
-      "source": "Latent.Space",
-      "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
-      "publishedAt": "2026-08-26T15:15:39Z"
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "DeepMind",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "publishedAt": "2026-08-27T12:59:16Z"
     }
   ]
 }
