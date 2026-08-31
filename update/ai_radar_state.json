@@ -11,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "seenAt": "2026-08-31T05:40:44Z"
+    },
+    {
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "seenAt": "2026-08-31T13:57:19Z"
     }
   ],
   "lastItems": [
@@ -28,11 +32,11 @@
       "publishedAt": "2026-08-26T00:00:00Z"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "publishedAt": "2026-08-28T06:00:00Z"
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "publishedAt": "2026-08-25T07:00:00Z"
     }
   ]
 }
