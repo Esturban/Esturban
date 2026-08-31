@@ -37,7 +37,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer) (Ollama, 10 Aug 2026)
+- [Claude Desktop support with Ollama](https://ollama.com/blog/claude-desktop) (Ollama, 25 Aug 2026)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (Hugging Face, 26 Aug 2026)
 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) (OpenAI, 28 Aug 2026)
 
