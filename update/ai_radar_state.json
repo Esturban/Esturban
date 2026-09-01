@@ -11,15 +11,23 @@
     {
       "url": "https://openai.com/index/jalapeno-first-results",
       "seenAt": "2026-08-31T13:57:19Z"
+    },
+    {
+      "url": "https://openai.com/index/polimill",
+      "seenAt": "2026-09-01T05:14:12Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "seenAt": "2026-09-01T05:14:12Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Claude Desktop support with Ollama",
-      "url": "https://ollama.com/blog/claude-desktop",
-      "source": "Ollama",
-      "summary": "Claude Desktop can now be configured to work with Ollama as a third-party gateway provider, making it possible to use open models in Claude.",
-      "publishedAt": "2026-08-25T00:00:00Z"
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "publishedAt": "2026-08-31T07:00:00Z"
     },
     {
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -28,11 +36,11 @@
       "publishedAt": "2026-08-26T00:00:00Z"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "publishedAt": "2026-08-25T07:00:00Z"
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "DeepMind",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "publishedAt": "2026-08-27T12:59:16Z"
     }
   ]
 }
