@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/claude-desktop",
-      "seenAt": "2026-08-31T05:40:44Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "seenAt": "2026-08-31T05:40:44Z"
-    },
-    {
       "url": "https://openai.com/index/jalapeno-first-results",
       "seenAt": "2026-08-31T13:57:19Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
       "seenAt": "2026-09-01T05:14:12Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "seenAt": "2026-09-01T11:42:19Z"
     }
   ],
   "lastItems": [
