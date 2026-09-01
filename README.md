@@ -37,9 +37,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors](https://www.latent.space/p/pr-not-welcome) (Latent.Space, 1 Sep 2026)
+- [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) (Google AI, 1 Sep 2026)
 - [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) (OpenAI, 31 Aug 2026)
-- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (Hugging Face, 26 Aug 2026)
-- [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/) (DeepMind, 27 Aug 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

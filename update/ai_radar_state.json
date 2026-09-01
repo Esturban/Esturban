@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "seenAt": "2026-08-31T13:57:19Z"
-    },
-    {
       "url": "https://openai.com/index/polimill",
       "seenAt": "2026-09-01T05:14:12Z"
     },
@@ -15,28 +11,37 @@
     {
       "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "seenAt": "2026-09-01T11:42:19Z"
+    },
+    {
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "seenAt": "2026-09-01T16:42:01Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "seenAt": "2026-09-01T16:42:01Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "source": "Latent.Space",
+      "summary": "Vercel\u0026#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "publishedAt": "2026-09-01T16:17:15Z"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\"\u003eBuilt on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "publishedAt": "2026-09-01T16:00:00Z"
+    },
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill",
       "source": "OpenAI",
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "publishedAt": "2026-08-31T07:00:00Z"
-    },
-    {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-26T00:00:00Z"
-    },
-    {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "source": "DeepMind",
-      "summary": "Piloting the world's first double-blind AI evaluations",
-      "publishedAt": "2026-08-27T12:59:16Z"
     }
   ]
 }
