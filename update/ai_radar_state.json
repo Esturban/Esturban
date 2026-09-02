@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "seenAt": "2026-09-01T11:42:19Z"
-    },
-    {
       "url": "https://www.latent.space/p/pr-not-welcome",
       "seenAt": "2026-09-01T16:42:01Z"
     },
@@ -15,28 +11,40 @@
     {
       "url": "https://huggingface.co/blog/allenai/benchmirt",
       "seenAt": "2026-09-02T04:39:37Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+      "seenAt": "2026-09-02T16:37:09Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "seenAt": "2026-09-02T16:37:09Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "seenAt": "2026-09-02T16:37:09Z"
     }
   ],
   "lastItems": [
     {
-      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "source": "Latent.Space",
-      "summary": "Vercel\u0026#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
-      "publishedAt": "2026-09-01T16:17:15Z"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\"\u003eBuilt on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "publishedAt": "2026-09-01T16:00:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"\u003eThe Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "publishedAt": "2026-09-02T15:40:00Z"
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "source": "Latent.Space",
+      "summary": "Queue the usual rush of model launches...",
+      "publishedAt": "2026-09-02T07:46:08Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "source": "Hugging Face",
-      "publishedAt": "2026-09-01T21:39:07Z"
+      "publishedAt": "2026-09-02T13:49:14Z"
     }
   ]
 }

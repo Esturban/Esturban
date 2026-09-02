@@ -37,9 +37,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors](https://www.latent.space/p/pr-not-welcome) (Latent.Space, 1 Sep 2026)
-- [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) (Google AI, 1 Sep 2026)
-- [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt) (Hugging Face, 1 Sep 2026)
+- [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) (Google AI, 2 Sep 2026)
+- [Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens](https://www.latent.space/p/ainews-claude-fablemythos-51-new) (Latent.Space, 2 Sep 2026)
+- [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence) (Hugging Face, 2 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
