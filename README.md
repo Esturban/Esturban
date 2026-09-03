@@ -37,8 +37,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) (Google AI, 2 Sep 2026)
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (Hugging Face, 3 Sep 2026)
+- [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) (Google AI, 2 Sep 2026)
 - [PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors](https://www.latent.space/p/pr-not-welcome) (Latent.Space, 1 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
