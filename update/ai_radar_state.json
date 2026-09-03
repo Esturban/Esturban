@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "seenAt": "2026-09-02T04:39:37Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "seenAt": "2026-09-02T16:37:09Z"
     },
@@ -15,6 +11,14 @@
     {
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "seenAt": "2026-09-02T16:37:09Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/funes",
+      "seenAt": "2026-09-03T11:19:10Z"
+    },
+    {
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "seenAt": "2026-09-03T11:19:10Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,17 @@
       "publishedAt": "2026-09-02T15:40:00Z"
     },
     {
-      "title": "Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-      "source": "Latent.Space",
-      "summary": "Queue the usual rush of model launches...",
-      "publishedAt": "2026-09-02T07:46:08Z"
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-03T00:00:00Z"
     },
     {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-02T13:49:14Z"
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "source": "Latent.Space",
+      "summary": "Vercel\u0026#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "publishedAt": "2026-09-01T16:17:15Z"
     }
   ]
 }
