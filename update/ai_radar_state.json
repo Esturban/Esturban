@@ -26,17 +26,17 @@
       "publishedAt": "2026-09-04T05:18:11Z"
     },
     {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"\u003eThe Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "publishedAt": "2026-09-02T15:40:00Z"
+    },
+    {
       "title": "Give Your Coding Agents a Memory You Own",
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face",
       "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "publishedAt": "2026-09-03T12:00:00Z"
     }
   ]
 }
