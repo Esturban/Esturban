@@ -1,23 +1,26 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/funes",
-      "seenAt": "2026-09-03T11:19:10Z"
-    },
-    {
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "seenAt": "2026-09-03T11:19:10Z"
-    },
-    {
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "seenAt": "2026-09-03T21:04:37Z"
     },
     {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "seenAt": "2026-09-03T21:04:37Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "seenAt": "2026-09-04T11:22:21Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "source": "Latent.Space",
+      "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI\u0026#8217;s new frontier model class.",
+      "publishedAt": "2026-09-04T05:18:11Z"
+    },
     {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
@@ -31,13 +34,6 @@
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"\u003eThe Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "publishedAt": "2026-09-02T15:40:00Z"
-    },
-    {
-      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "source": "Latent.Space",
-      "summary": "Vercel\u0026#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
-      "publishedAt": "2026-09-01T16:17:15Z"
     }
   ]
 }
