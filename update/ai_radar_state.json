@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "seenAt": "2026-09-05T04:34:09Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "seenAt": "2026-09-05T15:17:13Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://openai.com/index/gpt-6-astra",
       "seenAt": "2026-09-05T20:25:11Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+      "seenAt": "2026-09-06T04:43:38Z"
     }
   ],
   "lastItems": [
@@ -26,17 +26,18 @@
       "publishedAt": "2026-09-04T05:18:11Z"
     },
     {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "publishedAt": "2026-09-03T11:00:00Z"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"\u003eThe Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "publishedAt": "2026-09-02T15:40:00Z"
     }
   ]
 }
