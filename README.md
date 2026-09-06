@@ -38,7 +38,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [GPT-6 Astra: OpenAI’s biggest LLM launch of all time](https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest) (Latent.Space, 4 Sep 2026)
-- [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra) (OpenAI, 3 Sep 2026)
+- [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra) (OpenAI, 3 Sep 2026)
 - [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) (Google AI, 2 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.

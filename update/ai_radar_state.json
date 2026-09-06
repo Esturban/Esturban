@@ -15,6 +15,10 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "seenAt": "2026-09-06T04:43:38Z"
+    },
+    {
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "seenAt": "2026-09-06T11:01:12Z"
     }
   ],
   "lastItems": [
@@ -26,11 +30,11 @@
       "publishedAt": "2026-09-04T05:18:11Z"
     },
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "publishedAt": "2026-09-03T11:00:00Z"
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "publishedAt": "2026-09-03T12:00:00Z"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
