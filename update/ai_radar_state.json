@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "seenAt": "2026-09-05T15:17:13Z"
-    },
-    {
       "url": "https://huggingface.co/blog/funes",
       "seenAt": "2026-09-05T20:25:11Z"
     },
@@ -19,6 +15,14 @@
     {
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "seenAt": "2026-09-06T11:01:12Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "seenAt": "2026-09-06T15:30:14Z"
+    },
+    {
+      "url": "https://openai.com/index/polimill",
+      "seenAt": "2026-09-06T15:30:14Z"
     }
   ],
   "lastItems": [
@@ -30,11 +34,11 @@
       "publishedAt": "2026-09-04T05:18:11Z"
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
       "source": "OpenAI",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "publishedAt": "2026-09-03T12:00:00Z"
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "publishedAt": "2026-08-31T07:00:00Z"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
