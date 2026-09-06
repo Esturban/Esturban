@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/funes",
-      "seenAt": "2026-09-05T20:25:11Z"
-    },
-    {
-      "url": "https://openai.com/index/gpt-6-astra",
-      "seenAt": "2026-09-05T20:25:11Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "seenAt": "2026-09-06T04:43:38Z"
     },
@@ -23,22 +15,26 @@
     {
       "url": "https://openai.com/index/polimill",
       "seenAt": "2026-09-06T15:30:14Z"
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "seenAt": "2026-09-06T20:26:50Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "publishedAt": "2026-09-06T08:00:00Z"
+    },
     {
       "title": "GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "source": "Latent.Space",
       "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI\u0026#8217;s new frontier model class.",
       "publishedAt": "2026-09-04T05:18:11Z"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "publishedAt": "2026-08-31T07:00:00Z"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
