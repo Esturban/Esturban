@@ -21,6 +21,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## Open Source Tools
 
+- [bfr](https://github.com/Esturban/bfr) ★0: A Go CLI and importable client for Buffer's GraphQL API: channels, ideas, drafts, threaded and image posts, from the terminal.
 - [open_ksa](https://github.com/Esturban/open_ksa) ★3: A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
 - [tidyup](https://github.com/Esturban/tidyup) ★0: A CLI utility for sorting files and folders by extension and date.
 - [translagent](https://github.com/Esturban/translagent) ★0: A translation app with transliteration and audio support, built end to end.
