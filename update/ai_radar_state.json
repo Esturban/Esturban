@@ -15,6 +15,14 @@
     {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "seenAt": "2026-09-09T11:28:02Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "seenAt": "2026-09-09T16:41:15Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+      "seenAt": "2026-09-09T16:41:15Z"
     }
   ],
   "lastItems": [
@@ -26,18 +34,17 @@
       "publishedAt": "2026-09-09T05:04:51Z"
     },
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "publishedAt": "2026-09-06T08:00:00Z"
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-09T15:36:24Z"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"\u003eThe Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "publishedAt": "2026-09-02T15:40:00Z"
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\"\u003eTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "publishedAt": "2026-09-09T16:00:00Z"
     }
   ]
 }
