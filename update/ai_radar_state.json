@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "seenAt": "2026-09-09T11:28:02Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "seenAt": "2026-09-09T11:28:02Z"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "seenAt": "2026-09-09T16:41:15Z"
     },
@@ -23,15 +15,17 @@
     {
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "seenAt": "2026-09-10T11:24:18Z"
+    },
+    {
+      "url": "https://openai.com/index/put-data-to-work",
+      "seenAt": "2026-09-10T16:27:00Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "seenAt": "2026-09-10T16:27:00Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-09T15:36:24Z"
-    },
     {
       "title": "GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -40,11 +34,18 @@
       "publishedAt": "2026-09-04T05:18:11Z"
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
       "source": "OpenAI",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "publishedAt": "2026-09-09T11:00:00Z"
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "publishedAt": "2026-09-10T15:00:00Z"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\"\u003eSearch can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "publishedAt": "2026-09-10T16:00:00Z"
     }
   ]
 }

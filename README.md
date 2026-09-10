@@ -38,9 +38,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) (Hugging Face, 9 Sep 2026)
 - [GPT-6 Astra: OpenAI’s biggest LLM launch of all time](https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest) (Latent.Space, 4 Sep 2026)
-- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) (OpenAI, 9 Sep 2026)
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) (OpenAI, 10 Sep 2026)
+- [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) (Google AI, 10 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
