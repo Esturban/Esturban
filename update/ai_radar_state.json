@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "seenAt": "2026-09-09T16:41:15Z"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "seenAt": "2026-09-09T16:41:15Z"
-    },
-    {
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "seenAt": "2026-09-10T04:47:33Z"
     },
@@ -23,22 +15,26 @@
     {
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
       "seenAt": "2026-09-10T16:27:00Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "seenAt": "2026-09-10T20:54:38Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "publishedAt": "2026-09-10T00:00:00Z"
+    },
     {
       "title": "GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "source": "Latent.Space",
       "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI\u0026#8217;s new frontier model class.",
       "publishedAt": "2026-09-04T05:18:11Z"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "publishedAt": "2026-09-10T15:00:00Z"
     },
     {
       "title": "3 ways to prep for your next big race with Search",
