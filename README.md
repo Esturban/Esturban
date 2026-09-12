@@ -39,8 +39,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) (OpenAI, 14 Sep 2026)
-- [OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded](https://www.latent.space/p/ainews-openai-reports-navier-stokes) (Latent.Space, 9 Sep 2026)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) (Hugging Face, 9 Sep 2026)
+- [OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded](https://www.latent.space/p/ainews-openai-reports-navier-stokes) (Latent.Space, 9 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
