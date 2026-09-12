@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "seenAt": "2026-09-11T16:31:41Z"
-    },
-    {
       "url": "https://openai.com/index/introducing-the-agents-api",
       "seenAt": "2026-09-11T20:59:58Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
       "seenAt": "2026-09-12T15:34:27Z"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "seenAt": "2026-09-12T20:35:41Z"
     }
   ],
   "lastItems": [
@@ -26,17 +26,18 @@
       "publishedAt": "2026-09-14T00:00:00Z"
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-09T15:36:24Z"
-    },
-    {
       "title": "OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (\u003e$40M), a contender for second ever Millennium Prize awarded",
       "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
       "source": "Latent.Space",
       "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
       "publishedAt": "2026-09-09T05:04:51Z"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\"\u003eSearch can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "publishedAt": "2026-09-10T16:00:00Z"
     }
   ]
 }
