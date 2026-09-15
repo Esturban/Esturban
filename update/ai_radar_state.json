@@ -15,22 +15,30 @@
     {
       "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
       "seenAt": "2026-09-15T04:58:27Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "seenAt": "2026-09-15T17:02:44Z"
+    },
+    {
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "seenAt": "2026-09-15T17:02:44Z"
     }
   ],
   "lastItems": [
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "publishedAt": "2026-09-14T12:00:00Z"
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp\"\u003eWe’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp\"\u003eDevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "publishedAt": "2026-09-14T16:00:00Z"
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "publishedAt": "2026-09-14T00:00:00Z"
     },
     {
       "title": "AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
