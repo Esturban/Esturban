@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/fyxer",
-      "seenAt": "2026-09-15T04:58:27Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "seenAt": "2026-09-15T04:58:27Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
       "seenAt": "2026-09-15T17:02:44Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "seenAt": "2026-09-16T04:53:11Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "seenAt": "2026-09-16T11:40:55Z"
     }
   ],
   "lastItems": [
@@ -30,17 +26,18 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
+      "title": "Jev: a “System One Model” that only decides/classifies/routes/scores — \u003e100x faster, \u003e200x cheaper than small frontier LLMs",
+      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "source": "Latent.Space",
+      "summary": "congrats to TypeSafe!",
+      "publishedAt": "2026-09-16T11:09:53Z"
+    },
+    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "publishedAt": "2026-09-14T00:00:00Z"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-15T16:00:44Z"
     }
   ]
 }
