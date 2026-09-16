@@ -15,9 +15,20 @@
     {
       "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
       "seenAt": "2026-09-16T11:40:55Z"
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "seenAt": "2026-09-16T17:01:48Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "publishedAt": "2026-09-16T13:00:00Z"
+    },
     {
       "title": "AI for everyone in every language",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
@@ -31,13 +42,6 @@
       "source": "Latent.Space",
       "summary": "congrats to TypeSafe!",
       "publishedAt": "2026-09-16T11:09:53Z"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "publishedAt": "2026-09-14T00:00:00Z"
     }
   ]
 }

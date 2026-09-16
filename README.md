@@ -38,9 +38,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) (OpenAI, 16 Sep 2026)
 - [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) (Google AI, 15 Sep 2026)
 - [Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs](https://www.latent.space/p/ainews-jev-a-system-one-model-that) (Latent.Space, 16 Sep 2026)
-- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) (OpenAI, 14 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
