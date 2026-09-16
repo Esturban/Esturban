@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "seenAt": "2026-09-15T17:02:44Z"
-    },
-    {
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "seenAt": "2026-09-15T17:02:44Z"
-    },
-    {
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "seenAt": "2026-09-16T04:53:11Z"
     },
@@ -19,6 +11,14 @@
     {
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "seenAt": "2026-09-16T17:01:48Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "seenAt": "2026-09-16T21:20:50Z"
+    },
+    {
+      "url": "https://www.latent.space/p/aiuc",
+      "seenAt": "2026-09-16T21:20:50Z"
     }
   ],
   "lastItems": [
@@ -37,11 +37,11 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "Jev: a “System One Model” that only decides/classifies/routes/scores — \u003e100x faster, \u003e200x cheaper than small frontier LLMs",
-      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
       "source": "Latent.Space",
-      "summary": "congrats to TypeSafe!",
-      "publishedAt": "2026-09-16T11:09:53Z"
+      "summary": "We sit down with AIUC\u0026#8217;s CEO on their Series A!",
+      "publishedAt": "2026-09-16T18:07:45Z"
     }
   ]
 }
