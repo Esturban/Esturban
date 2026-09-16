@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "seenAt": "2026-09-14T21:51:52Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "seenAt": "2026-09-14T21:51:52Z"
-    },
-    {
       "url": "https://openai.com/index/fyxer",
       "seenAt": "2026-09-15T04:58:27Z"
     },
@@ -23,6 +15,10 @@
     {
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "seenAt": "2026-09-15T17:02:44Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "seenAt": "2026-09-16T04:53:11Z"
     }
   ],
   "lastItems": [
@@ -41,11 +37,10 @@
       "publishedAt": "2026-09-14T00:00:00Z"
     },
     {
-      "title": "AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "source": "Latent.Space",
-      "summary": "Pacing gathers pace.",
-      "publishedAt": "2026-09-15T04:50:36Z"
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-15T16:00:44Z"
     }
   ]
 }

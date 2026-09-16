@@ -40,7 +40,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) (Google AI, 15 Sep 2026)
 - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) (OpenAI, 14 Sep 2026)
-- [AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign](https://www.latent.space/p/ainews-aef-1-standard-emerges-for) (Latent.Space, 15 Sep 2026)
+- [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) (Hugging Face, 15 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
