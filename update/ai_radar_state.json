@@ -1,16 +1,16 @@
 {
   "recent": [
     {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "seenAt": "2026-09-17T17:02:42Z"
+    },
+    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "seenAt": "2026-09-16T21:20:50Z"
+      "seenAt": "2026-09-17T21:25:26Z"
     },
     {
       "url": "https://www.latent.space/p/aiuc",
-      "seenAt": "2026-09-16T21:20:50Z"
-    },
-    {
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "seenAt": "2026-09-17T17:02:42Z"
+      "seenAt": "2026-09-17T21:25:26Z"
     }
   ],
   "lastItems": [
@@ -22,18 +22,18 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
-      "url": "https://www.latent.space/p/aiuc",
-      "source": "Latent.Space",
-      "summary": "We sit down with AIUC\u0026#8217;s CEO on their Series A!",
-      "publishedAt": "2026-09-16T18:07:45Z"
-    },
-    {
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "publishedAt": "2026-09-16T13:00:00Z"
+    },
+    {
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
+      "source": "Latent.Space",
+      "summary": "We sit down with AIUC\u0026#8217;s CEO on their Series A!",
+      "publishedAt": "2026-09-16T18:07:45Z"
     }
   ]
 }
