@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "seenAt": "2026-09-18T16:27:20Z"
-    },
-    {
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "seenAt": "2026-09-18T20:56:30Z"
     },
@@ -19,6 +15,10 @@
     {
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "seenAt": "2026-09-19T15:54:46Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "seenAt": "2026-09-19T20:44:22Z"
     }
   ],
   "lastItems": [
@@ -30,18 +30,18 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
-      "url": "https://www.latent.space/p/aiuc",
-      "source": "Latent.Space",
-      "summary": "We sit down with AIUC\u0026#8217;s CEO on their Series A!",
-      "publishedAt": "2026-09-16T18:07:45Z"
-    },
-    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "publishedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "title": "Here are 6 Clones of Jev in 2 days",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "source": "Latent.Space",
+      "summary": "Imitation is the sincerest form of Flattery",
+      "publishedAt": "2026-09-19T05:48:28Z"
     }
   ]
 }
