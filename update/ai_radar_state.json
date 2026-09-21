@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "seenAt": "2026-09-20T16:10:45Z"
+    },
+    {
+      "url": "https://openai.com/index/fyxer",
+      "seenAt": "2026-09-21T05:01:09Z"
     }
   ],
   "lastItems": [
@@ -22,11 +26,11 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
       "source": "OpenAI",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "publishedAt": "2026-09-14T00:00:00Z"
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "publishedAt": "2026-09-14T12:00:00Z"
     },
     {
       "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
