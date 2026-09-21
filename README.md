@@ -39,7 +39,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) (Google AI, 15 Sep 2026)
-- [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) (OpenAI, 14 Sep 2026)
+- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) (OpenAI, 16 Sep 2026)
 - [Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC](https://www.latent.space/p/aiuc) (Latent.Space, 16 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.

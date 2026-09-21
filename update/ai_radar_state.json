@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/aiuc",
-      "seenAt": "2026-09-20T11:29:05Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
       "seenAt": "2026-09-20T16:10:45Z"
     },
@@ -15,6 +11,14 @@
     {
       "url": "https://openai.com/index/fyxer",
       "seenAt": "2026-09-21T05:01:09Z"
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "seenAt": "2026-09-21T12:53:39Z"
+    },
+    {
+      "url": "https://www.latent.space/p/aiuc",
+      "seenAt": "2026-09-21T12:53:39Z"
     }
   ],
   "lastItems": [
@@ -26,11 +30,11 @@
       "publishedAt": "2026-09-15T16:00:00Z"
     },
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "publishedAt": "2026-09-14T12:00:00Z"
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "publishedAt": "2026-09-16T13:00:00Z"
     },
     {
       "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
