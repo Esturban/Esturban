@@ -31,18 +31,18 @@
   ],
   "lastItems": [
     {
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "publishedAt": "2026-09-21T10:00:00Z"
-    },
-    {
       "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
       "url": "https://www.latent.space/p/jev",
       "source": "Latent.Space",
       "summary": "The definitive Jev podcast with its lead creator.",
       "publishedAt": "2026-09-21T22:13:49Z"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "publishedAt": "2026-09-21T00:00:00Z"
     },
     {
       "title": "AI for everyone in every language",
