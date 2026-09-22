@@ -23,28 +23,36 @@
     {
       "url": "https://huggingface.co/blog/omlx",
       "seenAt": "2026-09-22T16:59:42Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "seenAt": "2026-09-22T21:22:22Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "seenAt": "2026-09-22T21:22:22Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "publishedAt": "2026-09-22T18:00:00Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-22T00:00:00Z"
+    },
     {
       "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
       "url": "https://www.latent.space/p/jev",
       "source": "Latent.Space",
       "summary": "The definitive Jev podcast with its lead creator.",
       "publishedAt": "2026-09-21T22:13:49Z"
-    },
-    {
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "publishedAt": "2026-09-21T00:00:00Z"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-22T00:00:00Z"
     }
   ]
 }
