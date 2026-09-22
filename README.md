@@ -40,7 +40,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 - [Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI](https://www.latent.space/p/jev) (Latent.Space, 21 Sep 2026)
 - [How V7 gives AI agents institutional memory](https://openai.com/index/v7) (OpenAI, 21 Sep 2026)
-- [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) (Google AI, 15 Sep 2026)
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) (Hugging Face, 22 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

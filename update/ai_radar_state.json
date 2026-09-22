@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "seenAt": "2026-09-21T12:53:39Z"
-    },
-    {
-      "url": "https://www.latent.space/p/aiuc",
-      "seenAt": "2026-09-21T12:53:39Z"
-    },
-    {
       "url": "https://openai.com/index/v7",
       "seenAt": "2026-09-21T22:00:14Z"
     },
@@ -27,6 +19,10 @@
     {
       "url": "https://www.latent.space/p/jev",
       "seenAt": "2026-09-22T05:01:58Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/omlx",
+      "seenAt": "2026-09-22T16:59:42Z"
     }
   ],
   "lastItems": [
@@ -45,11 +41,10 @@
       "publishedAt": "2026-09-21T00:00:00Z"
     },
     {
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp\"\u003eWe’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "publishedAt": "2026-09-15T16:00:00Z"
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-22T00:00:00Z"
     }
   ]
 }
