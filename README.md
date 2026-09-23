@@ -39,8 +39,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
+- [Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%](https://www.latent.space/p/ainews-claude-opus-55-the-new-default) (Latent.Space, 23 Sep 2026)
 - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (Hugging Face, 22 Sep 2026)
-- [Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M](https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b) (Latent.Space, 22 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
