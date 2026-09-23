@@ -38,9 +38,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna) (OpenAI, 22 Sep 2026)
+- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
 - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (Hugging Face, 22 Sep 2026)
-- [Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI](https://www.latent.space/p/jev) (Latent.Space, 21 Sep 2026)
+- [Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M](https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b) (Latent.Space, 22 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
