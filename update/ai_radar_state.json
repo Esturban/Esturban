@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "seenAt": "2026-09-22T21:22:22Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "seenAt": "2026-09-22T21:22:22Z"
-    },
-    {
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "seenAt": "2026-09-23T04:49:03Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "seenAt": "2026-09-23T11:42:27Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "seenAt": "2026-09-23T21:32:20Z"
     }
   ],
   "lastItems": [
