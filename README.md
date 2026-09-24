@@ -1,10 +1,14 @@
 # Esteban Valencia
 
-I build AI, data, and automation systems that turn messy inputs into tools people can actually use.
+I build AI, data, and automation systems for founders and teams who need messy inputs turned into tools people can actually use.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Esturban&color=blue&style=flat-square&label=profile+views)
 
 [Portfolio](https://works.estebanvalencia.com) · [LinkedIn](https://linkedin.com/in/valest) · [Resume](https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link)
+
+**[Building in AI/automation too? Let's connect.](https://linkedin.com/in/valest)**  
+**[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
+**[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
 
 ## Now
 
@@ -43,5 +47,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (Hugging Face, 22 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
+
+**[Building in AI/automation too? Let's connect.](https://linkedin.com/in/valest)**  
+**[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
+**[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
 
 <sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update) · [LiveBench](https://livebench.ai)</sub>
