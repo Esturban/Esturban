@@ -809,7 +809,7 @@ func writeMeta(b *strings.Builder, profile profileConfig) {
 	owner := githubOwner(profile.GitHubURL)
 	sourceURL := fmt.Sprintf("https://github.com/%s/%s/tree/main/update", owner, owner)
 	fmt.Fprintf(b,
-		"<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](%s) · [LiveBench](https://livebench.ai)</sub>\n",
+		"<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](%s)</sub>\n",
 		sourceURL,
 	)
 }
