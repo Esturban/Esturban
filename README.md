@@ -44,4 +44,4 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
-<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update) · [LiveBench](https://livebench.ai)</sub>
+<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update)</sub>
