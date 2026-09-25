@@ -39,8 +39,8 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 ## AI Radar
 
 - [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
-- [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) (Hugging Face, 24 Sep 2026)
 - [Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%](https://www.latent.space/p/ainews-claude-opus-55-the-new-default) (Latent.Space, 23 Sep 2026)
+- [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) (Hugging Face, 24 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
