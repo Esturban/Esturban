@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "seenAt": "2026-09-27T17:00:24Z"
-    },
-    {
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "seenAt": "2026-09-28T05:28:49Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/Hcompany/holo4",
       "seenAt": "2026-09-28T14:01:52Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+      "seenAt": "2026-09-28T23:18:58Z"
     }
   ],
   "lastItems": [
@@ -32,11 +32,11 @@
       "publishedAt": "2026-09-28T09:44:05Z"
     },
     {
-      "title": "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "source": "Latent.Space",
-      "summary": "overshadowing more efficient GPT6 models from OpenAI",
-      "publishedAt": "2026-09-23T06:41:41Z"
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\"\u003eWatch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "publishedAt": "2026-09-28T19:00:00Z"
     }
   ]
 }
