@@ -11,6 +11,10 @@
     {
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "seenAt": "2026-09-28T05:28:49Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "seenAt": "2026-09-28T14:01:52Z"
     }
   ],
   "lastItems": [
@@ -22,17 +26,17 @@
       "publishedAt": "2026-09-22T12:00:00Z"
     },
     {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-28T09:44:05Z"
+    },
+    {
       "title": "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "source": "Latent.Space",
       "summary": "overshadowing more efficient GPT6 models from OpenAI",
       "publishedAt": "2026-09-23T06:41:41Z"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-22T00:00:00Z"
     }
   ]
 }
