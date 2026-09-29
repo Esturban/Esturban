@@ -1,38 +1,46 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "seenAt": "2026-09-28T14:01:52Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "seenAt": "2026-09-28T23:18:58Z"
     },
     {
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "seenAt": "2026-09-29T05:47:40Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "seenAt": "2026-09-29T22:18:56Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "seenAt": "2026-09-29T22:18:56Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "seenAt": "2026-09-29T22:18:56Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\"\u003eWatch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "publishedAt": "2026-09-28T19:00:00Z"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "publishedAt": "2026-09-22T12:00:00Z"
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T10:00:00Z"
     },
     {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "source": "Hugging Face",
-      "publishedAt": "2026-09-28T09:44:05Z"
+      "publishedAt": "2026-09-29T13:07:00Z"
+    },
+    {
+      "title": "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "source": "Latent.Space",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI",
+      "publishedAt": "2026-09-23T06:41:41Z"
     }
   ]
 }
