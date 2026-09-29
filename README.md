@@ -38,9 +38,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
+- [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) (Google AI, 28 Sep 2026)
 - [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
 - [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) (Hugging Face, 28 Sep 2026)
-- [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) (Google AI, 28 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
