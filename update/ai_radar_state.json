@@ -1,24 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "seenAt": "2026-09-29T22:18:56Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "seenAt": "2026-09-29T22:18:56Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "seenAt": "2026-09-29T22:18:56Z"
-    },
-    {
       "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
       "seenAt": "2026-09-30T05:36:55Z"
     },
     {
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "seenAt": "2026-09-30T12:39:45Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "seenAt": "2026-09-30T22:19:04Z"
     }
   ],
   "lastItems": [
@@ -30,10 +22,10 @@
       "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "source": "Hugging Face",
-      "publishedAt": "2026-09-29T13:07:00Z"
+      "publishedAt": "2026-09-30T00:00:00Z"
     },
     {
       "title": "Ollama now supports Jev-style decision models",
