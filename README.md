@@ -38,7 +38,7 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## AI Radar
 
-- [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol) (OpenAI, 29 Sep 2026)
+- [OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU](https://www.latent.space/p/ainews-openai-devday-2026-dots-61) (Latent.Space, 30 Sep 2026)
 - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) (Hugging Face, 29 Sep 2026)
 - [Ollama now supports Jev-style decision models](https://ollama.com/blog/ollama-now-supports-jev-style-decision-models) (Ollama, 29 Sep 2026)
 

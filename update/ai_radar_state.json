@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "seenAt": "2026-09-29T05:47:40Z"
-    },
-    {
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "seenAt": "2026-09-29T22:18:56Z"
     },
@@ -19,15 +15,19 @@
     {
       "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
       "seenAt": "2026-09-30T05:36:55Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "seenAt": "2026-09-30T12:39:45Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "publishedAt": "2026-09-29T10:00:00Z"
+      "title": "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "source": "Latent.Space",
+      "summary": "the most confident DevDay yet.",
+      "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
