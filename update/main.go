@@ -29,6 +29,7 @@ type profileConfig struct {
 	ResumeURL       string        `json:"resumeUrl"`
 	GitHubURL       string        `json:"githubUrl"`
 	Hero            heroSection   `json:"hero"`
+	CTAs            []ctaLink     `json:"ctas"`
 	Now             []string      `json:"now"`
 	TechStack       []string      `json:"techStack"`
 	ActiveBuilds    []projectCard `json:"activeBuilds"`
@@ -42,6 +43,11 @@ type profileConfig struct {
 type heroSection struct {
 	Title string `json:"title"`
 	Body  string `json:"body"`
+}
+
+type ctaLink struct {
+	Label string `json:"label"`
+	URL   string `json:"url"`
 }
 
 type projectCard struct {
@@ -637,6 +643,9 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	fmt.Fprintf(&b, "![Profile Views](https://komarev.com/ghpvc/?username=%s&color=blue&style=flat-square&label=profile+views)\n\n", owner)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
 
+	// Asks, above the fold: the funnel. Repeated again near the end.
+	writeCTAs(&b, profile.CTAs)
+
 	// Now: short bullets that read like a person, not a tagline generator.
 	writeBullets(&b, "Now", profile.Now)
 
@@ -654,6 +663,9 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	writeGitHubStats(&b, profile.GitHubStats, snapshot)
 	writeAIRadar(&b, radar)
 
+	// Asks again at the end, for anyone who scrolled past the top.
+	writeCTAs(&b, profile.CTAs)
+
 	// Collapsed meta footer
 	writeMeta(&b, profile)
 
@@ -667,6 +679,16 @@ func writeBullets(b *strings.Builder, title string, bullets []string) {
 	fmt.Fprintf(b, "## %s\n\n", title)
 	for _, bullet := range bullets {
 		fmt.Fprintf(b, "- %s\n", bullet)
+	}
+	fmt.Fprintln(b)
+}
+
+func writeCTAs(b *strings.Builder, ctas []ctaLink) {
+	if len(ctas) == 0 {
+		return
+	}
+	for _, cta := range ctas {
+		fmt.Fprintf(b, "**[%s](%s)**  \n", cta.Label, cta.URL)
 	}
 	fmt.Fprintln(b)
 }

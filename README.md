@@ -1,10 +1,14 @@
 # Esteban Valencia
 
-I build AI, data, and automation systems that turn messy inputs into tools people can actually use.
+I build AI, data, and automation systems for founders and teams who need messy inputs turned into tools people can actually use.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Esturban&color=blue&style=flat-square&label=profile+views)
 
 [Portfolio](https://works.estebanvalencia.com) · [LinkedIn](https://linkedin.com/in/valest) · [Resume](https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link)
+
+**[Building in AI/automation too? Let's connect.](https://linkedin.com/in/valest)**  
+**[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
+**[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
 
 ## Now
 
@@ -15,22 +19,20 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 
 ## Active Builds
 
-- [niche-radar](https://github.com/Esturban/niche-radar) ★0: A niche finder that pulls from external sources and turns noisy market inputs into signals you can use.
-- [ingo](https://github.com/Esturban/ingo) ★0: A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
-- [li-jobs](https://github.com/Esturban/li-jobs) ★0: A jobs collection API for scraping, normalization, and downstream job-data workflows.
+- [niche-radar](https://github.com/Esturban/niche-radar): A niche finder that pulls from external sources and turns noisy market inputs into signals you can use.
+- [ingo](https://github.com/Esturban/ingo): A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
+- [li-jobs](https://github.com/Esturban/li-jobs): A jobs collection API for scraping, normalization, and downstream job-data workflows.
 
 ## Open Source Tools
 
-- [bfr](https://github.com/Esturban/bfr) ★0: A Go CLI and importable client for Buffer's GraphQL API: channels, ideas, drafts, threaded and image posts, from the terminal.
-- [open_ksa](https://github.com/Esturban/open_ksa) ★3: A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
-- [tidyup](https://github.com/Esturban/tidyup) ★0: A CLI utility for sorting files and folders by extension and date.
-- [translagent](https://github.com/Esturban/translagent) ★0: A translation app with transliteration and audio support, built end to end.
+- [bfr](https://github.com/Esturban/bfr): A Go CLI and importable client for Buffer's GraphQL API: channels, ideas, drafts, threaded and image posts, from the terminal.
+- [open_ksa](https://github.com/Esturban/open_ksa): A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
+- [tidyup](https://github.com/Esturban/tidyup): A CLI utility for sorting files and folders by extension and date.
+- [translagent](https://github.com/Esturban/translagent): A translation app with transliteration and audio support, built end to end.
 
 **Private work:** Purchase-Likelihood Scoring Pipeline · Geodatabase Validation Toolkit · ATS Scanner. More at [works.estebanvalencia.com](https://works.estebanvalencia.com).
 
 ## GitHub Snapshot
-
-![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-51-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -43,5 +45,9 @@ I build AI, data, and automation systems that turn messy inputs into tools peopl
 - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (Hugging Face, 30 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
+
+**[Building in AI/automation too? Let's connect.](https://linkedin.com/in/valest)**  
+**[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
+**[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
 
 <sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update)</sub>

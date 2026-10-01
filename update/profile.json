@@ -6,9 +6,23 @@
   "resumeUrl": "https://drive.google.com/file/d/1fR3TbfQXS4BPCzVVwwYuibmrGC4Z13Go/view?usp=drive_link",
   "githubUrl": "https://github.com/Esturban",
   "hero": {
-    "title": "I build AI, data, and automation systems that turn messy inputs into tools people can actually use.",
+    "title": "I build AI, data, and automation systems for founders and teams who need messy inputs turned into tools people can actually use.",
     "body": "This profile is where I share what I'm building, the open-source work behind it, the private systems I can talk about, and the AI signals I keep an eye on."
   },
+  "ctas": [
+    {
+      "label": "Building in AI/automation too? Let's connect.",
+      "url": "https://linkedin.com/in/valest"
+    },
+    {
+      "label": "Hiring for AI/data roles? Open to a conversation.",
+      "url": "mailto:info.evadvisory@gmail.com?subject=Interview%20request"
+    },
+    {
+      "label": "Need an AI or automation system built? Let's scope it.",
+      "url": "mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry"
+    }
+  ],
   "now": [
     "Building retrieval, validation, and scoring systems across AI and data workflows.",
     "Shipping repo-native tools that bring geospatial, finance, and ML work into the same decision flow."
