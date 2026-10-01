@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "seenAt": "2026-09-30T05:36:55Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "seenAt": "2026-09-30T12:39:45Z"
     },
     {
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "seenAt": "2026-09-30T22:19:04Z"
+    },
+    {
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "seenAt": "2026-10-01T06:00:58Z"
     }
   ],
   "lastItems": [
@@ -22,17 +22,17 @@
       "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-30T00:00:00Z"
-    },
-    {
       "title": "Ollama now supports Jev-style decision models",
       "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
       "source": "Ollama",
       "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.",
       "publishedAt": "2026-09-29T00:00:00Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-30T00:00:00Z"
     }
   ]
 }
