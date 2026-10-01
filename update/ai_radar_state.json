@@ -1,50 +1,38 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/omlx",
-      "seenAt": "2026-09-22T16:59:42Z"
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "seenAt": "2026-09-30T12:39:45Z"
     },
     {
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "seenAt": "2026-09-22T21:22:22Z"
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "seenAt": "2026-09-30T22:19:04Z"
     },
     {
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "seenAt": "2026-09-22T21:22:22Z"
-    },
-    {
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "seenAt": "2026-09-23T04:49:03Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "seenAt": "2026-09-23T04:49:03Z"
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "seenAt": "2026-09-23T11:42:27Z"
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "seenAt": "2026-10-01T06:00:58Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "publishedAt": "2026-09-22T12:00:00Z"
-    },
-    {
-      "title": "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "title": "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "source": "Latent.Space",
-      "summary": "overshadowing more efficient GPT6 models from OpenAI",
-      "publishedAt": "2026-09-23T06:41:41Z"
+      "summary": "the most confident DevDay yet.",
+      "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "title": "Ollama now supports Jev-style decision models",
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "source": "Ollama",
+      "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.",
+      "publishedAt": "2026-09-29T00:00:00Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "source": "Hugging Face",
-      "publishedAt": "2026-09-22T00:00:00Z"
+      "publishedAt": "2026-09-30T00:00:00Z"
     }
   ]
 }

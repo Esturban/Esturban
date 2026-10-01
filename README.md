@@ -19,22 +19,20 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## Active Builds
 
-- [niche-radar](https://github.com/Esturban/niche-radar) ★0: A niche finder that pulls from external sources and turns noisy market inputs into signals you can use.
-- [ingo](https://github.com/Esturban/ingo) ★0: A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
-- [li-jobs](https://github.com/Esturban/li-jobs) ★0: A jobs collection API for scraping, normalization, and downstream job-data workflows.
+- [niche-radar](https://github.com/Esturban/niche-radar): A niche finder that pulls from external sources and turns noisy market inputs into signals you can use.
+- [ingo](https://github.com/Esturban/ingo): A shell-first RAG CLI for PDFs, OCR, embeddings, and vector search without a heavy app runtime.
+- [li-jobs](https://github.com/Esturban/li-jobs): A jobs collection API for scraping, normalization, and downstream job-data workflows.
 
 ## Open Source Tools
 
-- [bfr](https://github.com/Esturban/bfr) ★0: A Go CLI and importable client for Buffer's GraphQL API: channels, ideas, drafts, threaded and image posts, from the terminal.
-- [open_ksa](https://github.com/Esturban/open_ksa) ★3: A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
-- [tidyup](https://github.com/Esturban/tidyup) ★0: A CLI utility for sorting files and folders by extension and date.
-- [translagent](https://github.com/Esturban/translagent) ★0: A translation app with transliteration and audio support, built end to end.
+- [bfr](https://github.com/Esturban/bfr): A Go CLI and importable client for Buffer's GraphQL API: channels, ideas, drafts, threaded and image posts, from the terminal.
+- [open_ksa](https://github.com/Esturban/open_ksa): A Python utility for working with Saudi Arabia's open data platform across thousands of datasets.
+- [tidyup](https://github.com/Esturban/tidyup): A CLI utility for sorting files and folders by extension and date.
+- [translagent](https://github.com/Esturban/translagent): A translation app with transliteration and audio support, built end to end.
 
 **Private work:** Purchase-Likelihood Scoring Pipeline · Geodatabase Validation Toolkit · ATS Scanner. More at [works.estebanvalencia.com](https://works.estebanvalencia.com).
 
 ## GitHub Snapshot
-
-![Public Repos](https://img.shields.io/badge/Public%20Repos-50-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-51-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -42,9 +40,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
-- [Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%](https://www.latent.space/p/ainews-claude-opus-55-the-new-default) (Latent.Space, 23 Sep 2026)
-- [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (Hugging Face, 22 Sep 2026)
+- [OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU](https://www.latent.space/p/ainews-openai-devday-2026-dots-61) (Latent.Space, 30 Sep 2026)
+- [Ollama now supports Jev-style decision models](https://ollama.com/blog/ollama-now-supports-jev-style-decision-models) (Ollama, 29 Sep 2026)
+- [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (Hugging Face, 30 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
@@ -52,4 +50,4 @@ Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 **[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
 **[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
 
-<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update) · [LiveBench](https://livebench.ai)</sub>
+<sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update)</sub>
