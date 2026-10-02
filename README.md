@@ -42,9 +42,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU](https://www.latent.space/p/ainews-openai-devday-2026-dots-61) (Latent.Space, 30 Sep 2026)
+- [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) (OpenAI, 2 Oct 2026)
+- [Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience](https://www.latent.space/p/airbnb) (Latent.Space, 2 Oct 2026)
 - [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) (Hugging Face, 2 Oct 2026)
-- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) (OpenAI, 1 Oct 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

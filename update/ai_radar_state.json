@@ -11,28 +11,36 @@
     {
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "seenAt": "2026-10-02T10:28:48Z"
+    },
+    {
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "seenAt": "2026-10-02T20:42:06Z"
+    },
+    {
+      "url": "https://www.latent.space/p/airbnb",
+      "seenAt": "2026-10-02T20:42:06Z"
     }
   ],
   "lastItems": [
     {
-      "title": "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00Z"
+    },
+    {
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "url": "https://www.latent.space/p/airbnb",
       "source": "Latent.Space",
-      "summary": "the most confident DevDay yet.",
-      "publishedAt": "2026-09-30T05:53:10Z"
+      "summary": "After leading Meta\u0026#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI \u0026#8212; from how its teams develop products to how it serves guests.",
+      "publishedAt": "2026-10-02T14:04:49Z"
     },
     {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "source": "Hugging Face",
       "publishedAt": "2026-10-02T04:01:31Z"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "publishedAt": "2026-10-01T16:00:00Z"
     }
   ]
 }
