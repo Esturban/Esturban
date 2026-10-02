@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "seenAt": "2026-09-30T22:19:04Z"
-    },
-    {
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "seenAt": "2026-10-01T06:00:58Z"
-    },
-    {
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "seenAt": "2026-10-01T21:01:02Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "seenAt": "2026-10-02T10:28:48Z"
+    },
+    {
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "seenAt": "2026-10-02T10:28:48Z"
     }
   ],
   "lastItems": [
@@ -22,17 +22,17 @@
       "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
-      "title": "Ollama now supports Jev-style decision models",
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "source": "Ollama",
-      "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.",
-      "publishedAt": "2026-09-29T00:00:00Z"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-02T04:01:31Z"
     },
     {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-30T00:00:00Z"
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "publishedAt": "2026-10-01T16:00:00Z"
     }
   ]
 }
