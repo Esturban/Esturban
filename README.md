@@ -34,7 +34,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-52-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-53-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) (OpenAI, 2 Oct 2026)
 - [Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience](https://www.latent.space/p/airbnb) (Latent.Space, 2 Oct 2026)
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) (Hugging Face, 2 Oct 2026)
+- [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) (Hugging Face, 2 Oct 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

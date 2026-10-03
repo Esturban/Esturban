@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "seenAt": "2026-10-02T10:28:48Z"
-    },
-    {
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "seenAt": "2026-10-02T10:28:48Z"
-    },
-    {
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "seenAt": "2026-10-02T20:42:06Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/allenai/astabrief",
       "seenAt": "2026-10-03T09:50:48Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "seenAt": "2026-10-03T19:12:14Z"
     }
   ],
   "lastItems": [
@@ -37,10 +33,10 @@
       "publishedAt": "2026-10-02T14:04:49Z"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "source": "Hugging Face",
-      "publishedAt": "2026-10-02T15:19:50Z"
+      "publishedAt": "2026-10-02T04:01:31Z"
     }
   ]
 }
