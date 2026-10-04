@@ -643,7 +643,7 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	fmt.Fprintf(&b, "![Profile Views](https://komarev.com/ghpvc/?username=%s&color=blue&style=flat-square&label=profile+views)\n\n", owner)
 	fmt.Fprintf(&b, "[Portfolio](%s) · [LinkedIn](%s) · [Resume](%s)\n\n", profile.PortfolioURL, profile.LinkedInURL, profile.ResumeURL)
 
-	// Asks, above the fold: the funnel. Repeated again near the end.
+	// Asks, above the fold: the funnel. Rendered once.
 	writeCTAs(&b, profile.CTAs)
 
 	// Now: short bullets that read like a person, not a tagline generator.
@@ -662,9 +662,6 @@ func renderReadme(profile profileConfig, radar []radarItem, stars map[string]int
 	// Live signals: stats plus streak, then AI Radar.
 	writeGitHubStats(&b, profile.GitHubStats, snapshot)
 	writeAIRadar(&b, radar)
-
-	// Asks again at the end, for anyone who scrolled past the top.
-	writeCTAs(&b, profile.CTAs)
 
 	// Collapsed meta footer
 	writeMeta(&b, profile)
