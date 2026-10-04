@@ -1,20 +1,20 @@
 {
   "recent": [
     {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "seenAt": "2026-10-03T19:12:14Z"
+    },
+    {
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "seenAt": "2026-10-02T20:42:06Z"
+      "seenAt": "2026-10-04T10:33:16Z"
     },
     {
       "url": "https://www.latent.space/p/airbnb",
-      "seenAt": "2026-10-02T20:42:06Z"
+      "seenAt": "2026-10-04T10:33:16Z"
     },
     {
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "seenAt": "2026-10-03T09:50:48Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "seenAt": "2026-10-03T19:12:14Z"
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "seenAt": "2026-10-04T10:33:16Z"
     }
   ],
   "lastItems": [
@@ -33,10 +33,10 @@
       "publishedAt": "2026-10-02T14:04:49Z"
     },
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face",
-      "publishedAt": "2026-10-02T04:01:31Z"
+      "publishedAt": "2026-10-03T22:56:48Z"
     }
   ]
 }
