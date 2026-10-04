@@ -53,3 +53,11 @@ func TestWriteGitHubStatsRendersBadgesAndStreak(t *testing.T) {
 		t.Fatalf("expected output to avoid paused stats service, got %q", out)
 	}
 }
+
+func TestRenderReadmeWritesCTAsOnce(t *testing.T) {
+	profile := profileConfig{CTAs: []ctaLink{{Label: "Let's connect.", URL: "https://example.com"}}}
+	out := renderReadme(profile, nil, nil, githubSnapshot{})
+	if got := strings.Count(out, "Let's connect."); got != 1 {
+		t.Fatalf("CTA block rendered %d times, want 1", got)
+	}
+}
