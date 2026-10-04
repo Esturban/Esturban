@@ -48,8 +48,4 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
-**[Building in AI/automation too? Let's connect.](https://linkedin.com/in/valest)**  
-**[Hiring for AI/data roles? Open to a conversation.](mailto:info.evadvisory@gmail.com?subject=Interview%20request)**  
-**[Need an AI or automation system built? Let's scope it.](mailto:info.evadvisory@gmail.com?subject=Freelance%20project%20inquiry)**  
-
 <sub>Live artifact. Go + GitHub Actions rewrites this every 6h and scores 6 AI feeds for recency and relevance. [Source](https://github.com/Esturban/Esturban/tree/main/update)</sub>
