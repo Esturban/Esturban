@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) (OpenAI, 2 Oct 2026)
 - [Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience](https://www.latent.space/p/airbnb) (Latent.Space, 2 Oct 2026)
-- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) (Hugging Face, 3 Oct 2026)
+- [Ollama now supports Jev-style decision models](https://ollama.com/blog/ollama-now-supports-jev-style-decision-models) (Ollama, 29 Sep 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

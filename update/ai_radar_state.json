@@ -2,15 +2,15 @@
   "recent": [
     {
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "seenAt": "2026-10-04T10:33:16Z"
+      "seenAt": "2026-10-05T11:25:24Z"
     },
     {
       "url": "https://www.latent.space/p/airbnb",
-      "seenAt": "2026-10-04T10:33:16Z"
+      "seenAt": "2026-10-05T11:25:24Z"
     },
     {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "seenAt": "2026-10-04T10:33:16Z"
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "seenAt": "2026-10-05T11:25:24Z"
     }
   ],
   "lastItems": [
@@ -29,10 +29,11 @@
       "publishedAt": "2026-10-02T14:04:49Z"
     },
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-03T22:56:48Z"
+      "title": "Ollama now supports Jev-style decision models",
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "source": "Ollama",
+      "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.",
+      "publishedAt": "2026-09-29T00:00:00Z"
     }
   ]
 }
