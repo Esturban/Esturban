@@ -11,22 +11,30 @@
     {
       "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
       "seenAt": "2026-10-05T11:25:24Z"
+    },
+    {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "seenAt": "2026-10-05T22:36:16Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "seenAt": "2026-10-05T22:36:16Z"
     }
   ],
   "lastItems": [
     {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "source": "OpenAI",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "publishedAt": "2026-10-02T16:15:00Z"
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "publishedAt": "2026-10-05T10:00:00Z"
     },
     {
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "url": "https://www.latent.space/p/airbnb",
+      "title": "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "source": "Latent.Space",
-      "summary": "After leading Meta\u0026#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI \u0026#8212; from how its teams develop products to how it serves guests.",
-      "publishedAt": "2026-10-02T14:04:49Z"
+      "summary": "the most confident DevDay yet.",
+      "publishedAt": "2026-09-30T05:53:10Z"
     },
     {
       "title": "Ollama now supports Jev-style decision models",
