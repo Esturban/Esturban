@@ -42,9 +42,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement) (OpenAI, 5 Oct 2026)
-- [OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU](https://www.latent.space/p/ainews-openai-devday-2026-dots-61) (Latent.Space, 30 Sep 2026)
-- [Ollama now supports Jev-style decision models](https://ollama.com/blog/ollama-now-supports-jev-style-decision-models) (Ollama, 29 Sep 2026)
+- [Reflection Beam - 501B-A23B American Open Model](https://www.latent.space/p/ainews-reflection-beam-501b-a23b) (Latent.Space, 6 Oct 2026)
+- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) (OpenAI, 22 Sep 2026)
+- [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati) (Hugging Face, 6 Oct 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

@@ -19,29 +19,40 @@
     {
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "seenAt": "2026-10-05T22:36:16Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "seenAt": "2026-10-06T11:14:25Z"
+    },
+    {
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "seenAt": "2026-10-06T11:14:25Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "seenAt": "2026-10-06T11:14:25Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "publishedAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "title": "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "title": "Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
       "source": "Latent.Space",
-      "summary": "the most confident DevDay yet.",
-      "publishedAt": "2026-09-30T05:53:10Z"
+      "summary": "A small win for US open source",
+      "publishedAt": "2026-10-06T06:28:43Z"
     },
     {
-      "title": "Ollama now supports Jev-style decision models",
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "source": "Ollama",
-      "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.",
-      "publishedAt": "2026-09-29T00:00:00Z"
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "publishedAt": "2026-09-22T12:00:00Z"
+    },
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-06T06:44:39Z"
     }
   ]
 }
