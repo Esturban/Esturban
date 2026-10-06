@@ -1,18 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "seenAt": "2026-10-05T11:25:24Z"
-    },
-    {
-      "url": "https://www.latent.space/p/airbnb",
-      "seenAt": "2026-10-05T11:25:24Z"
-    },
-    {
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "seenAt": "2026-10-05T11:25:24Z"
-    },
-    {
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "seenAt": "2026-10-05T22:36:16Z"
     },
@@ -31,9 +19,23 @@
     {
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
       "seenAt": "2026-10-06T11:14:25Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "seenAt": "2026-10-06T20:58:11Z"
+    },
+    {
+      "url": "https://openai.com/index/atlassian-partnership",
+      "seenAt": "2026-10-06T20:58:11Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "DeepMind",
+      "publishedAt": "2026-10-06T19:57:04Z"
+    },
     {
       "title": "Reflection Beam - 501B-A23B American Open Model",
       "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
@@ -42,17 +44,11 @@
       "publishedAt": "2026-10-06T06:28:43Z"
     },
     {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
       "source": "OpenAI",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "publishedAt": "2026-09-22T12:00:00Z"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-06T06:44:39Z"
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "publishedAt": "2026-10-06T16:00:00Z"
     }
   ]
 }
