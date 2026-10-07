@@ -1,27 +1,25 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "seenAt": "2026-10-06T11:14:25Z"
-    },
-    {
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "seenAt": "2026-10-06T11:14:25Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "seenAt": "2026-10-06T11:14:25Z"
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "seenAt": "2026-10-07T21:16:54Z"
     },
     {
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "seenAt": "2026-10-06T20:58:11Z"
+      "seenAt": "2026-10-07T21:16:54Z"
     },
     {
-      "url": "https://openai.com/index/atlassian-partnership",
-      "seenAt": "2026-10-06T20:58:11Z"
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "seenAt": "2026-10-07T21:16:54Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-07T16:54:33Z"
+    },
     {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -34,13 +32,6 @@
       "source": "Latent.Space",
       "summary": "A small win for US open source",
       "publishedAt": "2026-10-06T06:28:43Z"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "publishedAt": "2026-10-06T16:00:00Z"
     }
   ]
 }
