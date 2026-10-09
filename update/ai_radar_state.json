@@ -15,13 +15,6 @@
   ],
   "lastItems": [
     {
-      "title": "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "source": "Latent.Space",
-      "summary": "yay small models",
-      "publishedAt": "2026-10-08T07:27:51Z"
-    },
-    {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "source": "DeepMind",
@@ -32,6 +25,13 @@
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "source": "Hugging Face",
       "publishedAt": "2026-10-07T16:54:33Z"
+    },
+    {
+      "title": "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "source": "Latent.Space",
+      "summary": "yay small models",
+      "publishedAt": "2026-10-08T07:27:51Z"
     }
   ]
 }
