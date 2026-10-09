@@ -42,7 +42,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (DeepMind, 6 Oct 2026)
+- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) (OpenAI, 9 Oct 2026)
 - [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) (Hugging Face, 7 Oct 2026)
 - [Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing](https://www.latent.space/p/ainews-claude-haiku-55-better-than) (Latent.Space, 8 Oct 2026)
 

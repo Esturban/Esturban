@@ -1,24 +1,29 @@
 {
   "recent": [
     {
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "seenAt": "2026-10-08T11:20:04Z"
-    },
-    {
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "seenAt": "2026-10-08T21:17:35Z"
     },
     {
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "seenAt": "2026-10-08T21:17:35Z"
+    },
+    {
+      "url": "https://openai.com/index/asana-browser-agent",
+      "seenAt": "2026-10-09T20:51:42Z"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "seenAt": "2026-10-09T20:51:42Z"
     }
   ],
   "lastItems": [
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "DeepMind",
-      "publishedAt": "2026-10-06T19:57:04Z"
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "publishedAt": "2026-10-09T07:00:00Z"
     },
     {
       "title": "Multimodal open d1 decision models for the edge",
