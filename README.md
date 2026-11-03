@@ -34,7 +34,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-53-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-60-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -42,9 +42,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) (OpenAI, 9 Oct 2026)
-- [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) (Hugging Face, 7 Oct 2026)
-- [Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing](https://www.latent.space/p/ainews-claude-haiku-55-better-than) (Latent.Space, 8 Oct 2026)
+- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) (OpenAI, 27 Oct 2026)
+- [How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands](https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/) (Latent.Space, 27 Oct 2026)
+- [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel) (Hugging Face, 29 Oct 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

@@ -1,38 +1,38 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/asana-browser-agent",
-      "seenAt": "2026-10-09T20:51:42Z"
+      "url": "https://openai.com/index/retell-ai",
+      "seenAt": "2026-11-03T04:36:19Z"
     },
     {
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "seenAt": "2026-10-09T20:51:42Z"
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
+      "seenAt": "2026-11-03T04:36:19Z"
     },
     {
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "seenAt": "2026-10-10T10:34:45Z"
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "seenAt": "2026-11-03T04:36:19Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
       "source": "OpenAI",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00Z"
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "publishedAt": "2026-10-27T15:00:00Z"
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-07T16:54:33Z"
-    },
-    {
-      "title": "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
       "source": "Latent.Space",
-      "summary": "yay small models",
-      "publishedAt": "2026-10-08T07:27:51Z"
+      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
+      "publishedAt": "2026-10-27T18:40:19Z"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00Z"
     }
   ]
 }
