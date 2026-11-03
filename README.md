@@ -42,9 +42,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) (OpenAI, 27 Oct 2026)
-- [How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands](https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/) (Latent.Space, 27 Oct 2026)
-- [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel) (Hugging Face, 29 Oct 2026)
+- [LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop](https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/) (Latent.Space, 3 Nov 2026)
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) (OpenAI, 28 Oct 2026)
+- [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench) (Hugging Face, 3 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
