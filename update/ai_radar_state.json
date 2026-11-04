@@ -2,15 +2,15 @@
   "recent": [
     {
       "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
-      "seenAt": "2026-11-03T21:48:45Z"
+      "seenAt": "2026-11-04T21:54:33Z"
     },
     {
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "seenAt": "2026-11-03T21:48:45Z"
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "seenAt": "2026-11-04T21:54:33Z"
     },
     {
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "seenAt": "2026-11-03T21:48:45Z"
+      "url": "https://openai.com/index/retell-ai",
+      "seenAt": "2026-11-04T21:54:33Z"
     }
   ],
   "lastItems": [
@@ -22,17 +22,17 @@
       "publishedAt": "2026-11-03T05:35:00Z"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "publishedAt": "2026-10-28T13:15:00Z"
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-03T17:15:21Z"
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "publishedAt": "2026-10-27T15:00:00Z"
     }
   ]
 }
