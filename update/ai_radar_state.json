@@ -11,6 +11,10 @@
     {
       "url": "https://openai.com/index/retell-ai",
       "seenAt": "2026-11-04T21:54:33Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "seenAt": "2026-11-05T12:24:50Z"
     }
   ],
   "lastItems": [
@@ -22,10 +26,10 @@
       "publishedAt": "2026-11-03T05:35:00Z"
     },
     {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face",
-      "publishedAt": "2026-10-29T00:00:00Z"
+      "publishedAt": "2026-11-05T00:00:00Z"
     },
     {
       "title": "Retell uses OpenAI models to help power 100M monthly calls",

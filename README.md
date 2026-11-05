@@ -34,7 +34,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-19-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-60-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-51-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-18-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-60-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -43,7 +43,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 ## AI Radar
 
 - [LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop](https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/) (Latent.Space, 3 Nov 2026)
-- [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel) (Hugging Face, 29 Oct 2026)
+- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts) (Hugging Face, 5 Nov 2026)
 - [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) (OpenAI, 27 Oct 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
