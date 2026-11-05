@@ -1,42 +1,42 @@
 {
   "recent": [
     {
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
-      "seenAt": "2026-11-04T21:54:33Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "seenAt": "2026-11-04T21:54:33Z"
-    },
-    {
-      "url": "https://openai.com/index/retell-ai",
-      "seenAt": "2026-11-04T21:54:33Z"
-    },
-    {
       "url": "https://huggingface.co/blog/phonon-tts",
       "seenAt": "2026-11-05T12:24:50Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "seenAt": "2026-11-05T22:00:29Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "seenAt": "2026-11-05T22:00:29Z"
+    },
+    {
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
+      "seenAt": "2026-11-05T22:00:29Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-05T19:35:16Z"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00Z"
+    },
     {
       "title": "LLMs can read \u0026 write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
       "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
       "source": "Latent.Space",
       "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
       "publishedAt": "2026-11-03T05:35:00Z"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-05T00:00:00Z"
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "publishedAt": "2026-10-27T15:00:00Z"
     }
   ]
 }
