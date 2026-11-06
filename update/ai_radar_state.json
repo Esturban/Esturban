@@ -15,6 +15,10 @@
     {
       "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
       "seenAt": "2026-11-05T22:00:29Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "seenAt": "2026-11-06T12:09:14Z"
     }
   ],
   "lastItems": [
@@ -32,11 +36,11 @@
       "publishedAt": "2026-11-05T09:00:00Z"
     },
     {
-      "title": "LLMs can read \u0026 write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-      "source": "Latent.Space",
-      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
-      "publishedAt": "2026-11-03T05:35:00Z"
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\"\u003eGemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "publishedAt": "2026-11-05T17:00:00Z"
     }
   ]
 }
