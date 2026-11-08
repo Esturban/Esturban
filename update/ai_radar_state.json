@@ -15,17 +15,17 @@
   ],
   "lastItems": [
     {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-05T19:35:16Z"
-    },
-    {
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI",
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "publishedAt": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-05T19:35:16Z"
     },
     {
       "title": "LLMs can read \u0026 write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
