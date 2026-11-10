@@ -1,18 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
-      "seenAt": "2026-11-09T12:54:39Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "seenAt": "2026-11-09T12:54:39Z"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "seenAt": "2026-11-09T12:54:39Z"
-    },
-    {
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "seenAt": "2026-11-10T00:16:12Z"
     },
@@ -23,29 +11,40 @@
     {
       "url": "https://deepmind.google/blog/introducing-alphaproof-code",
       "seenAt": "2026-11-10T12:41:38Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "seenAt": "2026-11-10T21:49:09Z"
+    },
+    {
+      "url": "https://latent.space/p/resend",
+      "seenAt": "2026-11-10T21:49:09Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/decision",
+      "seenAt": "2026-11-10T21:49:09Z"
     }
   ],
   "lastItems": [
     {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "publishedAt": "2026-11-09T08:00:00Z"
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\"\u003eGoogle Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "publishedAt": "2026-11-10T13:00:00Z"
     },
     {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind",
-      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-      "publishedAt": "2026-11-10T12:02:28Z"
-    },
-    {
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "url": "https://latent.space/p/resend/",
       "source": "Latent.Space",
-      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "publishedAt": "2026-11-08T21:23:29Z"
+      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+      "publishedAt": "2026-11-10T20:05:17Z"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-10T00:00:00Z"
     }
   ]
 }
