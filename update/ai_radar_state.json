@@ -19,6 +19,10 @@
     {
       "url": "https://huggingface.co/blog/allenai/toyblocks",
       "seenAt": "2026-11-10T00:16:12Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "seenAt": "2026-11-10T12:41:38Z"
     }
   ],
   "lastItems": [
@@ -30,17 +34,18 @@
       "publishedAt": "2026-11-09T08:00:00Z"
     },
     {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "DeepMind",
+      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+      "publishedAt": "2026-11-10T12:02:28Z"
+    },
+    {
       "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
       "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
       "source": "Latent.Space",
       "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
       "publishedAt": "2026-11-08T21:23:29Z"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-06T14:00:48Z"
     }
   ]
 }
