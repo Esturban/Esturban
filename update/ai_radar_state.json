@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "seenAt": "2026-11-10T00:16:12Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "seenAt": "2026-11-10T00:16:12Z"
-    },
-    {
       "url": "https://deepmind.google/blog/introducing-alphaproof-code",
       "seenAt": "2026-11-10T12:41:38Z"
     },
@@ -23,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/decision",
       "seenAt": "2026-11-10T21:49:09Z"
+    },
+    {
+      "url": "https://openai.com/index/cogent-security",
+      "seenAt": "2026-11-11T11:54:07Z"
     }
   ],
   "lastItems": [
@@ -41,9 +37,10 @@
       "publishedAt": "2026-11-10T20:05:17Z"
     },
     {
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
       "publishedAt": "2026-11-10T00:00:00Z"
     }
   ]
