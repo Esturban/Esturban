@@ -1,40 +1,31 @@
 {
   "recent": [
     {
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "seenAt": "2026-11-10T12:41:38Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "seenAt": "2026-11-10T21:49:09Z"
-    },
-    {
-      "url": "https://latent.space/p/resend",
-      "seenAt": "2026-11-10T21:49:09Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/decision",
-      "seenAt": "2026-11-10T21:49:09Z"
-    },
-    {
       "url": "https://openai.com/index/cogent-security",
       "seenAt": "2026-11-11T11:54:07Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "seenAt": "2026-11-11T22:42:32Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/token-pooling",
+      "seenAt": "2026-11-11T22:42:32Z"
     }
   ],
   "lastItems": [
     {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\"\u003eGoogle Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "publishedAt": "2026-11-10T13:00:00Z"
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "publishedAt": "2026-11-11T18:00:00Z"
     },
     {
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "url": "https://latent.space/p/resend/",
-      "source": "Latent.Space",
-      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "publishedAt": "2026-11-10T20:05:17Z"
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-11T00:00:00Z"
     },
     {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",

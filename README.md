@@ -42,8 +42,8 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/) (Google AI, 10 Nov 2026)
-- [Designing for Agents — Zeno Rocha, Resend](https://latent.space/p/resend/) (Latent.Space, 10 Nov 2026)
+- [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (Google AI, 11 Nov 2026)
+- [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling) (Hugging Face, 11 Nov 2026)
 - [Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security) (OpenAI, 10 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
