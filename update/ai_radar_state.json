@@ -11,9 +11,24 @@
     {
       "url": "https://openai.com/index/cogent-security",
       "seenAt": "2026-11-12T12:45:25Z"
+    },
+    {
+      "url": "https://openai.com/index/amplitude",
+      "seenAt": "2026-11-12T22:15:24Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "seenAt": "2026-11-12T22:15:24Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "source": "OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "publishedAt": "2026-11-12T20:00:00Z"
+    },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -22,17 +37,10 @@
       "publishedAt": "2026-11-11T18:00:00Z"
     },
     {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "publishedAt": "2026-11-10T00:00:00Z"
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "source": "Hugging Face",
-      "publishedAt": "2026-11-11T00:00:00Z"
+      "publishedAt": "2026-11-12T00:00:00Z"
     }
   ]
 }
