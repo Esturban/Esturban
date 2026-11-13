@@ -42,9 +42,9 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude) (OpenAI, 12 Nov 2026)
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) (OpenAI, 12 Nov 2026)
 - [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (Google AI, 11 Nov 2026)
-- [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning) (Hugging Face, 12 Nov 2026)
+- [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling) (Hugging Face, 11 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
