@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/amplitude",
-      "seenAt": "2026-11-12T22:15:24Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "seenAt": "2026-11-12T22:15:24Z"
-    },
-    {
       "url": "https://openai.com/business/customer-stories/amplitude",
       "seenAt": "2026-11-13T12:14:52Z"
     },
@@ -19,6 +11,10 @@
     {
       "url": "https://huggingface.co/blog/token-pooling",
       "seenAt": "2026-11-13T12:14:52Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "seenAt": "2026-11-14T11:30:27Z"
     }
   ],
   "lastItems": [
@@ -37,10 +33,10 @@
       "publishedAt": "2026-11-11T18:00:00Z"
     },
     {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "source": "Hugging Face",
-      "publishedAt": "2026-11-11T00:00:00Z"
+      "publishedAt": "2026-11-12T00:00:00Z"
     }
   ]
 }
