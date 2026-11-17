@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) (OpenAI, 16 Nov 2026)
 - [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (Google AI, 11 Nov 2026)
-- [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling) (Hugging Face, 11 Nov 2026)
+- [Perplexity hits a $1B revenue run rate, up 4x in 2026](https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/) (Latent.Space, 17 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

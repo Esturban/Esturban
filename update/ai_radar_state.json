@@ -1,16 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://huggingface.co/blog/token-pooling",
-      "seenAt": "2026-11-16T12:47:42Z"
-    },
-    {
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "seenAt": "2026-11-17T00:15:39Z"
     },
     {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
       "seenAt": "2026-11-17T00:15:39Z"
+    },
+    {
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026",
+      "seenAt": "2026-11-17T13:29:05Z"
     }
   ],
   "lastItems": [
@@ -29,10 +29,11 @@
       "publishedAt": "2026-11-11T18:00:00Z"
     },
     {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-11T00:00:00Z"
+      "title": "Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "source": "Latent.Space",
+      "summary": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+      "publishedAt": "2026-11-17T09:24:56Z"
     }
   ]
 }
