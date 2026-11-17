@@ -42,7 +42,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) (OpenAI, 12 Nov 2026)
+- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) (OpenAI, 16 Nov 2026)
 - [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (Google AI, 11 Nov 2026)
 - [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling) (Hugging Face, 11 Nov 2026)
 
