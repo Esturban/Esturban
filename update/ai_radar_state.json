@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026",
-      "seenAt": "2026-11-17T13:29:05Z"
-    },
-    {
       "url": "https://openai.com/index/astra-law-6-2",
       "seenAt": "2026-11-17T23:31:45Z"
     },
@@ -19,9 +15,24 @@
     {
       "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
       "seenAt": "2026-11-18T13:06:02Z"
+    },
+    {
+      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "seenAt": "2026-11-18T22:57:12Z"
+    },
+    {
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "seenAt": "2026-11-18T22:57:12Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Making open models work for long-horizon agentic workloads",
+      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "source": "Ollama",
+      "summary": "Prefix caching helps coding agents stay fast as conversations grow. Prompts, tool calls, and inference routing determine how much work the model can reuse.",
+      "publishedAt": "2026-11-16T00:00:00Z"
+    },
     {
       "title": "GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
       "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
@@ -30,18 +41,11 @@
       "publishedAt": "2026-11-18T10:19:04Z"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "publishedAt": "2026-11-17T00:00:00Z"
-    },
-    {
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp\"\u003eTasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "publishedAt": "2026-11-17T17:00:00Z"
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "publishedAt": "2026-11-18T00:00:00Z"
     }
   ]
 }
