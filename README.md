@@ -42,8 +42,8 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## AI Radar
 
+- [GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse](https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/) (Latent.Space, 18 Nov 2026)
 - [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2) (OpenAI, 17 Nov 2026)
-- [Cloudflare Joins the Jevolution and Labels Itself a Neolab](https://latent.space/p/cloudflare/) (Latent.Space, 17 Nov 2026)
 - [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) (Google AI, 17 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
