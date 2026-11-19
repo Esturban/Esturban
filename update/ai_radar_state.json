@@ -1,28 +1,20 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/astra-law-6-2",
-      "seenAt": "2026-11-17T23:31:45Z"
-    },
-    {
-      "url": "https://latent.space/p/cloudflare",
-      "seenAt": "2026-11-17T23:31:45Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "seenAt": "2026-11-17T23:31:45Z"
-    },
-    {
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
-      "seenAt": "2026-11-18T13:06:02Z"
-    },
-    {
       "url": "https://ollama.com/blog/open-models-long-horizon-agents",
       "seenAt": "2026-11-18T22:57:12Z"
     },
     {
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "seenAt": "2026-11-18T22:57:12Z"
+    },
+    {
+      "url": "https://openai.com/index/astra-law-6-2",
+      "seenAt": "2026-11-19T13:12:50Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "seenAt": "2026-11-19T13:12:50Z"
     }
   ],
   "lastItems": [
@@ -34,18 +26,17 @@
       "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "title": "GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "source": "Latent.Space",
-      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "publishedAt": "2026-11-18T10:19:04Z"
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "publishedAt": "2026-11-17T00:00:00Z"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "publishedAt": "2026-11-18T00:00:00Z"
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-18T15:00:23Z"
     }
   ]
 }
