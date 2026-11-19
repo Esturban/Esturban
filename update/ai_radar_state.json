@@ -1,23 +1,30 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
-      "seenAt": "2026-11-18T22:57:12Z"
-    },
-    {
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "seenAt": "2026-11-18T22:57:12Z"
-    },
-    {
       "url": "https://openai.com/index/astra-law-6-2",
       "seenAt": "2026-11-19T13:12:50Z"
     },
     {
       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
       "seenAt": "2026-11-19T13:12:50Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "seenAt": "2026-11-19T23:03:56Z"
+    },
+    {
+      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "seenAt": "2026-11-19T23:03:56Z"
     }
   ],
   "lastItems": [
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "publishedAt": "2026-11-19T18:00:00Z"
+    },
     {
       "title": "Making open models work for long-horizon agentic workloads",
       "url": "https://ollama.com/blog/open-models-long-horizon-agents",
@@ -31,12 +38,6 @@
       "source": "OpenAI",
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "publishedAt": "2026-11-17T00:00:00Z"
-    },
-    {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-18T15:00:23Z"
     }
   ]
 }
