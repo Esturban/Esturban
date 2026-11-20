@@ -1,14 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/astra-law-6-2",
-      "seenAt": "2026-11-19T13:12:50Z"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "seenAt": "2026-11-19T13:12:50Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
       "seenAt": "2026-11-19T23:03:56Z"
     },
@@ -19,16 +11,13 @@
     {
       "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
       "seenAt": "2026-11-20T12:56:16Z"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "seenAt": "2026-11-20T22:40:53Z"
     }
   ],
   "lastItems": [
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "publishedAt": "2026-11-19T18:00:00Z"
-    },
     {
       "title": "Making open models work for long-horizon agentic workloads",
       "url": "https://ollama.com/blog/open-models-long-horizon-agents",
@@ -37,11 +26,18 @@
       "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "title": "GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "source": "Latent.Space",
-      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "publishedAt": "2026-11-18T10:19:04Z"
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "publishedAt": "2026-11-19T18:00:00Z"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "publishedAt": "2026-11-20T00:00:00Z"
     }
   ]
 }
