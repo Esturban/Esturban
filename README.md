@@ -34,7 +34,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-50-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-17-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-61-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-50-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-17-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-62-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents) (Ollama, 16 Nov 2026)
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) (Google AI, 19 Nov 2026)
-- [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia) (OpenAI, 20 Nov 2026)
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) (OpenAI, 22 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
