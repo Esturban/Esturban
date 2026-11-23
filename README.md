@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents) (Ollama, 16 Nov 2026)
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) (Google AI, 19 Nov 2026)
-- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) (OpenAI, 22 Nov 2026)
+- [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals) (Hugging Face, 23 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 

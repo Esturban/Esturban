@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "seenAt": "2026-11-22T12:37:10Z"
-    },
-    {
       "url": "https://ollama.com/blog/open-models-long-horizon-agents",
       "seenAt": "2026-11-22T21:47:33Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "seenAt": "2026-11-22T21:47:33Z"
+    },
+    {
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "seenAt": "2026-11-23T14:42:22Z"
     }
   ],
   "lastItems": [
@@ -33,11 +33,10 @@
       "publishedAt": "2026-11-19T18:00:00Z"
     },
     {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "publishedAt": "2026-11-22T00:00:00Z"
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-23T00:00:00Z"
     }
   ]
 }
