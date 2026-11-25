@@ -1,24 +1,24 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
-      "seenAt": "2026-11-24T02:54:43Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "seenAt": "2026-11-24T02:54:43Z"
-    },
-    {
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "seenAt": "2026-11-24T02:54:43Z"
-    },
-    {
       "url": "https://huggingface.co/blog/agentic-evals",
       "seenAt": "2026-11-24T14:54:22Z"
     },
     {
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "seenAt": "2026-11-25T00:46:39Z"
+    },
+    {
+      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "seenAt": "2026-11-25T14:26:20Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "seenAt": "2026-11-25T14:26:20Z"
+    },
+    {
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
+      "seenAt": "2026-11-25T14:26:20Z"
     }
   ],
   "lastItems": [
@@ -30,18 +30,18 @@
       "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "publishedAt": "2026-11-24T13:00:00Z"
-    },
-    {
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "publishedAt": "2026-11-19T18:00:00Z"
+    },
+    {
+      "title": "Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "Latent.Space",
+      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "publishedAt": "2026-11-25T04:29:07Z"
     }
   ]
 }

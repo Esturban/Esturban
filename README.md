@@ -34,7 +34,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-50-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-63-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-50-0969da?style=flat-square&labelColor=1f2328) ![Followers](https://img.shields.io/badge/Followers-16-0969da?style=flat-square&labelColor=1f2328) ![Following](https://img.shields.io/badge/Following-64-0969da?style=flat-square&labelColor=1f2328) ![Public Gists](https://img.shields.io/badge/Public%20Gists-12-0969da?style=flat-square&labelColor=1f2328) ![Total Stars](https://img.shields.io/badge/Total%20Stars-7-0969da?style=flat-square&labelColor=1f2328) ![Featured Stars](https://img.shields.io/badge/Featured%20Stars-3-0969da?style=flat-square&labelColor=1f2328)
 
 <p align="left">
   <img width="72%" src="https://streak-stats.demolab.com/?background=00000000&currStreakLabel=1f2328&currStreakNum=1f2328&dates=8c959f&fire=0969da&hide_border=true&ring=0969da&sideLabels=57606a&sideNums=1f2328&theme=transparent&user=Esturban" alt="GitHub streak for Esturban" />
@@ -43,8 +43,8 @@ I build AI, data, and automation systems for founders and teams who need messy i
 ## AI Radar
 
 - [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents) (Ollama, 16 Nov 2026)
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) (OpenAI, 24 Nov 2026)
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) (Google AI, 19 Nov 2026)
+- [Gemini 4 Neon marks GDM's full return as a Frontier Lab](https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/) (Latent.Space, 25 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
