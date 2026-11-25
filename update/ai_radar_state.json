@@ -15,6 +15,10 @@
     {
       "url": "https://huggingface.co/blog/agentic-evals",
       "seenAt": "2026-11-24T14:54:22Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "seenAt": "2026-11-25T00:46:39Z"
     }
   ],
   "lastItems": [
@@ -26,17 +30,18 @@
       "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00Z"
+    },
+    {
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI",
       "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "publishedAt": "2026-11-19T18:00:00Z"
-    },
-    {
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-23T00:00:00Z"
     }
   ]
 }
