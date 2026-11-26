@@ -1,10 +1,6 @@
 {
   "recent": [
     {
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "seenAt": "2026-11-25T00:46:39Z"
-    },
-    {
       "url": "https://ollama.com/blog/open-models-long-horizon-agents",
       "seenAt": "2026-11-25T14:26:20Z"
     },
@@ -15,6 +11,10 @@
     {
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
       "seenAt": "2026-11-25T14:26:20Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "seenAt": "2026-11-26T13:56:04Z"
     }
   ],
   "lastItems": [
@@ -33,11 +33,11 @@
       "publishedAt": "2026-11-19T18:00:00Z"
     },
     {
-      "title": "Gemini 4 Neon marks GDM's full return as a Frontier Lab",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
-      "source": "Latent.Space",
-      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
-      "publishedAt": "2026-11-25T04:29:07Z"
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00Z"
     }
   ]
 }

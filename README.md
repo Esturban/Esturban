@@ -44,7 +44,7 @@ I build AI, data, and automation systems for founders and teams who need messy i
 
 - [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents) (Ollama, 16 Nov 2026)
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) (Google AI, 19 Nov 2026)
-- [Gemini 4 Neon marks GDM's full return as a Frontier Lab](https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/) (Latent.Space, 25 Nov 2026)
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) (OpenAI, 24 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
