@@ -1,20 +1,16 @@
 {
   "recent": [
     {
-      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
-      "seenAt": "2026-11-25T14:26:20Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "seenAt": "2026-11-25T14:26:20Z"
-    },
-    {
-      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
-      "seenAt": "2026-11-25T14:26:20Z"
-    },
-    {
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "seenAt": "2026-11-26T13:56:04Z"
+    },
+    {
+      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "seenAt": "2026-11-27T00:37:01Z"
+    },
+    {
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+      "seenAt": "2026-11-27T00:37:01Z"
     }
   ],
   "lastItems": [
@@ -26,11 +22,11 @@
       "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "summary": "\u003cimg src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\"\u003eGive your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "publishedAt": "2026-11-19T18:00:00Z"
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "Latent.Space",
+      "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "publishedAt": "2026-11-26T23:02:48Z"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
