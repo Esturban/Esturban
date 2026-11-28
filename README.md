@@ -43,8 +43,8 @@ I build AI, data, and automation systems for founders and teams who need messy i
 ## AI Radar
 
 - [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents) (Ollama, 16 Nov 2026)
-- [How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/) (Latent.Space, 26 Nov 2026)
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) (Google AI, 19 Nov 2026)
+- [How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/) (Latent.Space, 26 Nov 2026)
 
 Benchmark pulse: I check [LiveBench](https://livebench.ai) daily.
 
